@@ -1,0 +1,3802 @@
+
+    {
+        "conversation1":[
+            {
+                "speaker": "Person 1",
+                "text": "hi, kaisay ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main theek hoon. tum kaisay ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main bhi theek hoon. poochhnay ka shukriya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "koi masla nahi. to tum kaisay rahey ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main acha hoon. aur tum?"
+            },
+     
+            {
+                "speaker": "Person 2",
+                "text": "main bhi theek hoon. main school mein hoon abhi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kon se school mein jatay ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main PCC mein jata hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya tumhain wahan acha lagta hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "theek hai. yeh ek bohat bara campus hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "school ke liye good luck."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "bohat shukriya."
+            }
+        ],
+
+        "conversation2":[
+            {
+                "speaker": "Person 1",
+                "text": "kaisa chal raha hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main theek hoon. aur tum?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kabhi behtar nahi, shukriya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "to tum lately kaisay rahey ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main waqai main theek hoon. aur tum?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main abhi school mein hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kon se school mein jatay ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main PCC mein parhta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya tum wahan enjoy kar rahey ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "bura nahi. wahan bohat log hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "good luck us mein."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "shukriya."
+            }
+        ],
+        "conversation3":[
+            {
+                "speaker": "Person 1",
+                "text": "tum aaj kaisay ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main bohat acha hoon. tum kaise ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main bhi theek hoon, shukriya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "sab kuch theek chal raha hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main kabhi behtar nahi tha. aur tum?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main ne school start kiya hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "tum kon se school mein ja rahe ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main PCC ja raha hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "tumhein ab tak kaisa lag raha hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "ab tak theek hai. meri classes bhi theek hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main tumhain good luck chahta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh aaj mausam bohat ganda hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe pata hai. lagta hai ke baarish ho sakti hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh summer ke darmiyan hai, aaj baarish nahi honi chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh ajeeb hoga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, khas tor par jab bahar 90 degrees hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main jaanta hoon, yeh bura hoga agar baarish hui aur bahar garam tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, yeh hoga."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main waqai chahata hoon ke yeh har din itna garam na ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main bhi. mujhe winter ka intezar hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe bhi winter pasand hai, magar kabhi kabhi yeh bohat thanda ho jata hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main garam ki bajaaye thanda pasand karta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main bhi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "aaj bahar itna acha nahi lag raha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "tum theek keh rahe ho. lagta hai ke baad mein baarish hogi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "summer ke darmiyan mein baarish nahi honi chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh sahi nahi lagta."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh soch kar ke bahar 90 degrees hai, yeh ajeeb hoga."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "bilkul, agar baarish hui to yeh acha nahi hoga. bahar bohat garam hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe pata hai, tum bilkul theek keh rahe ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main chahata hoon ke ek din yeh thanda ho jaye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh meri feeling hai, main chahta hoon ke winter jaldi aaye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe winter pasand hai, magar kabhi kabhi yeh bohat thanda ho jata hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe maloom hai, magar main garam ki bajaaye thanda pasand karta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh bilkul meri feeling hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe aaj ka din acha nahi lag raha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh sahi hai. main umeed karta hoon ke baarish na ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "summer ke darmiyan mein baarish nahi hoti."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh sahi nahi lagta agar abhi baarish shuru ho gayi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh ajeeb hoga agar 90 degrees ke mausam mein baarish hui."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "abhi koi baarish nahi hogi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "sahi hai, waqai mein."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main chahta hoon ke yeh thanda ho jaye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe maloom hai, main winter ka intezar nahi kar sakta."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "winter acha hai. main chahta hoon ke kabhi kabhi yeh itna thanda na ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main garam ki bajaaye thanda pasand karta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh bohat acha din hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, waqai mein."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "lagta hai ke baarish jaldi ho sakti hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, aur mujhe umeed hai ke ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kyun?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe waqai pasand hai ke baarish hawa ko clear karti hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe bhi. hamesha baarish ke baad bohat taza smell aati hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, magar mujhe raat ki hawa pasand hai baarish ke baad."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "waqai? kyun?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kyun ke tum sitaray bilkul saaf dekh sakte ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main waqai chahta hoon ke aaj baarish ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, mujhe bhi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya yeh acha din nahi hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "waqai mein hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "lagta hai ke aaj baarish hogi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "umeed hai ke ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kyun?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe pasand hai ke baarish ke baad aasman saaf hota hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe bhi aisa hi lagta hai. baarish ke baad bohat acha smell aata hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe khaas tor par raat ki hawa pasand hai jab baarish hoti hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "waqai? kyun?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "sitaray bohat nazdeek lagte hain baarish ke baad."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main waqai chahta hoon ke aaj baarish ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, mujhe bhi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya tumhein nahi lagta ke bahar acha hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, mujhe bhi lagta hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "lagta hai ke baarish hogi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "umeed hai ke baarish ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "tumhein baarish pasand hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "baarish ke baad aasman bohat saaf lagta hai. mujhe waqai pasand hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main samajhta hoon. baarish waqai sab kuch saaf karti hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe khaas tor par raat ka mausam pasand hai baarish ke baad."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "tum sitaray bilkul saaf dekh sakte ho baarish ke baad."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe waqai pasand hai ke aaj baarish ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main waqai is weekend pe beach jana chahta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh maza ka idea hai. mausam kaisa hoga?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "maine suna hai ke is weekend pe garam hoga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kya yeh beach ke liye perfect weather hoga?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe lagta hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "acha. umeed hai ke is weekend pe thanda na ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe maloom hai. main waqai beach jana chahta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "magar tumhein maloom hai ke California ka mausam waqai unpredictable hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "tum theek keh rahe ho. ek minute mein garam hota hai, aur agle minute mein thanda."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main waqai chahta hoon ke mausam sirf ek jaisa rahe."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main bhi. iss tarah hum apne plans pehle se bana sakte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, yeh cheezon ko bohat asaan banayega."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main chahta hoon ke is weekend pe beach pe trip karoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "beach pe trip karna maza ka idea hai. mausam kaisa hoga?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "forecast kehta hai ke weekend pe garam hoga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kya tumhein lagta hai ke beach ke liye perfect weather hoga?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe lagta hai. main chahta hoon ke yeh perfect ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "umeed hai ke yeh weekend pe thanda na ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe pata hai. mujhe beach jana pasand hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "California ka mausam kabhi kabhi ajeeb hota hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "tum sahi keh rahe ho. ek din garam hota hai aur phir agle din thanda."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe sirf ek stable mausam chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main bhi chahta hoon ke mausam stable ho. iss tarah hum apne plans asaan se bana sakte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh zaroor cheezon ko asaan banayega."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh to aik perfect wajah hai kisi qisam ki music pasand karne ki."
+            }
+
+        ],
+        "conversation4":[
+            {
+                "speaker": "Person 2",
+                "text": "kya tum Friday ko basketball ka match dekhne gaye thay?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "nahi, main nahi ja sakta tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "tumne bohot acha match miss kar diya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "oh, waqai? Kisne jeeta?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "hamari school ne. Unhone bohot acha khela."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "afsos ke baat hai, main masroof tha. Mujhe sach mein jana tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, tumhe jana chahiye tha. Bohot exciting tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "to score kya tha?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "score 101-98 tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yaar, yeh to bohot close game tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh hi to usay itna zabardast banaya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main agle match mein zaroor aunga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kya tum Friday raat ka basketball game dekhne gaye thay?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main nahi ja sakta tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "tumhe wahan hona chahiye tha. Bohot intense tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "waqai? Kisne jeeta phir?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "hamari team ne jeet hasil ki."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kaash main us raat free hota. Main thoda naraaz hoon ke nahi gaya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh bohot acha game tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "game ke end mein score kya tha?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "hamari team ne 101-98 se jeet hasil ki."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "lagta hai yeh bohot close game tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh hi wajah thi ke yeh itna zabardast game tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "agla match mein zaroor dekhunga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main tumse poochhna chah raha tha ke kya tumne Friday ka basketball game dekha?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main jana chahta tha, magar nahi ja saka."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "bohot afsos ke baat hai ke main nahi ja saka. Kisne jeeta?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "hamari team ne jeet hasil ki."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe waqai jana chahiye tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh sabse acha game tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "to final score kya tha?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "doosri team teen points se haari, 101-98."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh close game tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "waqai tha. Tumhe jana chahiye tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "tum is weekend kya kar rahe ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main apne dost ke sath movies dekhne ja raha hoon. Tumhara kya plan hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe abhi tak kuch nahi pata."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "achha, kya tum mere sath movie dekhne chalna chahte ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "tum kaunsi movie dekhne ja rahe ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "abhi tak nahi pata. Kya tumhe koi movie dekhni hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe kuch nahi soojh raha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "to kya tum chalna chahte ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "nahi, shukriya, shayad kisi aur waqt."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "theek hai, sounds good."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kya tumhe pata hai ke tum is weekend kya karne wale ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main apne ek dost ke sath movie dekhne ja raha hoon. Tumhara kya plan hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe nahi pata."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya tum mere aur mere dost ke saath film dekhna pasand karogey?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kya tumhein pata hai ke tum kaunsi film dekhne wale ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe nahi pata, magar koi khaas film thi jo tum dekhna chahte ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Koi bhi nahi jo mujhe yaad ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Toh kya tum jaana chahoge?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Shukriya dawat dene ke liye, magar main nahi jaaunga."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Theek hai. Phir kabhi sahi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumhare paas koi idea hai ke is weekend mein kya karna chahte ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main apne dost ke saath film dekhne jaa raha hoon. Tum kya kar rahe ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Abhi tak sure nahi hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tum mere aur mere dost ke saath film dekhna pasand karogey?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum aur tumhara dost kaunsi film dekhne ka plan kar rahe ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Pata nahi. Kya koi film hai jo tumhein pasand aayi ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Koi achi film yaad nahi aayi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya tumne decide kiya ke tum jaana chahte ho ya nahi?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Nahi, shukriya. Shayad phir kabhi."
+            }
+        ],
+        "conversation5":[
+            {
+                "speaker": "Person 1",
+                "text": "Kya tum aaj school gaye thay?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, main aaj school gaya tha. Tum wahan thay?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Nahi, main nahi gaya, main bimaar tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh to bura hua. Kya tumhein English class ke assignments chahiye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, shukriya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Koi baat nahi, tumhara shukriya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main bhi yeh tumhare liye karunga jab tum bimaar hoge."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Theek hai, shukriya. Umeed hai kal school mein milenge."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya tumne aaj school attend kiya?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, main aaj school gaya tha. Tum?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main nahi jaa saka kyunki main bemaar tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe yeh sun kar afsos hua. Kya tumhein English class ke assignments chahiye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, mujhe yeh pasand aayega, shukriya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Koi baat nahi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Agar tum bemaar hoge, toh main tumhara kaam kar dunga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Shukriya. Agar tum theek rahe toh kal school mein milenge."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya tumne aaj school gaya tha?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, main aaj school gaya tha. Tum school gaye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main school nahi jaa saka, main bimaar tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh to bura hai. Main khush hunga ke tumhein English class ke assignments de doon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumhara bohot shukriya, yeh tumhara ehsaan hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Koi baat nahi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Jab tum school miss karoge, toh main khushi se tumhein English ke assignments de dunga."
+            }
+        ],
+        "conversation6":  [
+            {
+                "speaker": "Person 1",
+                "text": "kya tum recently movies gaye ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "socha toh tha jane ko."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "phir, tum gaye?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Nahi, main nahi gaya. Kyun?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main waqai is weekend movie dekhne jaana chahta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Toh phir jao."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main akela nahi jaana chahta."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Achha, kya tum kal school jaane ka plan kar rahe ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Nahi, main movie dekhne jaaunga."
+            }
+        ],
+
+        "conversation7":[
+            {
+                "speaker": "Person 2",
+                "text": "Kya tum aaj school gaye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, main hamesha jaata hoon. Tum aaj school gaye?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Nahi, main nahi gaya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumhein jaana chahiye tha, magar kya tumne koi movie recently dekhi?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh to ajeeb topic change tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Shayad tha, magar sawal ka jawab do."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Nahi, recently nahi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main is weekend movie dekhne jaana chahta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Toh phir kyun nahi jaate?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main akela nahi jaana chahta."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Achha, kya tum kal school jaane wale ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumhara aaj aane ka shukriya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Koi baat nahi. Main waqai tumhein miss kar raha tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main bhi tumhein miss kar raha tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumne mujhe milne kyun nahi aaya?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main bohot busy tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kya kar rahe thay?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kaam kar raha tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main tumhein milne jaldi aata, magar main bhi busy tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya kar rahe thay?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main bhi kaam kar raha tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Jo bhi ho, main bohot khush hoon ke tum aane."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main bhi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main waqai khush hoon ke tum milne aaye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe bhi milna tha. Main tumhein bohot miss kar raha tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main bhi tumhein miss kar raha tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Toh, tumne mujhe kyun nahi milne aaye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main waqai busy tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main bhi bohot kaam kar raha tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main bhi busy tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main bhi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumhari kya halat hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumhare bina sab kuch boring tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe ye sunkar acha laga."
+            }
+        ],
+
+
+        "conversation8":[
+            {
+                "speaker": "Person 1",
+                "text": "Woh kis bare mein baat karte hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Woh doosre cheezon ke bare mein baat karte hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya woh hamare bare mein baat karte hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, bilkul woh hamare bare mein baat karte hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh hamare bare mein kya kehte hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Woh kehte hain ke hum ajeeb lagte hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Ha! Hum ajeeb nahi lagte, janwar ajeeb lagte hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "khair, Mujhe ghar saaf karna hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, yeh bohot ganda hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tum meri madad kar sakte ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kyun mein?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kyun ke tumne isse ganda karne mein madad ki thi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum chahte ho mein kya karoon?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mein chahta hoon ke tum bathroom saaf karo."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Oh, yeh toh asaan hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Sink, tub, counter, aur toilet saaf karo."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh toh bohot sara kaam hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Jab tum khatam karo to mujhe batao."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "I don't think so. You'll just give me more work."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe nahi lagta. Tum mujhe aur kaam doge."
+            }
+        ],
+
+        "conversation9":[
+
+            {
+                "speaker": "Person 1",
+                "text": "Tum bohot zyada TV dekh rahe ho."
+            },
+            
+            {
+                "speaker": "Person 2",
+                "text": "Tumhara kya matlab hai?"
+            },
+
+            {
+                "speaker": "Person 1",
+                "text": "Mera matlab hai ke tum apni zindagi zaya kar rahe ho."
+            },
+          
+            {
+                "speaker": "Person 2",
+                "text": "Mein maza kar raha hoon."
+            },
+            
+            {
+                "speaker": "Person 1",
+                "text": "Tum wahan mooh khol ke baithe ho."
+            },
+
+            {
+                "speaker": "Person 2",
+                "text": "Kisay parwa hai?"
+            },
+
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe parwa hai. Kuch karo."
+            },
+
+            {
+                "speaker": "Person 2",
+                "text": "Theek hai. Mene kuch kiya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumne kya kiya?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mene volume barha di."
+            },
+        
+            {
+                "speaker": "Person 1",
+                "text": "Mera yeh matlab nahi tha \"kuch karo\"."
+            },
+
+            {
+                "speaker": "Person 2",
+                "text": "Kya tum kuch karoge? Mujhe akela choro."
+            }
+        ],
+        "conversation10":[
+            
+            {
+                "speaker": "Person 1",
+                "text": "Kya tumne dadi ko khat likha?"
+            },
+
+            {
+                "speaker": "Person 2",
+                "text": "Haan, mene likha."
+            },
+            
+            {
+                "speaker": "Person 1",
+                "text": "Kya tumne usay school ke bare mein bataya?"
+            },
+           
+            {
+                "speaker": "Person 2",
+                "text": "Mene usay bataya ke school mazedar hai."
+            },
+            
+            {
+                "speaker": "Person 1",
+                "text": "Kya tumne khat lifafe mein dala?"
+            },
+            
+            {
+                "speaker": "Person 2",
+                "text": "Haan, aur mene lifafa seal kar diya."
+            },
+           
+            {
+                "speaker": "Person 1",
+                "text": "Kya tumne lifafe par ticket lagayi?"
+            },
+
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe koi ticket nahi mili."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh kitchen ke drawer mein hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Theek hai. Mene abhi lifafe par ticket lagayi."
+            },
+            
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe lifafa do, aur mein usay post kar dunga."
+            },
+          
+            {
+                "speaker": "Person 2",
+                "text": "Dadi e-mail kab seekhen gi?"
+            }
+        ],
+        "conversation11":[
+
+            {
+                "speaker": "Person 1",
+                "text": "Tum jamai kyun le rahe ho?"
+            },
+        
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe neend aa rahi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tum so kyun nahi jaate?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main ye TV show dekhna chahta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Shayad tumhein ise record kar lena chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tape recorder kharab hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Toh tumhein repeat telecast dekhna chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kyun? Main toh asli dekh raha hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Magar tum ek minute mein so jaoge."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main bas isliye jamhai le raha hoon kyunki commercials chal rahe hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Thik hai. Main tumhein bata doonga show kaise khatam hota hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Zzz."
+            }
+        ],
+
+        "conversation12":[
+            {
+                "speaker": "Person 1",
+                "text": "Aaj Sunday hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Toh?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumhein pata hai iska kya matlab hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main bhool gaya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Sunday ka matlab hum church jaate hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Oh, haan."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Coat aur tie pehno."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kyun?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Bhagwan aur doosron ko izzat dene ke liye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main khush hoon ke Sunday sirf hafte mein ek baar aata hai."
+            }
+        ],
+
+        "conversation13": [
+            {
+                "speaker": "Person 1",
+                "text": "Kya tumne billi ko khilaya?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main ek minute mein karta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Billi miau kar rahi hai. Woh bhooki hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Thik hai. Main use abhi khilaata hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumhein use intezar nahi karana chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main apna homework kar raha tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Billi ko tumhare homework se koi matlab nahi hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Billi ko kisi cheez se matlab nahi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Billi aise hi hote hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Unhein bas apne baare mein hi sochna hota hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Shayad humein use de dena chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Bilkul nahi! Woh family ka hissa hai."
+            }
+        ],
+        "conversation14": [
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe shave karna pasand nahi hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main phir se cut kar liya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya tumne naya blade use kiya?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Koi farq nahi padta. Purane blades bhi cut karte hain, naye blades bhi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Shayad tumhein electric shaver use karna chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Woh bohot shor machate hain, magar close shave nahi dete."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Shayad tumhein shave karna band kar dena chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Aur daadhi badha loon?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, kyun nahi?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kyunki khana aur doosri cheezein meri daadhi mein chipak jaati hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Hmm. Ek idea hai. Apne chehre pe cream lagao aur billi se lick karvao."
+            }
+        ],
+
+        "conversation15":[
+            {
+                "speaker": "Person 2",
+                "text": "Maaf kijiyega."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kya aap yeh paper padh rahe hain?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Oh, nahi. Aap le lo."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Maine isliye poocha kyunki paper aapke paas pada hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Shukriya. Yeh aapka tehzeeb hai poochhna."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kuch log bas utha lete hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, mujhe pata hai. Kuch log badtameez hote hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main hamesha tehzeeb se baat karne ki koshish karta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main bhi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Duniya ko hum jaise tehzeeb se baat karne wale logon ki zaroorat hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main 100 percent sehmati rakhta hoon."
+            }
+        ],
+        "conversation16": [
+            {
+                "speaker": "Person 2",
+                "text": "Mom, mujhe ek puppy chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe sochne do."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumhe sochne ki zaroorat kyun hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kyunki ek puppy paisa lagta hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Nahi, puppy free milte hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, magar puppy ko shots lagne padte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Shots kisliye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Taake woh bimar na ho. Jaise tumhein shots lagte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe shots pasand nahi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Aur puppy ko khana chahiye hota hai. Khana paisa lagta hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Koi problem nahi. Main use apne plate se khana doonga."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Oh, nahi. Puppies sabziyan nahi khate."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Dekho yeh sab kittens!"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kitne hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Aath."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Yeh sab bohot pyaare hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, magar main unhe rakh nahi sakta."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tum unke saath kya karoge?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main unhe de dunga. Kya tumhe ek chahiye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, mujhe ek pasand aayega."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kaunsa tumhe chahiye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh waala. Jo poora kaala hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, mujhe bhi woh pasand hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main uska naam Blacky rakhunga."
+            }
+        ],
+   
+        "conversation17": [
+            {
+                "speaker": "Person 2",
+                "text": "Aaj Friday the thirteenth hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Yeh ek bura din hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh unlucky maana jaata hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumhe poora din ghar pe rehna chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main wahi karta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mera dost Friday the thirteenth ko hotel mein raha tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Woh ek galti thi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh terwheen floor par raha tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kisi ne uska laptop chura liya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh isi ka maang raha tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Usne apna sabak seekh liya. Woh aaj ghar par hai."
+            }
+        ],
+        "conversation18":[
+            {
+                "speaker": "Person 1",
+                "text": "aapka mailing address kya hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "456 Cherry Drive, Pasadena, CA 91170."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh sahi hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "toh phir masla kya hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "BlueDog123 sirf street ka address hai. Aapko mujhe sheher, state aur zip code bhi dena padega."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "oh, samajh gaya. Mera email address BlueDog123@yahoo.com hai."
+            }
+        ],
+
+        "conversation19":[
+            {
+                "speaker": "Person 1",
+                "text": "mein sona chahta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "aapko phone unplug karna chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya aap chahte hain ke mein aapko ek ghante baad jagaoon?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "nahi, shukriya. Bas mujhe sone do jab tak mein khud na uth jaoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mein dinner 6 baje shuru karunga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "theek hai. Mujhe lagta hai tab tak mein uth jaoonga."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "agar nahi uthe toh aapki naak aapko utha degi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "aapka matlab mein khane ki khushboo sununga?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "aap dinner ke bare mein sapne bhi dekh sakte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe nahi lagta ke mein kuch sapne dekhne wala hoon. Mein bohot thaka hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "achi neend lein."
+            }
+
+        ],
+    
+
+    "conversation20":[
+       
+            {
+                "speaker": "Person 2",
+                "text": "kya aapko lagta hai ke koi meri funeral mein aayega?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe lagta hai ke sirf family wahaan hogi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "aapke bohot se dost hain. Woh bhi wahaan honge!"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kya aapne woh suna?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "bilkul suna. Mujhe laga ke aik plane aapke ghar se takraya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "itni ziada bhi nahi thi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "theek hai. Mein aapki baat maan leta hoon."
+            }
+        ],
+
+        "conversation21": [
+            {
+                "speaker": "Person 1",
+                "text": "mere bohot se dost hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "waaqai? Kitne hain?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe nahi pata, shaayad ek sau."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh bohot zyada dost hain. Kya aapka koi best friend bhi hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "bilkul. Mere bohot se best friends hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kitne best friends hain aapke?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "shaayad 25."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "hmm. Mera sirf ek best friend hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe aap par taras aata hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mere sirf kuch hi dost hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "aapko akela lagta hoga. Mein apne dost aapke sath share karunga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh aapka bohot achha hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe dhoka mat dena."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mein aisa kyun karunga?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kyunki mard dhoka dete hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kuch mard dete hain, lekin mein nahi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mein aap par nazar rakh raha hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mein ek khuli kitaab hoon. Jitna dekhna hai dekh lo."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "agar mein ne aapko pakda toh aapko afsos hoga."
+            }
+        ],
+        "conversation22":  [
+            {
+                "speaker": "Person 2",
+                "text": "kyun aapko bahar jaana pasand nahi hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe bohot se budtameez log milte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mein sehmat hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh sheher budtameez logon se bhara pada hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "badtameez log har jagah hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "lekin aap kya kar sakte hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "aap un par chillaa sakte hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "aur woh aap par chillayenge."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "chillana koi faida nahi karta."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "nahi. Behtareen baat yeh hai ke ghar mein raho."
+            }
+        ],
+
+        "conversation23": [
+            {
+                "speaker": "Person 2",
+                "text": "mujhe form mein kuch cheezen samajh nahi aati."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe madad karne dein."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "\"MI\" ka kya matlab hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "\"MI\" middle initial ke liye hota hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "\"MM/DD/YY\" ka kya matlab hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh month/day/year ka matlab hai. Numbers use karein."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe samajh nahi aaya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "for example, agar aapki birth date January 12, 1987 hai, likhein 01/12/87."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "oh. Yeh kaafi simple hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "hamesha saf likhein, aur bubbles ko poora fill karein."
+            }
+        ],
+
+        "conversation24":[
+            {
+                "speaker": "Person 2",
+                "text": "chalo animal shelter chalte hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "aap kya karna chahte hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe apne beta ke liye ek puppy lena hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh usay bohot khush karega."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mein usay ek chota sa kutta loonga."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "aisa jo bohot bara na ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "aur bohot zyada na khaye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya aapko pata hai ke woh konsa pasand karega?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, mein usay kal wahan le gaya tha. Usne mujhe ek dikhaya jo usay bohot pasand aya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe yakin hai aapko usay wahan se kheench kar le jana pada hoga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "usne kal hi usay ghar le jaana chaha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe maloom hai ke woh uska kya naam rakhega."
+            }
+        ],
+
+        "conversation25":[
+            {
+                "speaker": "Person 2",
+                "text": "mausam kaisa hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe nahi pata. Mein abhi utha hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kyun nahi aap bahar dekhte?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "theek hai. Aisa lagta hai ke barish hone wali hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "aap aisa kyun keh rahe hain?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "aasmaan grey hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kya abhi barish ho rahi hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "nahi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "aapko kaise pata?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "footpath gila nahi hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "aapko paani chahiye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe paani nahi chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kya mein aapke liye koi aur cheez la sakta hoon?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "nahi, shukriya."
+            }
+        ],
+
+        "conversation26": [
+            {
+                "speaker": "Person 2",
+                "text": "main yeh computer nahi samajh sakta."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "computer ke bare mein kya masla hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe internet nahi mil raha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya aapko pata hai ke wi-fi router kahan hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, wo mere kamre ke kone mein hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "aapko router ko reset karna chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "wo kaise karna hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "router ko power se disconnect karke phir se connect karain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe lagta hai ke mujhe ek broadband connection mil gaya hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya aapko abhi bhi internet masla ho raha hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe lagta hai ke woh theek ho gaya hai. Shukriya!"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe lagta tha ke agla itwar hoga."
+            }
+        ],
+
+        "conversation27":[
+            {
+                "speaker": "Person 1",
+                "text": "achha, tumhe usay kuch gift dena chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main usay aik acha card dunga."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya yeh sab hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "ji, yahi to main hamesha usay deta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "usne tumhe pala hai, aur tum sirf usay card dete ho?"
+            }
+        ],
+    
+        "conversation28":[
+        
+            {
+                "speaker": "Person 1",
+                "text": "mujhe hamari parcham pasand nahi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "ismein kya masla hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh dusre parchamon ki tarah zyada hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "ji, bohat se parchamon mein peelay hotay hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "aik parcham khoobsurat hona chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "hamara parcham kaisa hona chahiye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "is par aik khoobsurat aurat honi chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh to mazak hai!"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya tumhe khoobsurat auraten pasand nahi?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, mujhe to pasand hain. lekin hamare parcham par nahi!"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "har qaum ko apne parcham par aik khoobsurat aurat honi chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "tum aik parcham le kar jang nahi lar sakte jo aurat ke sath ho!"
+            }
+        ],
+
+
+        "conversation29": [
+            {
+                "speaker": "Person 2",
+                "text": "maine sabhi podon ko paani diya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "tumhare paas bohat saare poday hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "phir maine apni kapre dhoye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh kafi samay leta hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "maine apni bili ko sair par le gaya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main shart lagata hoon ke usko uski sair pasand aayi hogi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "maine puray ghar ko vacuum cleaner se saaf kiya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "aur phir maine khana banaya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main shart lagata hoon ke tumhe bhook lagi hogi!"
+            }
+        ],
+
+        "conversation30": [
+            {
+                "speaker": "Person 1",
+                "text": "mere ghar ke landline phone mein long distance service nahi hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "to tum long distance calls kaise karte ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main calling card istemal karta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "tumhe woh kahan se milta hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main use dollar store se khareedta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "iska daam kya hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh 100 minute ke liye ek dollar hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "sirf ek minute ke liye ek penny!"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh ek zabardast daam hai. lekin tumhe bohat saare numbers dial karna padte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kitne?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "pehle tum saat numbers dial karte ho, phir das numbers, phir aur das numbers."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "arrey wah. mujhe lagta hai ke main apni long distance service hi rakhoon ga."
+            }
+        ],
+        "conversation31":[
+            {
+                "speaker": "Person 1",
+                "text": "kya tum college jaate ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "tum kis college jaate ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main Pasadena City College jaata hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kya tumhe woh pasand hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "oh, haan, mujhe woh bohat pasand hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "tumhe woh kyun pasand hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kyun ke wahan bohat achhe teachers hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "aur kuch?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe mere classmates bhi pasand hain."
+            }
+        ],
+        "conversation32":[
+            {
+                "speaker": "Person 2",
+                "text": "meri nayi pen kho gayi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "tumne usay kab kho diya?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe lagta hai ke maine usay aaj kho diya. maine kal usay istemal kiya tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya tumne apne saare jeb mein check kiya?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "maine apni saari jeb mein check kiya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya tumne apne daraz mein bhi dekha?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, woh wahan bhi nahi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "shayad woh kahin aas paas hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "arrey wah, bas ek dollar ki thi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "sirf ek dollar? ."
+            }
+        ],
+
+        "conversation33":[
+            {
+                "speaker": "Person 1",
+                "text": "gravity bohat zaroori hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "gravity kya hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh woh taqat hai jo sab kuch neeche khichti hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "agar tum ek glass mein paani daalo, to paani glass mein jaata hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "zaroor, yeh to hota hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "bina gravity ke, paani upar jaata."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "tum mazak kar rahe ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "bina gravity ke, tum upar jaate ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh to mazay ki baat hogi!"
+            }
+
+        ],
+
+        "conversation34":[
+            {
+                "speaker": "Person 2",
+                "text": "main apni kitaab nahi padh sakta."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "light on karo."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "light on hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kitaab kholo."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kitaab khuli hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "aankh ke doctor se milo."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yehi to mujhe karna hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "woh tumhe chashmay ke liye prescription de dega."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "main kal appointment bana loonga."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main eye doctor ke liye yellow pages le aaoonga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe number parh do."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main bohat zor se parhonga, ke agar tumhari sunai kamzor ho rahi hai, to."
+            }
+        ],
+
+        "conversation35":[
+            {
+                "speaker": "Person 2",
+                "text": "tumhe school ke liye kya zaroorat hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe pencils chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe notebook chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya tumhe pen chahiye?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "nahi. mere paas pehle se pen hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "kya tumhe calculator chahiye?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "nahi. teacher calculator istemal karne nahi deta."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "dictionary ki zaroorat hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "nahi, humare classroom mein bada dictionary hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "theek hai, main samajh gaya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "haan, abhi ke liye yahi kaafi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe yeh magazine pasand hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "maine ek baar padha, phir subscribe kar liya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "yeh sab khabrein deti hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "sirf 50 pages mein sab kuch."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "mujhe siyasi cartoons pasand hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "mujhe gharoon ke sale ki khoobsurat tasveerein pasand hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main hamesha film reviews padhta hoon."
+            }
+        ],
+
+        "conversation36":[
+            {
+                "speaker": "Person 1",
+                "text": "mere pen ki ink khatam ho gayi hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "usay kuch dafa hilao."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "maine hilaya. ab ink nahi hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "tum meri pen istemal kar sakte ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "shukriya. main kal naya kharid loonga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "tum kya kar rahe the?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "main khat likh raha tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "kis ko likh raha tha?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "meri maa ko."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "unse mera salam keh dena."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "theek hai. jab main khat likh kar khatam kar doonga, to tumhari pen lota doonga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "apna time lena."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "tumne apna homework kar liya hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "abhi nahi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "to phir tv kyun dekh rahe ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "yeh mera pasandida show hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "apna homework karo."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "lekin, ammi!"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "jab tumhara homework kar loge, to tv dekh sakte ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "lekin show khatam ho jayega."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "please?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "theek hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main bohat parhta hoon."
+            }
+        ],
+        "conversation37":[
+            {
+                "speaker": "Person 1",
+                "text": "Kahin bahir ghoomne jane ka dil kar raha hai"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Chalo gari se chalte hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Hum kahan ja rahe hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Pahadon mein."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Yeh sunai deta hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main tumhein apni nayi gari dikhana chahta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumne nayi gari khareedi?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan. Maine Cadillac khareedi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Ek shehri gari."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Shehriyat aur tezi dono."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Hum kis cheez ka intezaar kar rahe hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe chabiyan le aane do."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main apna camera le aati hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum ne ghar se pehle kyun nahi gaye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Gayi thi, lekin mujhe dobara jana hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Thora aur intezaar karo."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe lagta hai mera pait phatne wala hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Bas thoda sa aur intezaar karo."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Arre! Aur koi bump na maar jaye!"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Bas kuch minutes mein McDonald's pahunch jayenge."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe ummeed hai woh tezi se minutes guzar jaye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kisi aur cheez ke bare mein socho. Hamburger ke bare mein socho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main soch rahi hoon, lekin mujhe ab bhi jana hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Agla exit hai. Thoda aur intezaar karo!"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Gaadi kahan hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Gaadi yahan nahi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumne usko kahan park kiya tha?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mainey yahan hi park kiya tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, mujhe yaad hai yeh bada sa ped."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Shayad galat ped ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Nahi, yehi ped hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kya kisi ne chura li?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe toh ummeed hai nahi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Shayad usko toh kheench liya ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Dekho is traffic ko."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main toh dekhna bhi nahi chahta."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Har saal yeh aur bura hota hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum shikayat kyun kar rahe ho? Hum almost 20 miles per hour ja rahe hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Speed limit 65 hai!"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya tumne woh gaari dekhi?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, usne red light cross ki."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya hum police ko bula sakte hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Nahi, police ko fark nahi padta."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Unhein dekhna padta hai jab yeh hota hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Woh humein nahi maante?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Nahi, woh sirf tab ticket de sakte hain jab woh khud dekhte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Toh phir hum kya karein?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Hum kuch nahi karte."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Shayad agli baar horn bajayein."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Driver sirf humein wapas horn bajaega."
+            }
+        ],
+
+        "conversation38":[
+            {
+                "speaker": "Person 2",
+                "text": "Meri gaari gandi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tum use kyun nahi dho dete?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Wohi toh main karne wala hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya tum use khud dho rahe ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Bilkul. Yeh mushkil kaam nahi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main tumhari madad karunga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Theek hai, main ek bucket laata hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main pehle gaari ko rinse karunga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Fir hum ise wet sponge aur soap se scrub kar sakte hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Uske baad hum ise towel se sukha sakte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Fir woh naye jaisi dikhegi."
+            }
+        ],
+
+        "conversation39": [
+            {
+                "speaker": "Person 2",
+                "text": "Aaj bohat hawa chal rahi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kaghaz idhar udhar udd rahe hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh hawa gaadi walon ke liye khatarnak hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Khaas karke badi trucks ke liye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Hawa woh trucks ko gira deti hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh ped bhi gira deti hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Ek ped mere baap ki gaari par gir gaya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya zyada nuqsan hua?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mere abu ko ek nayi gaari khareedni padi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kabhi apni gaari ek ped ke neeche mat park karna."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Hawa tumhein utha legi, ya phir parinde tumhein utha lenge."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Hum kab rukne wale hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Hum agle McDonald's par rukenge."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh kitni door hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe lagta hai hum 30 minute mein pahunch jayenge."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Unhein ek left-turn arrow chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Teen ya char minute mein sirf do cars left turn le sakti hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Hum yahan kab tak honge."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Is line se bahar niklo."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Lekin humein left turn lena hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Bhool jao. Seedha jaao."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Toh phir kya karein?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Phir hum bas u-turn le lenge."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Aur phir hum signal par right turn le sakte hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Achha idea hai. Yeh bahut jaldi hoga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe ek sasti gaari chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumhare paas kitne paise hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "$1,000."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Theek hai, tumhein kuch mil jayega."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Lekin mujhe kisi reliable cheez ki zarurat hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumhein low mileage wali gaari chahiye."
+            }
+        ],
+    
+        "conversation40": [
+
+            {
+                "speaker": "Person 1",
+                "text" : " Aj k kya plans hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kuch khaas nahi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Baseball game ke bare mein kya?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh barish mein cancel ho gaya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Cancel ho gaya?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, cancel ho gaya."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh kaise ho sakta hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh toh barish mein baseball nahi khela ja sakta."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe lagta tha woh ek dome ke andar khel rahe hote."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Dome band nahi hota."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Dome band kyun nahi hota?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kaun jaanta hai? Unhone kaha hai ke woh agle season se pehle use thik karenge."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kya main tumhari coffee try kar sakta hoon?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, yahan lo."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Hmm, yeh buri nahi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Ismein kuch nahi hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main yeh kehna chahta hoon, ke yeh bas coffee hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main toh samajh gaya tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumhare liye yeh zyada khatti nahi hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Thodi si khatti hai, lekin theek hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Ismein sugar ya cream nahi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Chalo walk par chalte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main bahar jaakar dekh leta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Thoda sa thanda hai, sahi?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main apni topi pehen lunga."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Jacket bhi pehno."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Gloves bhi le aao kya?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Shayad le aao, agar thoda aur thand ho gayi to."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main har waqt chalte chalte garam ho jaoonga."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, lekin suraj doobne ke saath thand ho jati hai."
+            }
+        ],
+
+        "conversation41":[
+            {
+                "speaker": "Person 1",
+                "text": "Main apne computer ko buhat use krta hu."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Computers bohat cool hote hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main online jaane ke liye use karta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Internet amazing hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tum puri duniya mein ghoom sakte ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe pata hai. Kal main China gaya tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main ne Great Wall par khade ho kar dekha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Woh kaisa tha?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Yeh woh asli cheez tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Woh wahan hona jaise tha?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, mujhe wahaan actually hona jaisa mehsoos hua."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Beatles sabse best hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh sabse best musical group hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main unke saare gaane pasand karta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe pata nahi ke main kaunsa sabse zyada pasand karta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe woh gaane pasand hain jinmein main ga sakta hoon."
+            }
+        ],
+
+
+        "conversation42":[
+            {
+                "speaker": "Person 1",
+                "text": "Tum jaante ho mujhe crowdy places pasand nahi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Chalo early movie dekhne chalte hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Theek hai, woh zyada crowdy nahi hoga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumhein kya dekhna hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Oh, mujhe koi farak nahi padta. Tum jana chahte ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Well, mujhe \"The Pursuit of Happiness\" dekhna hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumne uske baare mein suna hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh ek sachchi kahani par based hai, ek talaq hua aadmi aur uske chhote bete ki."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Well, mujhe ummeed hai ke iska happy ending ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mere dost aur main Starbucks ke bahar baithte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh achi jagah lagti hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Hum log logon ko unke kuton ke saath guzarne mein dekhte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe lagta hai aapko alag alag kisam ke kutte dekhne ko milte hain."
+            }
+        ],
+
+        "conversation43":[
+            {
+                "speaker": "Person 2",
+                "text": "Purani movies sab se achay hoti hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Chahe woh black and white mein bhi ho."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Achi kahani rang se zyada zaroori hoti hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Aur na hi un mein zyada violence hota tha."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Aaj ke logon ko woh pasand nahi hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Nahi, aaj ke logon ko zyada action pasand hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe achi kahani pasand hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe woh actors pasand hain jo asal zindagi ke logon ki tarah hote hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Jaise asal zindagi ke logon ke asal masail hote hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Aaj bhi movies banate hain aisi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, lekin unhe zyada paise nahi milte."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kya aapke TV pe PBS aata hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, sab log Public Broadcasting System le sakte hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe woh sone pe suhaga deta hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Batao to sahi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Gardening show ek knitting show ke baad aata hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Cooking show ek sewing show ke baad aata hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Travel show ek aur travel show ke baad aata hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main keh raha hoon! Mein toh do dafa duniya ghoom chuka hoon!"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Ab woh purani TV shows ko purani movies ke saath jod rahe hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe toh kuch interesting dekhna hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Agar zyada log paise donate karenge toh PBS naye shows la sakta hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kaun donate karna chahega? Public TV toh free honi chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe \"Judge Judy\" dekhna pasand hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh ek TV show hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, har dopahar aata hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Ismein kya khaas baat hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yahan interesting lawsuits hote hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Jaise?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kal ek aurat ne eBay se kharidi hui ek cell phone ke baare mein shikayat ki."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya phone mein kuch problem tha?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh sirf Canada mein kaam karta hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya seller ko is baare mein pata tha?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, aur usne buyer ko nahi bataya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Umeed hai Judge Judy ne seller ko phone wapas lene ko kaha hoga."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe ek channel bhi nahi mil raha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kya aapke paas digital TV hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, lekin mujhe cable nahi hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Aapko cable ki zaroorat nahi hai, lekin aapko accha antenna chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Lekin mere paas rabbit ears hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Rabbit ears kaafi mazboot nahi hote. Digital antenna khareed lo."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Main ne ek date tumhare liye rakh di hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kya tum interested ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Shayad. Woh kaisi hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Uska nature bohat acha hai ."
+            }
+        ],
+
+        "conversation44":[
+
+            {
+                "speaker": "Person 1",
+                "text": "Golf mein kya mushkil hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Bohat sari cheezein hain jo sahi karni hoti hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Jaise apna left arm seedha rakhna, sar neeche rakhna, aur follow through karna."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yikes! Kon sab yaad rakh sakta hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Jab aap bohot chotay hote hain to bohot sari lessons leni parti hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Bhool jao. Golf maze se zyada kaam lag raha hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya aapne ball player ke bare mein suna?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "League ne usse 50 games ke liye suspend kar diya."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Isse uska kuch paisa kat jayega."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh uske liye acha sabaq hoga."
+            }
+       
+        ],
+        "conversation45":[
+            {
+                "speaker": "Person 1",
+                "text": "Apko yeh jaggah kesi lag rhi hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh aik zabardast mohallah hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Log dosti wale hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, bilkul."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Streets aur sidewalks saaf hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Ek bohot achi park bhi kareeb hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Haan, waqi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe yahan mehfooz mehsoos hota hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Yahan koi crime nahi hoti."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kaash mein yahan shift ho sakta."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Shayad aap kar sako, agar koi shift ho jaye."
+            }
+        ],
+
+    "conversation46":[
+            {
+                "speaker": "Person 1",
+                "text": "Tumhare favorite fruits kaun se hain?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe apples pasand hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe bhi pasand hain. Mujhe oranges bhi pasand hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mein bananas bhi pasand karta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya tum strawberries pasand karte ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Nahi, mujhe raspberries pasand hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Grapes tumhare bare mein kya khayal hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe sabse zyada green grapes pasand hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya tum pears pasand karte ho?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, pears bhi theek hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Peaches bhi bohot tasty hoti hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum kabhi watermelon khane ki koshish karo."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tumhare paas coin hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumhe coin kyun chahiye?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mein coin flip karke koi faisla karna chahta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum coin flip karke kyun faisla kar rahe ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kabhi kabhi mere faisle mushkil hotay hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum kya faisla karna chahtay ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mein chai ya coffee peene ka faisla karna chahta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Kya yeh faisla mushkil hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mere paas sirf thori chai hai aur thori coffee hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumhien kuch aur chai aur coffee khareedni chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Lekin mein sirf iklauta banda hoon jo dono cheezein peeta hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum apni favorite choose kar sakte ho."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe dono cheezein pasand hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main khushi hoon ke tum abhi tumhare dentist ke pass gaye ho."
+            }
+        ],
+
+        "conversation47":[
+            {
+                "speaker": "Person 1",
+                "text": "Kya tum dentist ke pass gayi thi?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan. Mujhe fillings karwani thi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mein safai karwane gaya tha."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum dentist ke pass kitni baar jaati ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mein har chay maheenay ke baad jaata hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumhare dentist ne tumhare baare mein kya kaha?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Usne kaha ke mere daant bohot achay hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mein yeh sun kar khushi hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Dentist ne kaha ke mujhe rozana flossing karni chahiye."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum rozana floss karte ho?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mein har roz flossing karta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum dentist ki advice pe amal karte ho."
+            }
+        ],
+
+        "conversation48":[
+            {
+                "speaker": "Person 1",
+                "text": "cricket ek maze ki game hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, mein is game ko enjoy karta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Yeh game kitni mushkil hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tum jitni zyada practice karoge, utni aasan hogi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya tumhe bohot practice ki zaroorat hai?"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, tumhe har roz practice karni chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mein is game mein expert banna chahta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumhe bohot mehnat karni paregi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mein mehnat se nahi ghabrata."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumhe hamesha apni skills ko improve karna chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mein apni skills ko improve karne ke liye kuch bhi kar sakta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Tumhe hamesha apni improvement ke liye focus rehna chahiye."
+            }
+        ],
+     "conversation49":[
+            {
+                "speaker": "Person 2",
+                "text": "Teaching ek bohat achhi naukri hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Yeh sabse achhi naukri hai jise maine ki hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Ismein kya acha hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mere liye, woh students hain."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Mere liye bhi bahut achhe students hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Woh bahut achha hoga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Padhana mera poora din ka sabse achha hissa hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Tum bohat lucky ho jo tumhein apni pasand ki naukri mili hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Arre, main khush hoon ki woh naukri khatam ho gayi."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Char ghante bina break ke."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Naukri khatam karna hamesha achha lagta hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Theek hai, achha hai aur bura bhi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Ismein bura kya hai?"
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Jab tum khatam karte ho, phir tum bas ek aur naukri shuru karte ho!"
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Haan, bilkul. Kabhi kabhi, main sochta hoon ki naukri ki jagah kuch aur karna chahiye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Kya tum kya kya karna chahte ho?"
+            }
+        ],
+
+        "conversation50":[
+            {
+                "speaker": "Person 2",
+                "text": "Mujhe moongphali bahut pasand hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mujhe bhi. Main unhein bhuni hui aur namak laga kar pasand karta hoon."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Main uble hue moongphali pasand karta hoon."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Uble? Main ne kabhi suna nahi."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Bas kacha moongphali ko namak wale paani mein tab tak ubal lo jab tak ki chilke naram na ho jaye."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mein kabhi bana kar zarur try krun ga."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Woh tab hi achhe hote hain jab woh garam hote hain."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Mere bhai ko moongphali se allergy hai."
+            },
+            {
+                "speaker": "Person 2",
+                "text": "Yeh achhi baat nahi hai."
+            },
+            {
+                "speaker": "Person 1",
+                "text": "Uski bahut strict diet hoti hai."
+            }
+          
+          
+        ]
+    }

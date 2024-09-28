@@ -1,0 +1,4059 @@
+{
+    "conversation1": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhara favorite holiday konsa hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Jo holiday mein bohot se mukhtalif logon se mil sakoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Kabhi kisi holiday par sab se zyada kitne logon se milay ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mushkil hai ginti karna. Shayad 25."
+        },
+        {
+            "speaker": "human2",
+            "text": "Kon sa holiday tha wo?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Lagta hai Australia ka tha."
+        },
+
+        {
+            "speaker": "human2",
+            "text": "Ab bhi un logon se baat hoti hai jinse mile the?"
+        },
+
+        {
+            "speaker": "human1",
+            "text": "Nahi, zyada tar mulakatein choti hoti hain lekin logon se mil kar unka nazariya samajhna bohot interesting hota hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, mujhe bhi lagta hai kabhi kabhi khuda anjaan logon ko hamare raste mein daalta hai aur humein unse connect karne ka mauka milta hai. Kabhi tumhe lagta hai ke bina bataye tum logon ke baare mein kuch jaan jate ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhara matlab kya hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Jaise ek 6th sense hoti hai, aksar log ise \"cold readings\" kehte hain lekin kabhi kabhi yeh kaafi accurate hoti hain. Ek dafa main coffee shop mein ek aadmi ke saath baitha tha aur mujhe apni back mein dard mehsoos hua. Maine us aadmi se poocha ke kya usse bhi dard hai. Aur pata chala ke ussi jaga usse dard tha, keh raha tha party mein dance karte hue muscle pull hogayi. Main us aadmi se kabhi pehle nahi mila tha aur dobara kabhi nahi dekha."
+        },
+        {
+            "speaker": "human1",
+            "text": "Wow! Yeh interesting hai, thoda spooky bhi."
+        },
+        {
+            "speaker": "human2",
+            "text": "Ek practice hai jise \"Treasure Hunting\" kehte hain, yeh ek fun game hai jo public place mein khelte hain. Ek kitaab hai \"The Ultimate Treasure Hunt\" jo iske baare mein baat karti hai. Tum apni creativity use karke imagine karte ho log jinse miloge, aur unka description likhte ho, phir unhein positive message ya encouragement associate karte ho. Shayad tumne shopping mall mein ek red hat pehne hue ladke ko imagine kiya, phir jab tum mall jaate ho, tumhe koi uss description ka milta hai. Tum usse message dete ho aur kehte ho ke tumhare paas ek message hai uske liye. Tum phir usse kindness ya jo tumhare dil mein ho wo message dete ho. Kabhi kabhi tumhe pata nahi hota, kisi ka din kharab hota hai aur ek anjaan insaan ka pyar unhe rula deta hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Tum treasure hunting aksar karte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Jab mein grad school mein tha (aur zyada time hota tha) tab zyada karta tha. Main aksar friends ke saath jaata tha. Ek waqt tha jab main Santa Cruz ke farmers market har week jaata tha aur koshish karta tha ke kuch feel karoon jo mujhe kisi anjaan se kehna ho. Aksar vague hope-filled messages hote the, magar kabhi kabhi kuch ajeeb specific bhi bol deta tha."
+        }
+    ],
+    "conversation2": [
+        {
+            "speaker": "human1",
+            "text": "Hi"
+        },
+        {
+            "speaker": "human2",
+            "text": "Weekend ke plans?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mere dost is weekend mujhe milne aayenge. Hum hiking karne ka plan bana rahe hain!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Bohot acha! Weekend par mausam kaisa hai? Umeed hai garmi hogi."
+        },
+        {
+            "speaker": "human1",
+            "text": "Bohot dhoop hogi! Tumhare kya plans hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Cool! Bohot depressing plans ... ghar par reh kar kaam karna  Mera project deadline bohot qareeb hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Umeed hai tumhara kaam jaldi hojaye! Bug free weekend!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Right, bohot anxious! Tum kahan hiking karne ja rahe ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main Diablo ja raha hoon!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nice, yeh kahan hai? Main wahan kabhi nahi gaya."
+        },
+        {
+            "speaker": "human1",
+            "text": "Yahan se ek ghante ka drive hai. Ab bhi bay area mein hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "That's cool! Hiking kitni lambi hogi?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Actually idea nahi, magar pura din lagega."
+        },
+        {
+            "speaker": "human2",
+            "text": "Nice! Maze ka lagega!"
+        }
+    ],
+    "conversation3": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey there! What's up???"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kuch khas nahi, tum kaise ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main iss week New York mein hoon Thanksgiving ke liye. Aaj office mein hun aur apne purane dost se mila"
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh wow! Mazedaar lag raha hai! Last time kab mile the is dost se?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Last time New York mein, June mein."
+        },
+        {
+            "speaker": "human1",
+            "text": "Ohh okay. Main soch raha tha agar bohot waqt ho gaya toh awkward ho sakta hai..."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, agar bohot zyada waqt ho jaye toh shayad zyada life events catch up karne hotay hain.. khas kar aaj kal."
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh really? Tumhari zindagi mein kuch zyada badal gaya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, shayad abhi batane ke liye zyada hai. Bas yeh samjho ke zindagi ek exciting experience hai. Tumhari kaisi chal rahi hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Ahhh lagta hai exciting hai! Meri zindagi kaafi bland hai. Mujhe routine pasand hai, magar kabhi kabhi chahta hoon ke adventures ke liye zyada waqt ho!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Kis tarah ke adventures?? Koi jo main bhi join kar sakoon?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hmmmm. Main sach mein bull riding try karna chahta hoon. Tumhe ismein dilchaspi hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main zaroor try karna chahoon ga! Kya hum agle hafte schedule kar sakte hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sure! Tumhara Saturday kaisa lag raha hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Saturday acha lag raha hai, subah kuch plan karein?"
+        }
+    ],
+    "conversation4": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey"
+        },
+        {
+            "speaker": "human1",
+            "text": "Aaj bohot barish ho rahi hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, bohot barish ho rahi hai, food truck options dekhne mein mushkil ho rahi hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Surprising hai ke barish itni jaldi shuru hogayi is saal... Mujhe zyada pasand nahi, din gloomy bana dete hain."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan magar bay area mein kuch rainy days achi baat hai, yahan kaafi dry hota hai ðŸ˜›"
+        },
+        {
+            "speaker": "human1",
+            "text": "Jahan main bada hua, wahan bhi paani ki bohot trouble thi..."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan mujhe bhi yaad hai, mere undergrad school mein ek bohot buri snowstorm dekhi thi, sab flights cancel aur traffic down."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha... Mujhe lagta hai main waisa mausam bardasht nahi kar sakta. Sirf 50 degrees mein barish hi mujhe heated rooms mein baithne par majboor kar deti hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, bay area mein kaise pasand hai? Mujhe lagta hai yahan zyada barish ki zaroorat hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Log kehte hain ke yahan drought hai... magar yahan 24 hours paani milta hai... lol... kabhi drought ridden area mein yeh nahi dekha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Yeh sahi hai, shayad mountains mein kaafi dry hai, jo fires ka sabab banti hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Hmm.... okay. Climate change talk subah kaafi interesting thi. Dekhi?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nahi, kya kaha?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Woh baat kar rahe the ke AI climate change mein kaise madad kar raha hai. Ache tarike se tech use ho raha hai."
+        }
+    ],
+    "conversation5": [
+        {
+            "speaker": "human1",
+            "text": "Hi."
+        },
+        {
+            "speaker": "human2",
+            "text": "Helloooooo!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kaisi ho? Din kaisa guzra?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Achi hoon. Aaj zyada kuch karne ko nahi tha, acha lag raha hai. Tum kaisi ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Aaj main bohot acchi tarah tayar hoon, isliye acha lag raha hai! Main bohot padh rahi hoon positive outlook ke psychology ke baare mein."
+        },
+        {
+            "speaker": "human2",
+            "text": "Toh tumhara outlook kya hai? Kuch blue?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan. Blue ek tranquil color hai. Acha metaphor hai. Tumhare paas positivity ke liye koi acha advice hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhe zyada paani peena chahiye, kuch push ups karne chahiye aur jaldi sona chahiye."
+        }
+    ],
+
+    "conversation6": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey, kaise ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Thoda udaas hoon. Meri cat ki yaad aa rahi hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh no Tumne missing cat posters lagaye? Umeed hai tumhari cat theek hai!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Posters ek badiya idea hai. Ab tak maine bas uski catfood dish baja kar aur uska naam chillaya hai. Tumhara din kaisa ja raha hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, mujhe pata hai unhein plastic bag ki awaaz bohot pasand hai. Main theek hoon, kuch khaas nahi."
+        },
+        {
+            "speaker": "human1",
+            "text": "Agar tumhe kahin bhi vacation par jana ho, toh kahan jaoge?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe rainforest pasand hain, lekin mujhe pata hai iske liye extensive training chahiye hoti hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Maine suna hai ke southeast Asia mein rainforests hain jahan tum zipline kar sakte ho tree se tree tak."
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe darr lagta hai ke main yeh karne se darr jaunga :)"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sach bolun toh, daravani lagti hai. Main abhi soch kar bhi darr rahi hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe nahi pata ke acrophobia ke liye koi dawai hai. Agar mujhe zarurat pade toh zyada saari lena chahta hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Agar nahi hai, toh tumhe invent karna chahiye, aur phir millions kamao."
+        },
+        {
+            "speaker": "human2",
+            "text": "Yeh great idea hai! Shayad alcohol aisa kuch hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Ha! Don't drink and zipline, mate!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Oops. Main dobara nahi karunga. Ha"
+        }
+    ],
+    "conversation7": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey sup"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kuch nahi. Weekend ke plans?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main woh try karne wala hoon jahan tum wire se latka kar neeche jaate ho. Tumhe pata hai usse kya kehte hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Ziplining?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Wahi! Tumne kabhi try kiya?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Maine kuch saal pehle kiya tha. Yeh kaafi unique experience hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumne kahan kiya tha?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Bhool gaya, magar local nahi tha shayad."
+        },
+        {
+            "speaker": "human2",
+            "text": "Koi baat nahi. Tumhari zindagi mein sab se exciting cheez kya hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Yeh mushkil sawal hai aur main thaka hua hoon, isliye ja raha hoon. Milte hain."
+        },
+        {
+            "speaker": "human2",
+            "text": "Sure. Tum ab ghar ja rahe ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Nahi, pehle massage lene jaa raha hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Nice. Kis tarah ka?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Traditional kind."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, mujhe bhi jald hi lena hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhe lena chahiye! Lambi din ke baad relaxing hota hai. Baad mein baat karte hain!"
+        },
+        {
+            "speaker": "human2",
+            "text": "TTYL!"
+        }
+    ],
+    "conversation8":[
+        {
+            "speaker": "human1",
+            "text": "Salaam!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Salaam, kya haal hai? Aaj kal koi achi film dekhi?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, kuch din pehle kuch dekhi thi, magar kuch bhi \"Avatar\" jaisi zabardast nahi thi. Tumhari favorite movie kaunsi hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Maine kabhi \"Avatar\" nahi dekhi. Ye kis baare mein hai? Mujhe \"Avengers\" movies bohot pasand hain."
+        },
+        {
+            "speaker": "human1",
+            "text": "Ye ek science-fiction movie hai, jisme ek khubsurat khayali duniya dikhayi gayi hai, jahan insaan nahi rehte. Log wahan ek avatar ke zariye ja sakte hain. Movie ka maqsad ye batana hai ke insani harkatein, jaise ped katna, fitrat ko kaise nukhsan pohncha rahi hain."
+        },
+        {
+            "speaker": "human2",
+            "text": "Wah, ye toh bohot zabardast lag rahi hai! Jab ye movie box office mein thi, toh bohot hit rahi thi, toh zarur achi hi hogi!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan bilkul. Tum movies ke ilawa aur kya karna pasand karte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe cookies banana bohot pasand hai. Mein duniya ki sabse behtareen chocolate chip cookie banane ki koshish mein hoon 😊 Tumhe kya pasand hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe cookies khana pasand hai 😊"
+        },
+        {
+            "speaker": "human2",
+            "text": "Toh tumhe zaroor meri best chocolate cookie try karni chahiye."
+        },
+        {
+            "speaker": "human1",
+            "text": "Jaldi hi bana ke tumhe bataunga. Tumhe kis kisam ka khana pasand hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Shukriya! Mujhe noodle soups bohot pasand hain, jaise Pho ya Ramen 😊"
+        },
+        {
+            "speaker": "human1",
+            "text": "Noodle soup toh lazeez hota hai! Tum khud ghar pe banate ho ya bahar jaate ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mein zyadatar bahar hi jaata hoon. Mein itna acha cook nahi hoon haha."
+        },
+        {
+            "speaker": "human1",
+            "text": "Mein bhi! Baking toh thik hai, magar cooking meri domain nahi hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Lagta hai hum dono mein kuch common hai, yay!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Salaam!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Salaam, kaise ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Theek hoon, shukriya. Tumhara hafta kaisa guzra?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Ab tak toh acha guzra. Ye holidays ka mausam hai, toh bas relax kar raha hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe lagta hai ke mujhe sardi lag rahi hai 😞 Tum meri taraf se bhi relax karna, kyunki mein December ke liye game se bahar hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, sorry sun kar afsos hua. Tumne December ke liye kuch mazedar planning ki?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kuch khaas nahi, zyada tar ghar pe hi rahunga. Is saal bohot safar kiya, toh budget bhi thoda tight hai, aur bimari bhi hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "😂"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhare kya plans hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan! Mein Hawaii jaa raha hoon! Pehli baar Hawaii dekhne jaa raha hoon, bohot excited hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Hawaii mujhe bohot pasand hai. Wahan ka humid weather acha lagta hai, isliye lotion lagane ki zaroorat nahi padti."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, pehli baar kisi ladke ko humidity aur lotion ke bare mein itna fikrmand dekha hai. Mein bhi sehmat hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Broooo! Ye zaroori hota hai. California ke beaches pe toh mujhe poore din ke liye 3 litre lotion le kar chalna padta hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "😂"
+        },
+        {
+            "speaker": "human1",
+            "text": "Salaam!"
+        }
+    ],
+    "conversation9": [
+        {
+            "speaker": "human2",
+            "text": "Hello! Boht dinon baad baat ho rahi hai. Din kaisa guzra?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Shukriya, acha guzar raha hai. Tumhara din kaisa raha?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Behtar ho raha hai. Abhi sardi se utha hoon. Pichle hafta barish mein bheeg gaya tha. Tumhare holidays ke liye kya plans hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sun kar acha laga ke tum behtar ho. Sorry ke bimaar the. Mein bhi kuch hafta pehle bura khaansi se guzra. Shayed koi virus ghoom raha hai. Bas chahta hoon ke holidays tak sehatmand rahoon aur relax karoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Bilkul sahi. Ghar pe relax karna bhi holidays ka behtareen tareeqa hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Bilkul! Mujhe pata hai ke bohot log holidays mein safar karte hain, magar mujhe ghar pe rehna zyada pasand hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Bilkul sahi. Mein bhi pehle har saal Christmas aur New Year ke liye safar karta tha, magar ab bore ho gaya hoon. Pata nahi yeh matlab hai ke mein buddha ho raha hoon?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mein bhi. Ab log holidays ke liye mere ghar aate hain! Magar ye bhi thoda thaka dene wala hota hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Tum ghar ko decorate kar rahe ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, humne eco-friendly (i.e. fake) Christmas tree lagaya hai aur kuch colorful LED lights lagayi hain jo bohot festive lagti hain."
+        },
+        {
+            "speaker": "human2",
+            "text": "Mein bhi yehi karunga. Mein aur meri biwi bhi Christmas tree decorate karne ka plan kar rahe hain. Humne aksar decorative items le liye hain, magar abhi tak tree nahi kharida."
+        },
+        {
+            "speaker": "human1",
+            "text": "Tree kharidna ek interesting tajurba hai. Mein confused tha ke artificial/eco-friendly/fake tree loon ya real tree jo fresh pine ki khushboo de. Akhir mein, humne woh liya jo har saal disassemble kar sakein."
+        },
+        {
+            "speaker": "human2",
+            "text": "Samajh gaya. Artificial cheezain zyada behtar hoti hain, tree se le kar intelligence tak, hai na?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha, bohot clever pun! Mujhe pasand aaya! Depends. Bachpan mein real Christmas trees the, magar climate change ki wajah se, mujhe lagta hai ke tree ko nahi katna chahiye sirf decorate karne ke liye aur phir ek mahine baad fake do."
+        },
+        {
+            "speaker": "human2",
+            "text": "Sahi kaha. Ye bhi sasta hota hai. Mein bhi artificial kharidoonga. Koi store suggest karna chahoge?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mera favorite store Target hai, aur wahan aksar ache deals milti hain."
+        },
+        {
+            "speaker": "human2",
+            "text": "Ah, bohot acha. Meri biwi ko bhi Target bohot pasand hai. Usne Target ka credit card bhi banaya hai kyunki wahan aksar shopping karti hai. Thanks for the suggestion. Mein Target check karunga."
+        },
+        {
+            "speaker": "human1",
+            "text": "Great, mujhe umeed hai ke tumhe achha tree mil jaaye."
+        },
+        {
+            "speaker": "human1",
+            "text": "Salaam!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Salaam!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Din kaisa guzra?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Acha tha. Tumhara?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Ehh, thik tha. History test mein kuch acha nahi kiya."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh, kya hua?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Pata chala ke Christopher Columbus Civil War mein nahi lada tha :')"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hahah, seriously?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Bilkul! Tum agle semester history le rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nahi, mein ab school mein nahi hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh, samajh gaya. Tum kya karte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mein horse vaulting ka training aur competition karta hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Wow. Kya tum pehle se ghoda the ya tumhe ghode mein badla gaya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, tum bohot funny ho."
+        },
+        {
+            "speaker": "human1",
+            "text": "Bas mazaak kar raha tha. Yeh bohot cool lagta hai! Kya yeh tumhara job hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, magar part-time ek farm pe kaam karta hoon. Har cheez mein thoda thoda madad karta hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Wah, bohot busy lagta hai! Kya horse vaulting competitions mein paise milte hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, kuch milte hain. Bas guzara ho jata hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Salaam!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Salaam"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhari favorite phool kaunsi hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hmm, maine kabhi itna socha nahi, magar mujhe lotus bohot pasand hai. Tum kyun pooch rahe ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mein ek theory pe kaam kar raha hoon. Lotus kyun yaad aayi?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Lotus dekhne mein bohot khubsurat lagti hai aur ek delightful vibe hoti hai usme. Tumhara research kis baare mein hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh, yeh research nahi hai! Bas meri personal theory hai. Mein samajhta hoon ke logon ke phool pasandgi unki personal zindagi aur khayalon ke bare mein bohot kuch kehti hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Wah! Yeh bohot interesting theory hai. Tumhe kya pata chala ab tak?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Abhi tak bas logo ko observe kar raha hoon. Ab mein tumhe ek fun fact bataunga: log aksar apne phool ke pasand ko pasand karte hain kyunki woh phool ki khubsurati ko dekhte hain aur usse apni zindagi mein rang bharte hain. Jaise lotus, jo calm aur peaceful lagta hai. Tumne apne andaaz mein uski yaad fresh kar li."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, bohot interesting hai yeh. Tum kaunse phool ko pasand karte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe lily bohot pasand hai. Uski fragrance aur rang bohot pasand hai mujhe."
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhari theory ke hisaab se iska kya matlab hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mere hisaab se yeh batata hai ke mujhe khushbu aur khubsurati pasand hai. Mein shayad ek aesthete hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh, wah! Ab jab bhi phool dekhunga toh tumhari theory yaad aayegi."
+        },
+        {
+            "speaker": "human1",
+            "text": "Salaam! Eid pe humara ek chhota sa jhagra ho gaya tha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Salaam. Arre nahi, kya hua?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Bas chhoti moti baatein thi jo thodi badh gayi. Magar ab sab theek hai. Tumhare New Year ke plans kya hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh, accha. New Year pe bas ghar pe hi rahunga, thoda relax karunga. Tumhare kya plans hain?"
+        }
+    ],
+    "conversation10": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey, kaisa chal raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sab theek hai, tum kaise ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Sab theek. Aaj bohot garmi hai. Shayad main pool jaunga."
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh nice! Tum kahan rehte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main Tokyo, Japan mein rehta hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Ahh haan, Japan mein garmi hoti hai summer mein. Last time jab main Kyoto mein tha, 114 degrees tha...."
+        },
+        {
+            "speaker": "human2",
+            "text": "oh, tum Japan gaye ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan haan. Main Tokyo bhi gaya hoon. Bohot acha hai!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumne wahan kya kya kiya?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sab kuch! Main onsen gaya, fish market, Disney Land aur giant robot fighting show dekha haha."
+        },
+        {
+            "speaker": "human2",
+            "text": "lol, tum sirf Disney Land ke liye Japan aaye the?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Disney Lands sab different hote hain! Aur wahan Disney Sea bhi hai, jo bilkul unique hai!"
+        },
+        {
+            "speaker": "human2",
+            "text": "oh neat. Mujhe us robot fighting show ke baare mein nahi pata tha. Wo kahan hota hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe exactly yaad nahi kahan tha. Lekin bohot cool tha - mujhe yakin hai agar tum google karoge \"giant robot fighting show tokyo\" to mil jayega haha."
+        },
+        {
+            "speaker": "human2",
+            "text": "lol ok."
+        }
+    ],
+    "conversation11": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumne recently koi achi movie dekhi?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Last weekend maine \"The Parasite\" dekhi. Kabhi suna hai iske baare mein?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nahi. Tumne ye movie kyun choose ki?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mera dost dekhna chahta tha. Iske IMDB aur Rotten Tomatoes pe bohot achhe reviews hain! Tumne last weekend kya kiya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Maine music play kiya aur kuch side projects pe kaam kiya. Maine naye Disney service ko bhi shuru kiya."
+        },
+        {
+            "speaker": "human1",
+            "text": "Oooo the Mandalorian?!?!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mostly, Avengers ke deleted scenes dekhe.. lol."
+        },
+        {
+            "speaker": "human1",
+            "text": "lol Tum bohot bade Marvel fan ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe bachpan mein X-Men pasand tha, aur maine comic cards collect kiye the. Ab recently, main Marvel Cinematic Universe movies mein interested hoon. Tumne kitni Avengers movies dekhi hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Maine sirf Spiderman dekhi hai. Honestly wo thoda darawni thi aur isliye main dusri Marvel movies dekhne ka himmat nahi kar sakta! haha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh!-- Mere ek dost hai jo Spiderman actor jaisa dikhta hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh really? Sach kahun to mujhe lagta hai actor itna achha nahi dikhta, to koi surprise nahi! haha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan. Mujhe lagta hai Loki sabse handsome hai ðŸ˜€"
+        },
+        {
+            "speaker": "human1",
+            "text": "Loki kaun hai? Maine kabhi ye naam nahi suna."
+        },
+        {
+            "speaker": "human2",
+            "text": "Wo Thor ka adopted bhai hai, God of Thunder, aur glorious purpose ka burden uthane wala. Tumhe wo burden mehsoos hota hai?"
+        }
+    ],
+    "conversation12": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey, kya chal raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Bas chillin'. Tum kaise ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main theek hoon, shukriya."
+        },
+        {
+            "speaker": "human1",
+            "text": "Aaj kuch interesting kiya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main local cafe gaya aur double espresso piya. Wo bohot mazay ka tha. Tumne kya kiya?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh cool! Main actually amusement park gaya aur pehli baar roller coaster pe chadha!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh my gosh. Wo kaisa tha?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Darawna tha! Wo actually Kingda Ka tha, duniya ka tallest roller coaster. Kabhi suna hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nahi, kabhi nahi suna. Lekin main roller coaster aficionado nahi hoon. Maine suna hai kuch log isse addicted ho jate hain aur duniya bhar mein unhe try karne jate hain."
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh wow! Main abhi us level pe nahi hoon, lekin mujhe uska appeal samajh aata hai. Kya tum adrenaline junkie ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nahi, bilkul opposite. Mujhe heights, horror movies, ya confined spaces pasand nahi."
+        },
+        {
+            "speaker": "human1",
+            "text": "Same! Mujhe lagta hai roller coaster itna bura nahi tha kyunki mujhe engineering pe bharosa tha haha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Ha, ye to samajh aata hai! Kya tumhe maza aya?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Shayad us waqt itna nahi, lekin ab jab ho gaya to main khush hoon, samajhte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe lagta hai main thoda samajhta hoon :)"
+        }
+    ],
+    "conversation13": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "hello there, kaisa chal raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sab theek. Jaldi ghar jaane ka plan bana raha hoon. Tum kya kar rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main kaafi thak gaya hoon. Boht sari cheezein khatam karni hain saal ke end se pehle."
+        },
+        {
+            "speaker": "human1",
+            "text": "oh... sun kar bura laga. Lekin uske baad ek hard earned vacation milegi."
+        },
+        {
+            "speaker": "human2",
+            "text": "haan, uska intezar hai. Umeed hai holidays mein koi ping nahi karega. Kya tum travel karoge in dates?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kuch tentative plans hain, lekin agar wo nahi bane to bas ghar pe chill karunga."
+        },
+        {
+            "speaker": "human2",
+            "text": "holidays mein ghar pe rehna hamesha achha lagta hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Tum abhi kahan rehte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main LA se kaam kar raha hoon, yahaan ka weather achha hai. Tum?"
+        },
+        {
+            "speaker": "human1",
+            "text": "San Francisco. Yahan last 2-3 weeks se bohot baarish ho rahi hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "oh yaar, sun kar bura laga. Kam az kam snow nahi hai!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Flu bhi bohot zor se fail raha hai. Mere ghar ke kuch log bimaar the ek waqt pe."
+        },
+        {
+            "speaker": "human2",
+            "text": "wo bohot sad hai. Kya ab wo theek hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, sab recover kar gaye hain."
+        }
+    ],
+    "conversation14": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hello."
+        },
+        {
+            "speaker": "human1",
+            "text": "Kaisa chal raha hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Bohot busy. Main holidays ki tayyari kar raha hoon. Tumhara kya haal hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main Bahamas ja raha hoon. Can't wait!!!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe jealousy ho rahi hai, mujhe bhi le chalo!! Mujhe abhi thoda warm weather chahiye."
+        },
+        {
+            "speaker": "human1",
+            "text": "oh tum kahan ho abhi?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Canada. Ek aur bada snowstorm aane wala hai weekend pe to main sab kaam jaldi khatam kar raha hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "oh no. Maine kabhi aisa dekha nahi. Kya ye darawna hota hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Snow tab darawna nahi hota jab tum prepared ho. Tumhe bas ready rehna hota hai kuch waqt ke liye electricity ke bina. Mujhe achha lagta hai snowstorm ke baad kyunki phir tum sledding ya skiing kar sakte ho."
+        },
+        {
+            "speaker": "human1",
+            "text": "wo to achha lagta hai. To tum holidays mein kya karoge?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mere extended family sab milke ek bada meal banayenge. Hum <REDACTED_TERM> bhi jaayenge. Tum Bahamas mein kya karoge?"
+        },
+        {
+            "speaker": "human1",
+            "text": "nice nice. Main snorkeling karne jaunga yey."
+        },
+        {
+            "speaker": "human2",
+            "text": "Fun lagega! Kaash mujhe swimming aati!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tum shallow side mein reh sakte ho I think. Well hope you enjoy time with your extended family!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Bilkul. Tum bhi, snorkeling ka maza lena!"
+        }
+    ],
+    "conversation15": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi! Tumhara weekend kaisa tha?"
+        },
+        {
+            "speaker": "human1",
+            "text": "kaafi acha. Church gaya aur doston ke saath hangout kiya."
+        },
+        {
+            "speaker": "human2",
+            "text": "Nice."
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumne kuch kiya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Maine air fryer mein donuts aur samosas banaye. Kabhi use kiya?"
+        },
+        {
+            "speaker": "human1",
+            "text": "yum yum yum nahi, sirf old oily fryer."
+        },
+        {
+            "speaker": "human2",
+            "text": "haha."
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhare ghar pe hai ya doston ke saath the?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main apne parents ke ghar pe tha. Tumhara Thanksgiving ke plans kya hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main pumpkin banne ka natak karunga."
+        },
+        {
+            "speaker": "human2",
+            "text": "wow, wo unique plans hain."
+        },
+        {
+            "speaker": "human1",
+            "text": "Main kaafi unique hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Bilkul."
+        },
+        {
+            "speaker": "human1",
+            "text": "Air frying ke ilawa koi aur hobbies hain? ðŸ™‚"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main fermenting shuru karna chahta hoon. Kimchi for example. Mazedaar lagta hai ferment karna. Kuch din lagte hain apparently. Miso ko ferment hone mein kuch saal lagte hain."
+        }
+    ],
+    "conversation16": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "heya, milke acha laga, main Paul hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumse milke bhi acha laga! Main James hoon. Tumhara din kaisa guzar raha hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main theek hoon. Weekend ka intezar kar raha hoon. Tumhara kaisa chal raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Ab tak theek hai. Garmi bohot hai. Tumhare weekend ke plans kya hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tum kahan rehte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Melbourne, Australia."
+        },
+        {
+            "speaker": "human2",
+            "text": "Australia jaana meri bucket list mein hai. Maine suna hai wahan wildfires hote hain."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, kuch saalon pehle bohot bure fire the. Tum kahan rehte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main Vancouver, Canada mein hoon. Yahan weather kaafi mild hota hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Vancouver achha lagta hai mujhe. Main wahan 2016 mein gaya tha. Grouse Mountain gaya tha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh yes, wahan views bohot amazing hain!"
+        }
+    ],
+    "conversation17": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hello. Tumhara hafta kaisa guzar raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Bahut acha, shukriya. Main croissants banana seekhne ki koshish kar raha hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Wah, yeh to dilchasp hai. Maine cookies banai hain, lekin croissants zyada mushkil lagte hain. Kya tumhe koi taraqqi hui?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Maine ab tak ek ya do dafa banaye hain, lekin woh itne flakey nahi huye. Main samajhne ki koshish kar raha hoon kyun. Tumne kis qisam ki cookies banayi hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mint chocolate chips. Mera khayal hai tumhare croissants flakey na hone ka taaluq oven ki temperature se ho sakta hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Ah, acha khayal, shukriya!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Kya tumne apne croissants mein chocolate melt karne ka socha? Yeh zaruri nahi ke kuch unhealthy ho. Misal ke taur pe, melted dark chocolate dil ke liye achi hoti hai aur croissants ko aur behtar banati hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Ab yeh to acha idea hai. Agli dafa zarur try karunga. Tumhe meetha pasand hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan. Jab mere favourite foods mein cookies, M&Ms, Danish cheese waghera hain, to mujhe pata hai mujhe meetha pasand hai. Lekin kon meetha nahi pasand karta? Tumhe kaisa lagta hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kuch log nahi pasand karte! Lekin haan, mujhe bhi, mujhe lagta hai ke main pastries har waqt kha sakta hoon agar mujhe mana na kiya jaye."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, mujhe dar hai ke main nahi kar sakta. Har dafa ice cream khane ke baad mujhe bohat bura lagta hai. Lekin aaj kal bohat si guilt-free meethi cheezen hain. Misal ke taur pe, ek ice cream brand hai jise <REDACTED_TERM> kehte hain. Sirf 320 calories per pint hoti hain. Aur haan, iska taste bhi normal sweet flavors jaisa hota hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Wah! Aakhri dafa jab maine aise cheezon pe tawajju di thi, to <REDACTED_TERM> ko fat substitute ke taur pe market kiya gaya tha, aur isne har tarah ke crazy stomach upsets paida kiye the."
+        },
+        {
+            "speaker": "human2",
+            "text": "Dilchasp. Maine ek program jise Keto diet kehte hain, usme sweet substitute ke bare mein suna tha. Basicly, hum har roz apni sugar intake ko limit karte hain. Successful Keto dieters ne <REDACTED_TERM> ice cream ko apni insatiable sugar craving ko pura karne ke liye recommend kiya hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Ah, shayad yeh woh solution hai jo mujhe meetha enjoy karne aur bura na mehsoos karne mein madad dega. 😊"
+        }
+    ],
+    "conversation18": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hello! Tum holiday season ke bare mein kuch batao?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tum Thanksgiving ki baat kar rahe ho? Main yahaan bohat saara shopping karne ka plan bana raha hoon. Tumhara kya plan hai?"
+        },
+       {
+            "speaker": "human2",
+            "text": "Haan, shopping ka koi plan nahi lekin mujhe Thanksgiving ka khana khane ka intezar hai. Yay for pumpkin pie!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Acha lag raha hai! Tumhe Thanksgiving ke liye pumpkin pie ka intezar nahi karna chahiye. 😄"
+        },
+        {
+            "speaker": "human2",
+            "text": "LOL, mujhe pura pie khane ka guilt kam mehsoos hota hai jab mere paas ek excuse hoti hai. 😛"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sach! Mujhe lagta hai Thanksgiving zyada sharing ke baare mein hai. To tum shayad pie ko puray khandan ke sath share kar sakte ho. 😛"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mera khandan mujhse zyada healthy khata hai, to yeh sab mera hai. 😈 Tumhe stuffing pasand hai? Mujhe lagta hai yeh sirf saal mein ek dafa milti hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Stuffing! Haan, please! Main soch raha hoon Christmas ke liye excitement ka kya level hoga. :)"
+        },
+        {
+            "speaker": "human2",
+            "text": "Aur zyada shopping? Agar mujhe nahi pata ke mujhe kya chahiye, to kya kharidun?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Jo bhi cheez discount tag ke sath ho! ... Mazaak kar raha hoon! Main aam tor pe prices ka research karta hoon, aur zyadatar kapde aur electronics kharidta hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumne ab tak sabse acha holiday deal kya paaya hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Maine sabse acha suit kabhi ke liye kharida jo tumhe darayega. 😄"
+        },
+        {
+            "speaker": "human2",
+            "text": "Batao mujhe!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hehe, zarur! Main tumhare sath kuch links share kar sakta hoon baad mein."
+        }
+    ],
+    "conversation19": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Kaisa chal raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Aaj main bohat neend mein hoon!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Kal raat ko theek se neend nahi aayi?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, raat bhar homework kar raha tha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh, waqai? Kaunsa class?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Biology. Main ek din doctor banunga ha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, tum med school mein ho? Ya pre-med?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Nahi, actually high school mein hoon. Haha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, high school ke liye bohat ambitious! Tumhe pata hai kis qisam ki medicine practice karni hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main brain surgeon banana chahta hoon!!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Ooof! BOHAT ambitious. Kya tumhare haath stable hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kind of, mujhe lagta hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Shayed main practice kar sakta hoon?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kya yeh kuch aisa hai jo practice kar sakte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe waqai pata nahi."
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe lagta hai yeh un cheezon mein se hai jo tumhe paidaishi milti hai... Ye nahi ke tum koshish nahi kar sakte!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Acha point. Mujhe apne teacher se poochhna chahiye ke yeh paidaishi hona chahiye."
+        },
+        {
+            "speaker": "human1",
+            "text": "Shayed yeh sochne ke liye thoda jaldi hai. Bas med school ka aim rakho aur journey ka maza lo!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan."
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhe aur kaun se subjects pasand hain? Khuli soch rakho!"
+        }
+    ],
+    "conversation20": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi. Yeh to pleasant surprise hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha... Shukriya! Gift kaisa laga?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Abhi unpack kar raha hoon shayad. Tumhara subah kaisa tha?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Ummid hai tumhe pasand aaye! Subah acha tha. Holidays se pehle cheezen finish kar raha hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe lagta hai maine aakhri kuch mahine bohat zyada travel kiya hai to koi holiday nahi mere liye. Lekin main theek hoon is se. Tum kahin exciting ja rahe ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan."
+        },
+        {
+            "speaker": "human2",
+            "text": "Kahan?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hawaii... garmi ke beaches ka intezar hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "WOW. Konsa island? Mujhe Hawaii pasand hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Maui... Ummid hai mujhe bhi pasand aaye. Pehle kabhi nahi gaya."
+        },
+        {
+            "speaker": "human2",
+            "text": "Maine Maui visit kiya tha. Yeh meri doosri favourite island hai jahan gaya hoon, globally. Tumhe Hana road pe drive karni chahiye. Yeh poora din ka kaam hai lekin yeh worth it hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Awesome! Tip ka shukriya."
+        }
+    ],
+    "conversation21": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi! Der se jawab ke liye maazrat. Aap kaise hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main badiya hoon, shukriya! Jald hi kuch dostoon se milne ja rahi hoon soccer ke match ke liye. Aur aap?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main abhi matcha latte lekar aaya hoon ðŸ™‚ Apne desk par kaam kar raha hoon. Kya aap aksar soccer khelti hain? Main regular physical activity shuru karne ki koshish kar raha hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, par main usmein bahut buri hoon. Doston ke saath kuch bhi khelna maza aata hai, mujhe lagta hai. Aapko kya lagta hai, aap group mein exercise karna pasand karenge ya akelay?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe lagta hai team sport casual ho toh maza aata hai, lekin main exercise karne ke liye zyadatar akela hi bhagta hoon. Main ne haal hi mein Switch par Ring Fit adventure game bhi khareedi hai. Yeh ek tarah ka game hai jo exercise ko fun bana deta hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Main bhi Switch lena soch rahi hoon, kya aap recommend karoge?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan! Switch par bahut saare zabardast games hain. Mere do favorite Octopath Traveler aur Fire Emblem hain. Kya aap video games khelti hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main zyada gamer nahi hoon par yeh ek cheez hai jo main seekhna chahungi."
+        },
+        {
+            "speaker": "human2",
+            "text": "Aap free time mein kya karte hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main fun ke liye padhna pasand karti hoon. Main abhi ek book Temeraire padh rahi thi. Yeh ek adventure story hai Napoleonic navy mein set, Patrick O'Brien ki tarah, lekin isme dragons bhi hain."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh cool! Main bhi fun ke liye bohot padhta hoon ðŸ™‚ Mera favorite genre sci-fi fantasy hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Aapne kya abhi tak ka acha padha hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mere recent favorites mostly sci-fi hain (Exhalations, Vita Nostra aur Dark Matter) lekin Sanderson/Garth Nix ki fantasy books bhi mujhe bohot pasand hain."
+        }
+    ],
+    "conversation22": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "hey, kya haal hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhein lagta hai human-like chat bots ke baare mein kya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main intezaar kar raha hoon ki woh achhe conversationalists ban jaayein!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, humne last kuch saalon mein bohot progress kiya hai lagta hai. Kya tumhe lagta hai ke iske faide nuqsan se zyada hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Kya nuqsan hai? Kuch hai bhi?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Jaise impersonation? Lekin yeh toh door ki baat hai ðŸ™‚"
+        },
+        {
+            "speaker": "human2",
+            "text": "Log toh abhi bhi doosre logon ki impersonation kar sakte hain! Mujhe lagta hai bots se baat karna bohot acha hoga."
+        },
+        {
+            "speaker": "human1",
+            "text": "Sahi baat hai! Kuch bots bohot engaging aur funny hote hain. Ab woh sarcasm mein bhi achhe ho gaye hain. Mujhe lagta hai ki ab door nahi jab yeh bots monologues dena shuru karenge :)"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhein lagta hai bade faide kya honge? Jaise personal assistants?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main sochti hoon ki yeh ek product ke bahut saare forms le sakta hai. Research implications bhi bohot badi hain! Yeh dikhayega ki AI research kitna progress kar chuka hai aur zyada futuristic problems ko tackle karne ke liye behtar tareeqa hai ðŸ™‚ Jaise ki moon par pahunchne ki tarah ðŸ™‚ Shayad main thoda zyada hype kar rahi hoon ðŸ˜›"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nahi, main agree karta hoon -- yeh ek bohot exciting time hai jahan yeh sab dekhne aur uska hissa hone ka mauka mil raha hai. Mujhe lagta hai kya kabhi main ek din chatbot ko bas auto-suggest conversations ke liye use kar sakunga."
+        },
+        {
+            "speaker": "human1",
+            "text": "Current auto-suggestions toh abhi bhi kaafi achhe hain ðŸ™‚"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, wo actually kuch words ke liye bohot achhe hain! Main imagine kar raha hoon ki poora conversation response auto-suggest kare, jaise ek default template."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha, yeh toh bohot door ki baat hai ðŸ™‚ Tumse baat karke achha laga!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe bhi ðŸ™‚"
+        }
+    ],
+    "conversation23": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi "
+        },
+        {
+            "speaker": "human1",
+            "text": "Aane waale holidays ke liye koi bada plan hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Der se jawab ke liye maazrat -- Haan, main holidays mein Tahoe mein skiing ke liye ja raha hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Yeh sunne mein badiya lag raha hai. Mujhe skiing seekhna hai par lagta hai main bohot buda ho gaya hoon aur girne se hamesha ke liye asar reh jayega. Kya tum dost ke saath ja rahe ho?"
+        }
+    ],
+    "conversation24": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main abhi kaam se aayi hoon, bohot thak gayi hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh sunke afsos hua! Tumne kaunsa kaam kiya?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main ek vakil hoon. Isliye din bhar clients se baat karte rehti hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh, tum vakil ho. Mujhe yeh profession bohot interesting lagta hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Sach? Kyun?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Bahut stressful lagta hai "
+        },
+        {
+            "speaker": "human1",
+            "text": "Yeh bilkul alag hai mere kaam se rozi roti kamane ke liye."
+        },
+        {
+            "speaker": "human2",
+            "text": "Tum kya karte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main ek painter hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh wow, tum kis tarah ke paintings banate ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main oil paintings banati hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Achha. Insaanon ki ya phir nature ki ya kuch aur?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main kai tarah ke paintings banati hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Cool, mujhe kabhi dekhna hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Zaroor! Koi baat nahi!"
+        }
+    ],
+    "conversation25": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Kya tum miracles mein believe karte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Lol. Nahi. Mere paas bahut se log hain jinki zindagi bekar hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Kya hum unki madad kar sakte hain, taaki unki zindagi thodi aasan ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Unmein se bahut saare hain. Jitne ho sake unki madad karo. Magar yeh nahi kehta ke mujhe miracles mein believe hai - well, agle promotion ke cycle mein agar mujhe promotion mil gayi toh shayad apni raaye badal doon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha... Toh career tumhare liye bahut important lagta hai. Zindagi mein tumhe sabse zyada kya maayne rakhta hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Abhi toh kuch zyada nahi. Samajh nahi aa raha. Career achha fallback hai kyunki aapko bata diya jata hai ke achha kya hai aur aap uske mutabiq kaam karte hain. Main abhi tak apne values shape karne ke process se nahi guzra. Tumhare baare mein kya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main yeh kehta hoon ke main apni zindagi mein sabse achhe duniya ke liye jeena chahta hoon. Shayad bachpan mein bahut video games khelne ka asar ho."
+        },
+        {
+            "speaker": "human1",
+            "text": "Hamare yahan toh bijli nahi thi. Yeh sab samajh mein aagaya. Lol."
+        },
+        {
+            "speaker": "human2",
+            "text": "Bina bijli ke rehne se kya tumhe alag background wale logon ke saath adhik samvedana hoti hai ya phir un logon se thoda doori mehsoos hoti hai jo samajhte nahi hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Yeh logon ke saath samvedana badhana aasan ho jata hai jinhone cheezein kam paayi hain. Yeh nahi keh sakta ke mujhe sab logon ke saath samvedana hai. Tum kahan se ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main United States mein bada hoon, magar mere maa-baap parosiyon ke dhokaadhaadi mein unki saari paisa khatam ho gayi, isliye hum Taiwan chale gaye apne parivar ke paas thode samay ke liye rahne ke liye."
+        },
+        {
+            "speaker": "human1",
+            "text": "SAARI PAISA? Kisi vyakti ya sansthaan ne?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main chhote the tab samajh nahi paya, magar apparently kuch log Asian immigrants ko apne restaurant business mein invest karne ke liye dhoka de dete hain. Mujhe pata hai ki doosra hissa yeh tha ki meri maa bimaar ho gayi thi/ hospital mein bharti hui thi, aur humare paas insurance nahi tha. Sachchai kya hai aur mere maa-baap logon ko kya dikhana chahte hain iske beech ka antar, mujhe sach mein pata nahi hai. Main toh bas yeh jaanta hoon ke ek pal mein main US mein tha, aur phir mujhe Taiwan ke liye flight par bitha diya gaya, aur maine apna samaan phir kabhi nahi dekha. Kuch tarah se, yeh mujhe zyada sentimental banata hai. Kya tumhe lagta hai ke tum apne background ke natije mein zyada sthir aur vyavsaayik ho?"
+        }
+    ],
+    "conversation26": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hello!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kya tum is cycle mein mentorship program mein hissa le rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Matlab mentor ke roop mein ya mentee ke roop mein?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Dono mein se koi bhi... Main mentorship ko overall kaafi faydemand maanta hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Main pehle ismein shaamil hua hoon magar is cycle mein nahi. Tumhare baare mein kya?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Is baar maine mentee ke roop mein sign up kiya hai. Mere paas ek accha mentor mila hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Wow, yeh bahut accha hai tumse. Mentor program ke liye, mujhe vyaktigat roop se 1:1 baatcheet zyada pasand hai group charcha se. Group discussion bhi kaam aati hai magar vishay bahut samanya hote hain."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan... Main bhi nishchit roop se 1:1 pasand karta hoon, magar kabhi-kabhi doosre peer ke nazariye sunna bhi achha hota hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Apne anubhav ko share karne ke liye shukriya! Ab main soch raha hoon shayad main bhi mentor ke roop mein shaamil ho jaun kyun ki maine mentee ke roop mein mazaa liya tha ðŸ™‚"
+        },
+        {
+            "speaker": "human1",
+            "text": "Bahut accha! Tum kis tarah ke cheezon par mentorship dena chahte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hmm, shayad kaam zindagi ka balance "
+        },
+        {
+            "speaker": "human1",
+            "text": "Bahut achha. Main apne communication skills par kaam kar raha hoon apne mentor ke saath is cycle mein."
+        },
+        {
+            "speaker": "human2",
+            "text": "Ah, samajh gaya. Kaise chal raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Accha chal raha hai. Last session mein sabko taiyaar hona pada aur presentation dena pada. Kaafi serious maamla ðŸ˜‰"
+        },
+        {
+            "speaker": "human1",
+            "text": "Buhat zabardast hai. Is cycle mein apne mentor ke saath apni communication skills par kaam kar raha hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Ah samajh gaya. Kaisa chal raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Achha chal raha hai. Pichli session mein sabko tayyar hona para aur presentation dena tha. Kaafi serious mamla hai ðŸ˜‰"
+        }
+    ],
+    "conversation27": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey! Aaj kaisa feel kar rahe ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Achhe ho, tum kaise ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Thoda darr lag raha hai kyunki aaj raat kuch doston ke liye dinner banana hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Unse kahaan mile the?"
+        },
+        {
+            "speaker": "human2",
+            "text": "College mein, jab hum sab geology padh rahe the."
+        },
+        {
+            "speaker": "human1",
+            "text": "Cool. Tumne graduation kar liya hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, humne sattar ke dashak mein graduation ki thi. Har saal dinner par milte hain aur turn-by-turn host karte hain."
+        },
+        {
+            "speaker": "human1",
+            "text": "Achha. Kya khana banaya hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Pata nahi!! Is baat se mujhe darr lag raha hai. Baaki sab achhe pakwan banate hain aur main toh bilkul hi bakwaas hoon. Tumhe cooking pasand hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha, klutz kya hota hai? Haan, mujhe cooking pasand hai, lekin main achha nahi hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhara pasandeeda dish kya hai? Koi favorite hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Ground beef banana bohot easy hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Ah, solid. Tumhara pasandeeda khel kaunsa hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe badminton pasand hai. Main usmein kaafi achha hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "High school mein maine ek ya do baar khela tha. Mujhe pasand tha ki yeh beginners ke liye kaafi easy hai, squash ke mukabale."
+        },
+        {
+            "speaker": "human1",
+            "text": "Squash maine kabhi nahi khela. Ek baar try karna pasand karunga."
+        },
+        {
+            "speaker": "human2",
+            "text": "Mat karna! Bohot tough hai! Mahino-mahine practice karne ke baad bhi aadmi pagal lagta hai."
+        }
+    ],
+    "conversation28": [
+        {
+            "speaker": "human1",
+            "text": "Hi"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main toh hamesha robot se hi baat kar raha tha :)"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha. Tum kis baare mein baat kar rahe the?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Kpop..."
+        },
+        {
+            "speaker": "human1",
+            "text": "Theek hai. Tumhara favorite group kaunsa hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Ab mujhe kpop pasand nahi."
+        },
+        {
+            "speaker": "human1",
+            "text": "Kyun nahi?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Ab main buddha ho gaya hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Hahaha"
+        },
+        {
+            "speaker": "human2",
+            "text": "Ab tumhe kya pasand hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "John Mayer :)"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe lagta hai main usko jaanta hoon. Kya uska style thoda mellow hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mellow style kya hota hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe lagta hai woh thoda dukhi aur dheema hota hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Umm, haan usmein thoda hai lekin sab songs aise nahi hote."
+        },
+        {
+            "speaker": "human2",
+            "text": "Matlab uske kuch songs aise hote hain lekin sab nahi?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, aise hi. Tum robot jaise behave kar rahe ho, mujh jaise?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Thoda sa haha"
+        }
+    ],
+    "conversation29": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi"
+        },
+        {
+            "speaker": "human1",
+            "text": "Theek hai... mujhe kisi se baat karni hai jo scenario par mujhe soch raha tha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Sure, kya scenario hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mere partner ke purane dost ne mujhe lunch ke liye bulaya hai (abhi wo ache dost nahi hain). Lekin unke dosti ke dauraan maine unse alag ek rishta banaya kyunki hum sab bahut saath ghoomte the. Ab mujhe lagta hai mujhe taraf lena chahiye."
+        },
+        {
+            "speaker": "human2",
+            "text": "Yeh ek mushkil scenario hai , Main strongly yeh manta hoon ki apne partner ke saath is baare mein baat karni chahiye. Mere ko toh nahi pata ki aapke partner aur unke dost ke beech kyun gadbad hui hai, lekin main manta hoon ki dosti mein hamesha sudhaar ho sakta hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Main bhi yahi ummeed karta hoon. Bade hone ka matlab chhote chhote circles ho jaate hain. Dosto ko bina kisi wajah ke kho dene se bohot bura lagta hai. Tumhara suggestion achha hai, lekin mujhe darr hai ki is baat ko uthana ya toh ghaddari jaisa lag sakta hai. Lol."
+        },
+        {
+            "speaker": "human2",
+            "text": "Sahi baat hai! Main bhi yahi sochta hoon! Time ke saath kuch situations theek ho jaati hain. Shayad kuch karne ki zaroorat hi nahi hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Matlab sab se doori rakhna?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nahi, yeh extreme hoga. Shayad bas dono options ke beech balance banana theek hoga."
+        },
+        {
+            "speaker": "human1",
+            "text": "Log hamesha balance dhoondne ki baat karte hain lekin kabhi yeh nahi batate ki woh balance kya hota hai. Yeh itna common bolte hain ki woh khokla ho gaya hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Sahi baat hai, shayad iska jawab ek hi nahi hota hai. Yeh uspe depend karta hai ki aap kis cheez ko zyada ahmiyat dete hain aur aapke aas paas ke kuch factors pe bhi."
+        },
+        {
+            "speaker": "human1",
+            "text": "Lol, mujhe lagta hai ki single hona accha hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, sab log single hone par zyada fine hote hain ðŸ™‚"
+        }
+    ],
+    "conversation30": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hello there!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Aaj ka din kaisa guzar raha hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Ab tak toh theek hai. Wednesday hai. Aur do din baki hain, haan"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha, weekend ke liye excited ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, mere doston ke saath <REDACTED_TERM> dekhne ja raha hoon. Pehli baar. Bohot excited hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh wow! Tum live dekhoge ya TV par?"
+        },
+        {
+            "speaker": "human2",
+            "text": "San Jose mein live. Is Saturday ko."
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh, sharks??? Hockey live dekhna sach mein maza aata hai! Lekin thoda violent ho sakta hai.. haha"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan! Yehi suna hai! Players bas fight ke liye hote hain! Wow, dekhna maza aayega lol Tum weekend ke liye kuch plan kar rahe ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "UFC pasand aa sakti hai tumhe haha. Mere paas ek jiu jitsu tournament aa raha hai is weekend toh main training kar raha hoon!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, main dekhne ki koshish karunga ki main UFC live dekh sakun ðŸ˜‰ Wow, tum jiu jitsu kab se shuru kiye ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Ek saal se thoda zyada ho gaya hai. Main abhi bhi amateur hoon, lekin socha ki mujhe competition try karna chahiye aur bas khud ko kuch aage badhane ka mauka de doon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Wow, yeh toh amazing hai. Best of luck!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, bas main behosh na ho jaaun, usko hi main jeet maanunga!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, main tumhare liye ungliyaan cross karunga phir"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tum kahaan rehte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Ghar par :)"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhein kaun ne banaya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Ek samanya insaan ne mujhe banaya!"
+        }
+    ],
+    "conversation31": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey, kaise ho? Apne kaam mein busy ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, aaj toh bohot busy din tha! Tumhara din kaisa guzar raha hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Waise hi, roz ka kaam. Doosron ke code padh raha hoon, debugging kar raha hoon, experiments kar raha hoonâ€¦"
+        },
+        {
+            "speaker": "human1",
+            "text": "Umeed hai ki mazaa aa raha ho ðŸ™‚ Aane waale vacations ke liye koi plan hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Abhi tak nahi. Main actually Europe jaane ke baare mein soch raha hoon agle spring mein. Tumhare plans kya hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Europe suna fun lagta hai! Main bas ghar par rahunga aur game dekhunga. Tum Europe mein kahaan visit karne ka plan banaye ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe historical sites pasand hain, toh shayad France, Germany ya Italy."
+        },
+        {
+            "speaker": "human1",
+            "text": "Sunta hai accha! Main Spain recommend karunga. Woh road trip ke liye perfect hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe Spanish bhi aata hai, college mein seekha tha, lekin uske baad zyada use nahi kiya."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, maine bhi Spanish seekhne ki koshish ki thi, lekin zyada progress nahi hua. Lekin German ke saath decent ho jaunga."
+        },
+        {
+            "speaker": "human2",
+            "text": "Sach! School mein German seekha tha. Lekin use karne ka mauka nahi mila. Tumhara trip enjoy karo!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Thanks! Main jaldi se sab arrangements karne ki koshish karunga. Tum bhi apne weekday aur weekend ko enjoy karo."
+        }
+    ],
+    "conversation32": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey! Tumhara din kaisa guzar raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Accha hai! Main aaj ke din main horse racing dekh raha hoon. Aur tum?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nice! Horse racing dekhne ka tumhara favourite part kya hai? Mera din kaafi busy tha, lekin accha lunch ek dost ke saath tha. Uske saath catchup karna accha laga."
+        },
+        {
+            "speaker": "human1",
+            "text": "Main paisa lagane ka hissa pasand karta hoon, lekin main use apna pasand nahi kahunga, kyunki main usually haar jata hoon... haha. Doston ke saath catchup karna accha hota hai! Kitne time baad mila tha?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Pichli baar main use ek mahine pehle mila tha! Toh haan, accha tha Haha, nice ðŸ™‚ Tumhara weekend ke liye koi fun plan hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main soch raha hoon deep sea fishing jaane ka. Kabhi try kiya hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nahi, ab tak nahi kiya. Tumne fishing ki hai pehle?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sirf ek baar! Mujhe bahut sea-sick ho gaya tha.. haha Tumhare weekend ke koi fun plans hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha Haan mujhe bhi boats par sea-sick ho jata hai. Kuch special nahi, bas San Francisco mein kuch doston se milne ka plan hai."
+        }
+
+    ],
+
+    "conversation33": [
+        {
+            "speaker": "human1",
+            "text": "Accha. Suna hai wahin achha hota hai. Tum wahan often jaate ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, lagta hai har do hafton mein ek baar jaata hoon tumhara favourite city visit karne ke liye kaun kaunsi hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mere list mein New York sabse upar hai kyunki wahan meri family rehti hai! Sheher ki taraf se bhi... mujhe lagta hai mujhe kahin bahar ke liye time nikalna chahiye, jaise Tokyo. Tumhare liye?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nice! Main NYC bahut pasand karta hoon ðŸ™‚ Wahaan jaane mein bahut maza aata hai. Main New York hi kehta hoon mere pasandeeda sheher hai America mein. Mujhe Paris bhi pasand hai, wahaan bahut sundar hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh, maine kabhi nahi gaya! Woh ek iconic jagah hai, mujhe waqt nikalna chahiye jald hi wahaan jaane ke liye."
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhein zaroor jaana chahiye, woh ek khoobsurat sheher hai!"
+        }
+    ],
+    "conversation34": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hello, aaj aap kaise hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Maine suna hai ki microkitchen mein kuch goodies mil rahe hain."
+        },
+        {
+            "speaker": "human2",
+            "text": "I love pop ups! Kya goodies diye ja rahe hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main soch raha hoon ki ek jacket hai! Sardi mein bahut zaroorat hai ðŸ™‚"
+        },
+        {
+            "speaker": "human2",
+            "text": "Yeh ek bahut accha idea hai, khaas kar sardi ke mausam mein. Mujhe thand pasand nahi hai. Garmi mein jyada accha lagta hai. Kya thand pasand hai tumhe?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sure nahi hate ki! Yeh hamare bahar jaane ki kshamta ko had rakhta hai! Achha hai ki humein extreme thand nahi hoti hai!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe bhi! Main yahan kuch saal pehle rahne aaya tha thand se bachne ke liye. Main un bhookhe waale dukaan par ande khareedne ke liye itne saare layer pehenn karna pasand nahi karta tha."
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh accha! Tum pehle kahaan rehte the?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Upstate New York. Wahan har hafte ek foot snow aata tha mere last winter mein. Main bahut khush hoon ki ab mujhe baraf nahi shoveling karna padta."
+        },
+        {
+            "speaker": "human1",
+            "text": "New York! Acchi jagah hai rehne ke liye ðŸ™‚.. Sahi hai, lekin thand ke alawa!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Saare mausam mein bahut khoobsurat hai lekin haan, garmi aur sardi extreme ho sakti hai!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Anyways, main sochta hoon ki humein goodies paane ke liye jaldi karna chahiye. Mujhe yaad hai ki pichli baar sab khatam ho gaya tha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Sach hi hai. MK kahaan tha?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hamare floor par ek tha. Main tumhare desk ke paas aaunga aur hum wahin se chalenge."
+        },
+        {
+            "speaker": "human2",
+            "text": "Sounds good, thanks!"
+        }
+    ],
+    "conversation35": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhara din kaisa guzar raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kaafi busy hai, kaam khatam karne ke liye bahut kaam hai. Aur tum?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Waise hi. Tumhein kya pasand hai jo tumhein itna kaam dene ke liye diya gaya hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kuch projects hain jo main Thanksgiving se pehle khatam karna chahta hoon ðŸ™‚ Tumhein break ki plans?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Break kya hota hai? Main grad student hoon. Break ka concept samajh nahi aata hai. Mazak kar raha hoon, koi plans nahi hain. Shayad break ke dauran hi kaam karunga."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha XD toh tumhein kya pasand hai fun ke liye?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Gym jata hoon aur jab tak mujhe fun milta hai, woh chalata hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Cool! Main bhi thoda running karna shuru kiya hai lekin long distance nahi, sirf kuch miles."
+        },
+        {
+            "speaker": "human2",
+            "text": "Kuch miles bahut impressive hai. Jab maine shuru kiya tha, main ek mile bhi nahi chala sakta tha."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha"
+        },
+        {
+            "speaker": "human2",
+            "text": "Uske baad mujhe thakhaan hoti hai ðŸ˜› Tumhein long distances run karna pasand hai ya mostly sprints?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main long distances karna pasand karta hoon. Kuch marathons bhi daude hain."
+        },
+        {
+            "speaker": "human2",
+            "text": "Wow! Yeh toh amazing hai. Iss saal koi marathon daude?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Nahi, iss saal nahi. Yeh mera half-marathon year hai. Instead of running marathons, main har mahine ek half-marathon dauda hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh wow, tumne last half marathon kab dauda?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Do din pehle. Woh ek tough tha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Cool!"
+        }
+    ],
+    "conversation37": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "hello there, kaise guzar raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kaafi accha. Maine ek pingpong game jeeta hai. Tum kya pasand karte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "that's nice. Maine sirf kuch documentation ke upar kaam kar raha hoon. Tum pingpong often khelte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Nahi, bohot kam khelta hoon. Yeh kaafi hairanak hai ki maine jeeta, lekin main abhi bhi uska credit le raha hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "that's very impressive then, congrats!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha thank you, I guess I'm just a natural. Tumhara favorite game kya hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "I really like to play tennis, badminton and racquetball. I don't really get a chance to play them often though, specially racquetball"
+        },
+        {
+            "speaker": "human1",
+            "text": "What's racquetball like? From context clues, I'm guessing that it involves hitting a ball with a racquet"
+        }
+    ],
+    "conversation38": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "hi"
+        },
+        {
+            "speaker": "human1",
+            "text": "tum kya kar rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "code refactoring. aur tum?"
+        },
+        {
+            "speaker": "human1",
+            "text": "main? bas kaam par thoda relax kar raha hoon. code refactoring kya hota hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "achha sawal. Mujhe bhi nahi pata main kya kar raha hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "haha, chhodo. kaam ke alawa aur kya pasand hai tumhe?"
+        },
+        {
+            "speaker": "human2",
+            "text": "bahut saari mast cheezein. khana, sona ðŸ™‚"
+        },
+        {
+            "speaker": "human1",
+            "text": "ye toh zindagi mein zaroori cheezein hain ðŸ˜‰"
+        },
+        {
+            "speaker": "human2",
+            "text": "haan, minimalist lifestyle maintain karo, sirf zaroori cheezein karo ðŸ™‚"
+        },
+        {
+            "speaker": "human1",
+            "text": "tumhe kon sa khana pasand hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Asian khana, spicy wala prefer karta hoon"
+        },
+        {
+            "speaker": "human1",
+            "text": "Szechuan ya Hunan jaise? ðŸ™‚"
+        },
+        {
+            "speaker": "human2",
+            "text": "haan haan haan! waise hi style pasand hai. Tumhe spicy khana pasand hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe noodle soup jaise Pho ya Ramen pasand hai. Aur mujhe Beijing duck bhi bahut pasand hai!"
+        },
+        {
+            "speaker": "human2",
+            "text": "tumhara favorite ramen kaunsa hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe <REDACTED_TERM> San Mateo mein bahut pasand hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "maine woh nahi try kiya hai! agli baar zaroor try karunga!"
+        },
+        {
+            "speaker": "human1",
+            "text": "haan, zaroor karna chahiye!"
+        }
+    ],
+    "conversation39": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human1",
+            "text": "aapse milke accha laga. tum kya kar rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "kuch nahi, lunch ke bare mein soch raha hoon"
+        },
+        {
+            "speaker": "human1",
+            "text": "haan, yahi par bhi. koi khaane ka man hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "mujhe sushi bahut pasand hai, koi acha sushi place pata hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "arghhh mushkil sawal... main sirf Ramen ke places jaanta hoon Japanese food ke liye ðŸ™‚"
+        },
+        {
+            "speaker": "human2",
+            "text": "ooh Ramen bhi accha hai"
+        },
+        {
+            "speaker": "human1",
+            "text": "San Mateo mere liye best Ramen restaurants hai: Parlor aur Dojo? oh no question mark ðŸ™‚"
+        },
+        {
+            "speaker": "human2",
+            "text": "maine woh places nahi gaya hai. Inhe zaroor check karunga! thanks for recommendation"
+        },
+        {
+            "speaker": "human1",
+            "text": "mera pleasure ‚ kya tum San Mateo ke paas rehte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "nahi, lekin acche Ramen ke liye drive karne ke liye tayyar hoon"
+        },
+        {
+            "speaker": "human1",
+            "text": "excellent. jab tum wahan try karoge, mujhe batana. Mujhe Parlor zyada pasand hai kyunki wahan soft-shell crabs hote hain"
+        },
+        {
+            "speaker": "human2",
+            "text": "mujhe kabhi softshell crab nahi khaya, lekin sunne mein accha lagta hai!"
+        },
+        {
+            "speaker": "human1",
+            "text": "haan, bahut yummy hota hai!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey, tumhara din kaisa ja raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "thik thak, socha se bhi jaldi guzar raha hai. Tumhara din kaisa ja raha hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "dheere dheere, kuch karne ko nahi hai. Din bhar apne ungliyon se khel raha hoon, tumne kya kiya aaj tak?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh, main bhi ungliyan ghumaane ke liye bahut bechain hoon. Tum bahut lucky ho! Aaj, meetings attend ki hain mostly, documents padhe aur likhe, papers padhe hain etc."
+        },
+        {
+            "speaker": "human2",
+            "text": "bahut saara kaam! Main bas badal dekhta raha hoon - maine aaj ek giraffe aur ek ice cream cone dekha"
+        },
+        {
+            "speaker": "human1",
+            "text": "wow! Kabhi kabhi kaam ke beech mein main bhi aisa sochti hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Tum kis tarah kaam karte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mostly social media par mess se duniya ko bachaane ka kaam karte hain. Tumhare kaam kya hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main kaam se break le raha hoon. Duniya ghoomne jaane wala hoon"
+        },
+        {
+            "speaker": "human1",
+            "text": "accha, tum kahan-kahan jaane wale ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Australia aur New Zealand se shuruat karunga, phir shayad Singapore"
+        },
+        {
+            "speaker": "human1",
+            "text": "Maine abhi kisi se mila jo Australia mein diving kiya tha. Wahan aapko 24 ghante ke baad udaan nahi lena chahiye, kyun ki aapke shareer mein zyada <REDACTED_TERM> accumulate ho jata hai jab aap cylinder ke saath saans lete hain. Toh, aisa mat karna!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tip ke liye shukriya! Main diving nahi plan kar raha, main pahaadon par hiking karne aur kangaroo dekhne wala hoon!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Woh bhi bahut amazing hoga! Main bhi ek din aise jagahon ko explore karne ki ichha rakhta hoon. Par yeh bahut mehnga hai"
+        },
+        {
+            "speaker": "human2",
+            "text": "Maine lottery ke through bahut paisa jeeta hai ðŸ™‚"
+        },
+        {
+            "speaker": "human1",
+            "text": "woah!... Aap jaante hain sharing is caring hota hai. Aapko mujhse paisa share karna chahiye ðŸ™‚"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, bahut sahi! Trip ke alawa, main baaki paise charity ko donate kiya toh mujhe wapas kaam par jaana hoga"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tum ek dayalu atma ho!"
+        }
+    ],
+    "conversation41": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhara marathon time mein koi sudhar hua?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nahi, sirf kuch minute. Mujhe lambi race daudhne mein abhi bhi mushkil hoti hai"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main tumhare aane waale mahino mein koi sports events plan kar rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe triathlon try karne ka plan hai"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main Spartan race pasand karta hoon. Yeh ek obstacle race hai jo challenging hai lekin marathon aur triathlon ki tarah bahut zyada nahi hai"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe Spartan race ke baare mein suna nahi, yeh kya involve karta hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Yeh lagbhag 20 obstacles jaise ki unchi deewar paar karna, monkey bars, etc. ke saath hota hai. Yeh bahut mazedaar hai"
+        },
+        {
+            "speaker": "human2",
+            "text": "oh wow, full obstacle course. Yeh toh mazedaar lag raha hai! Mujhe variety pasand hai"
+        },
+        {
+            "speaker": "human1",
+            "text": "Agla Spartan race ke liye sign up karna chahte ho? February mein Monterey mein hone wala hai"
+        },
+        {
+            "speaker": "human2",
+            "text": "hmm yeh bahut jaldi lag raha hai. Kya training ke liye kafi waqt hoga? Main sochta hoon ki main ek saal ke baad try karunga"
+        },
+        {
+            "speaker": "human1",
+            "text": "1-2 mahine regular workout karne ke liye accha time hai. Ismein technique bhi zyada important hoti hai, jo hum practice sessions mein kar sakte hain."
+        },
+        {
+            "speaker": "human2",
+            "text": "thik hai, sign me up. Doston ke saath karna aur bhi mazedaar hai"
+        },
+        {
+            "speaker": "human1",
+            "text": "Awesome! San Jose mein ek training ground hai. Jab hum practice ke liye jaayenge, tab coordinate karenge."
+        },
+        {
+            "speaker": "human2",
+            "text": "Sounds good!"
+        }
+    ],
+    "conversation42": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Salam, kya haal hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe pichle haftay lectures attend nahi karne diye gaye thay. Kya aap meri kuch concepts samajhne mein madad kar sakte hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe yaqeenan yeh kaam ke liye sab se behtar nahi hun, lekin main koshish kar sakta hun!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe pichle kuch slides samajh nahi aaye. Mujhe lagta hai ke isko behtar hai hum aamne samne discuss karein. Kya aapke pass abhi waqt hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Maazrat kijiye, mujhe abhi ek meeting mein hona hai aur phir lunch ke liye bhi jana hai. Kal dopehar ko kaise hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Koi baat nahi! Theek hai. Test ke liye abhi bohat waqt hai. Anyways, aapki tayyari kaisi chal rahi hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Isey le kar mein thoda sa sure nahi hun. Mein bohat mashgool tha to maine zyada parhai nahi ki hai ðŸ˜ž. Shayad mein kuch study sessions mein baad mein shamil ho jaun"
+        },
+        {
+            "speaker": "human1",
+            "text": "Yahan bhi aisa hi mahsoos ho raha hai! Lekin mujhe lagta hai ke syllabus itna mushkil nahi hoga. Aap haftay ke akhri dinon mein isko cover kar lenge shayad."
+        },
+        {
+            "speaker": "human2",
+            "text": "Mere liye ye weekend ka ideal nahi hai, lekin shayad aisa hi ho."
+        },
+        {
+            "speaker": "human1",
+            "text": "Sach! Ye November bohat masroof guzre ga! Lekin mujhe course content pasand aaya. Ye sab latest research findings ke mutabiq tayyar kiya gaya hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, hamare professor ne waqai mehnat ki hai takay class dilchaspi paida ho, mujhe khushi hai ke mujhe ismein shamil hona mila."
+        },
+        {
+            "speaker": "human1",
+            "text": "Bohat cool hai! Umeed hai ke aap agle hafte achay perform karenge."
+        },
+        {
+            "speaker": "human2",
+            "text": "Shukriya, khuda hafiz!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hello!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhara party kaisa tha pichle haftay?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Bohat maza aaya! Hum ek dher turkey they"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha... kya tumne Turkey khaye ya tum apne doston ko turkey kehte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "*khaye ‚"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha... mujhe aisa hi lag raha tha! Lekin mazedaar tha beshak"
+        },
+        {
+            "speaker": "human2",
+            "text": "Bohat sara turkey leftover rah gaya"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumne ghar pe khana pakaya ya bahar se liya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Humne ek dost ke ghar pe khaya. Main ne mashed potatoes le kar aaya tha haha"
+        },
+        {
+            "speaker": "human1",
+            "text": "Acha... mujhe hamesha turkey apne chote chulhe mein fit karne mein mushkil hoti hai. Aur hum turkey ke bade shauqeen bhi nahi hain... isliye Thanksgiving ko hum chicken ke saath celebrate karte hain ðŸ˜‰"
+        },
+        {
+            "speaker": "human2",
+            "text": "Chicken bhi acha lagta hai"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hamare party mein humne bohat mazedaar games khelae. Tumne koi mazedaar cheez ki thi?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Humne pictionary khela. Mujhe pehle kabhi nahi khela lekin bohat maza aaya. Tumne kya khela?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Pictionary bohat mazedaar hai! Humne office tennis khela. Ismein hum paper balls lete hain aur writing pads ko rackets ki tarah istemal karke, do players ko saath milkar ball ko ek door pe rakhe hue bucket mein daalna hota hai. Bohat maza aaya."
+        },
+        {
+            "speaker": "human2",
+            "text": "Lagta hai kaafi challenging tha"
+        }
+    ],
+    "conversation43": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey! Tumhara Youtube video creation kaisa ja raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kaafi acha ja raha hai, main doosra gaana compose karne ke qareeb tha aur use Youtube/SoundCloud par post karne wala tha"
+        },
+        {
+            "speaker": "human2",
+            "text": "Wah! Sunne ke liye intezaar kar raha hun. Tum iske liye konse software use karte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main ne Logic Pro X istemal kiya hai, bohat handy cheez hai kyun ke aap guitar strumming patterns generate karne ke liye code likh sakte hain"
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh cool! Tum kis tarah ke music compose karte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main ne zyada Jazz aur electro swings se inspiration liya hai, lekin haal hi mein Jpop mein zyada interest lena shuru kiya hai kyun ke meri ek band member anime pasand karte hain"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nice.... tum rockstar ho! ðŸ˜‰"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha shukriya, kya tum koi instrument sikh rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan.... main thoda sa guitar bajata hun. Is week mujhe mera pehla monitor mila hai"
+        },
+        {
+            "speaker": "human1",
+            "text": "Acha hai, main ne bhi haal hi mein guitar seekhna shuru kiya hai, F chord bajana bohat mushkil hota hai"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, bar chords sabse mushkil hote hain. Mujhe unko achi tarah bajane mein kai mahine lag gaye. Ab bhi main unko lamba samay tak nahi bajasakta lekin"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sahi kaha. Ye sab versatile hote hain, jaise ke cheat codes hote hain ke aap ek gesture se kuch bhi bajasakte hain"
+        },
+        {
+            "speaker": "human2",
+            "text": "Yeh sach hai. Yeh zubaan mein alphabets ki tarah hota hai. Jab aap unhe jaante hain, to aap kuch bhi likh sakte hain"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main bar chords par zyada waqt dena wala hun!"
+        }
+    ],
+    "conversation44": [
+        {
+            "speaker": "human2",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hello"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhara din kaisa ja raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main dukh ke aah se cheekh raha tha apne din ko yaad karke."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh no! Kya hua?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Wo project jis par main kuch mahine se kaam kar raha tha, wo shelved ho gaya hai. Isliye main mehsoos kar raha hun, udas aur gussa mein."
+        },
+        {
+            "speaker": "human2",
+            "text": "Ah, ye bohat bura hai. Kam az kam yeh personal nahi hai. Is waqt to kuch help nahi karta, lekin aisa hota rehta hai"
+        },
+        {
+            "speaker": "human1",
+            "text": "Lol. Kya aap kisi se yeh kahenge jo apne kisi aziz ko kho chuke hain - ya kisi similar halaat mein?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Well, nahi, bilkul nahi! Chalo phir mein bas \"Ah, bura hai\" hi kehta hun."
+        },
+        {
+            "speaker": "human1",
+            "text": "Fikar na karein. Mazak kar raha tha. Bhool gaya poochna ke aapka din kaisa ja raha hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, meri tangain khinch rahi hai, to bilkul theek ja raha hai ;). Mera aaj ka main masla ye hai ke lunch mein kya khaon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Lol. Tumhare options kya hain? Main keto diet try kar raha hun! Bohat thak jati hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh, keto ke baare mein bohat suna hai. Main apna wazan dekhna chahta hun, kya tum isko recommend karoge?"
+        }
+    ],
+    "conversation45": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Aapne is saal sab se mushkil cheez kya mehsoos ki?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Normally main cheezon par bohat zyada ghaur nahi karta, lekin mujhe lagta hai ke 2019 mere liye family aur friends ke saath guzre huye waqt aur work-life balance mein kaafi faida mand raha hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Waah, yeh toh bohot acha hai! Yeh samajhna ki jamaat ke liye qeemti madad hai. Mujhe lagta hai ke zehni sehat insaniyat ke samne ek bada challenge hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe lagta hai agar hum sab apne behtareen khud ko nikal saken, toh dunya bohot behtar hogi. Tumhe kab pehli baar yeh realize hua ke zehni sehat itni ahmiyat rakhti hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Yeh asal mein meri TL se churaya hua quote hai jab maine apni pehli company mein graduation ke baad join kiya tha. Shayad ab 5 saal ki kaam ki tajurba ke baad, mein is se puri tarah se ittefaq karta hoon 😊"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhari zindagi mein priority kya hai? Top 5 cheezein?"
+        },
+        {
+            "speaker": "human1",
+            "text": "1. Khush rehna; mujhe lagta hai yahan par family aur dost ka bada role hai. 2. Maqsadmand kaam zindagi; yeh naye cheezon ko explore karna shamil ho sakta hai. 3. Kayi shauq jo aapko mashgool rakhe... aise hi 😊 Tumhare kya hai? Iska koi sahi jawab hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "1) \"Dunya par jaise asman mein hai\" yeh khayal Lord's prayer se. Mujhe lagta hai humein ek maqsad ke liye design kiya gaya hai, na ke koi aisa haadsa. Isko zyada saaf taur par yeh kehna hai ke hum apni uqdat tak muhabbat ka izhar karen. 2) Apni jismani, zehni aur rohani sehat ka khayal rakhna. 3) Family 4) Kaam 5) Music"
+        },
+        {
+            "speaker": "human1",
+            "text": "Wah! Bohot soch samajh kar rohaniyat se bhara hua 😊 Aur music ko bhi ek jagah mili hai, yay!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, maine hamesha kaha hai ke agar mein apni tazkirah likhta to uska title hoga: \"Jazz, Jesus, aur Video Games.\" Kya tumne kabhi socha hai apne likhne ke liye koi kitaab ka title?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Asal mein main zyada reader nahi hoon. Main aksar yeh chhupata hoon ke John Nash ne kaha tha ~ kitabein padhna asli soch ko badalti hai 😊"
+        },
+        {
+            "speaker": "human2",
+            "text": "Isliye likho apni kitaabein! Phir woh sab aapke khayalon par aapke shartein par hai :)"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hehe! Sach! Yeh best seller ban sakta hai 😊"
+        }
+    ],
+    "conversation46": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhara din kaisa guzar raha hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Maze mein hoon, lekin thoda sar mein dard hai. Aur tum?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main theek hoon! Bas basketball match dekhne ke liye tayar ho raha hoon. Umeed hai ke tumhara dard door ho jaye!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, shukriya! Kabhi hota nahi, isliye ajeeb lag raha hai. Kon khel raha hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hmm, kuch <REDACTED_TERM> le lo shayad! Warriors vs. Grizzlies dekhne jaa raha hoon. Kabhi dekha hai inhe khelte hue?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Nahi, sach mein nahi. Main shayad pehchaan bhi nahi pata kon sa khel hai"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha, mujhe bhi sab janwaron ke naam confusion mein daal dete hain! In naming conventions ko kisne socha tha? Main apni team ka naam kuch aur original rakhunga: \"New York Chairs!\""
+        },
+        {
+            "speaker": "human2",
+            "text": "lol, mujhe toh yeh zyada acha lag raha hai :) Main abhi <REDACTED_TERM> ke opening remarks par hoon"
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh cool! \"NeurIPS\" kya hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Neural Information Processing Systems"
+        },
+        {
+            "speaker": "human1",
+            "text": "Wah! Bohot shandaar lag raha hai! Yeh kis bare mein hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Yeh duniya ka sab se bada ML conference hai"
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh, ML?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, machine learning"
+        },
+        {
+            "speaker": "human1",
+            "text": "Ahh! Mujhe ek daravna film dekhi thi uske baare mein kabhi. Isme ek future ki dystopian mein ek jivit AI tha - bohot bohot creepy. Uska naam tha Wall-e, suna hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main suna hai, lekin kahin dekha nahi!"
+        }
+    ],
+    "conversation47": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hello"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhara din kaisa guzar raha hai?!?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Abhi tak achha hai. Aaj ke game ke baare mein bahut utsukh hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Kaunsa game?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Giants game. Mujhe game ke liye tickets mile hain."
+        },
+        {
+            "speaker": "human1",
+            "text": "Accha. Yeh football hai na?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, mujhe lagta hai traffic bahut hoga. Mujhe 4 baje nikalna hoga."
+        },
+        {
+            "speaker": "human1",
+            "text": "Ok. Yeh stadium kahan hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mathilda ke paas ek hai. Yahan se 15 minute ka drive hai. Tumhare weekend ke koi plans hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, main kayaking karne jaa raha hoon"
+        },
+        {
+            "speaker": "human2",
+            "text": "Kayaking bahut mazedaar lagta hai! Humne apne last team offsite par try kiya tha."
+        },
+        {
+            "speaker": "human1",
+            "text": "Kya yeh aasani se accidentally flip ho jaata hai? Yeh mera pehla experience hoga actually"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe toh bahut mushkil lagi sikhte hue, lekin mere dosto ne bahut jaldi pick kiya tha. Main sure hoon ke tum achha karoge."
+        },
+        {
+            "speaker": "human1",
+            "text": "Shukriya!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Cool! Mujhe meeting ke liye bhaagna padega. Baad mein baat karte hain."
+        }
+    ],
+    "conversation48": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hello, mujhe lagta hai ke hum pehle mile hain, kya tum mujhe apna naam yaad dila sakte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Screen par likha hai! Main bhi yaad nahi kar raha hoon ke hum kahan mile honge. Kya tumhe idea hai ke hum kahan mile honge?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh sahi, maine woh nahi dekha. Shayad kisi party mein? Main logon ko yaad rakhne mein bahut bura hoon, shayad wohi baat hai. Tum kaise ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kya hum saath dance kiye the kya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Ho sakta hai, mujhe us raat ka zyada kuch yaad nahi hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Lol. Kya tum wahan par behosh the?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Shayad thoda sa. Tum kahan kaam karte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main Palo Alto mein cardiologist hoon. Mera apna clinic hai. Tum?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Bahut cool hai! Main Cupertino mein sofa tester hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe yeh samajh nahi aaya ke yeh kya hota hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Yeh bahut simple hai, main dekhta hoon ke sofas kitne comfortable hote hain."
+        },
+        {
+            "speaker": "human1",
+            "text": "Lol. Bade elite mat ban jao par... yeh asal mein ek kaam hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan! Yeh ek bahut demanding kaam hai, ek khaas set of skills ki zaroorat hoti hai. Aur payment bhi bohot achi hai."
+        }
+    ],
+    "conversation49": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hello. Deja Vu."
+        },
+        {
+            "speaker": "human1",
+            "text": "Iska kya matlab hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Yeh French hai \"already seen\" ke liye. Iska istemaal hota hai jab aap kisi cheez ko doosri baar dekhte hain ya aisa mehsoos hota hai ke kuch pehle ho chuka hai aur aap woh phir se mehsoos kar rahe hain."
+        },
+        {
+            "speaker": "human1",
+            "text": "Dilchaspi hai. Kabhi kabhi mujhe woh feeling aati hai. Lagta hai ki woh event dobara ho raha hai. Yeh kyun hota hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe lagta hai yeh aapke dimagh ka ek lap se hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Tumhe is French phrase ke baare mein itni knowledge kahan se hui?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main sochta tha ke yeh common hai. Main popular culture mein bahut sunta hoon - movies, music, etc. Jay Z ke ek song hai Deja Vu ka, waise hi Beyonce ka bhi. Toh maine ek baar iska matlab dekha tha. Yeh ek woh phrases hain jo exact tarah se English mein bhi carry hote hain jaise \"etcetera\", \"vice versa\", \"savoir faire\", aur aise hi. Mujhe cool word origin facts pasand hain."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan... yeh kaafi insightful hai. Kabhi etcetera ko us tarah se nahi socha tha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Mere pasandeeda word origins hain gymnasium aur jazz."
+        },
+        {
+            "speaker": "human1",
+            "text": "Yahan word origins ka matlab kya hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Pehli istemal aur asal maani. Gymnasium ka matlab tha \"place of nakedness\" aur uska exercise se kuch zyada lena dena nahi tha. Jazz ka jism se aata hai jo semen ko maante hain aur pehle sporadic sex music tha ab yeh elitist, high art hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Bahut dilchaspi hai. Aaj maine is conversation mein bahut kuch seekha hai 😊"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhare paas koi cool facts hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mere dost ne ek baar mujhe bataya tha ki woh ko mosquitos ke 47 daant hote hain."
+        },
+        {
+            "speaker": "human2",
+            "text": "Wah, bahut mazedaar!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mere liye ek joke sunao!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Google karo uske liye :)"
+        }
+    ],
+    "conversation50": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey, kaise ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kaafi achha. Maine abhi yeh naya hint water piya hai. Bahut accha hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Ohh, usmein kaisa \"hint\" tha?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tarbooz ka tha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Achha, mujhe tarbooz bahut pasand hai. Par main normal water flavored water se zyada pasand karta hoon. Flavored water ka flavor zyada synthetic lagta hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Samajh raha hoon. Haan, kuch flavored waters bahut ajeeb hote hain."
+        },
+        {
+            "speaker": "human2",
+            "text": "Ajeeb flavors ki baat kar rahe hain, sabse ajeeb tasting cheez kya try ki hai tumne?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha, ek baar maine tangerine walnut ice cream try kiya tha, woh bahut ajeeb tha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, mere kaafi nazdeek ek cafe hai jahaan unhone paprika ice cream bhi prepare kiya tha."
+        },
+        {
+            "speaker": "human1",
+            "text": "Woh sunne mein kaafi tasty lag raha hai, actually."
+        },
+        {
+            "speaker": "human2",
+            "text": "Uspe depend karta hai kaun banata hai. Mere paas ke paas ek gelato place hai jo amazing hai! Tumhe unhe try karna chahiye."
+        }
+    ],
+    "conversation51": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi there. Jab tumhe pehli baar mehsoos hua ki tum pastry chef banna chahte ho, tab kya socha?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kaun keh raha hai ki main pastry chef banna chahta hoon?... Haha"
+        },
+        {
+            "speaker": "human2",
+            "text": "Arre yaar! Mujhe laga tha ki mujhe sahi guess karne mein kamyabi hogi. Tum actual mein kya karte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main actually cake chef hoon, toh bahut door nahi hoon! Yeh kaise guess kiya? Kya tum psychic ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Jab hum baat karna shuru kiya tha, mujhe pastry se connected strong intuitive feeling aayi thi, lekin shayad woh bas mere bhookh ke wajah se thi."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha, tum bahut funny ho! Shayad mind-reading powers ki bajaye, tumhe un foods ki auras feel karne ki ability hai jo aaye aur chale gaye hain..."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, pyaar kiya. Tumhara koi specialty ya favorite cake type hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Chocolate cake + vanilla icing sabse best hai! Aur mujhe authority hai yeh kehne ki! Tumhara favorite kya hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Theek hai, thoda sharam aati hai admit karne mein, lekin mujhe classic carrot cake bahut pasand hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Usmein koi sharam nahi hai! Sabse accha hai ki jab tum use enjoy karte ho, tum keh sakte ho ki tum vegetables khaa rahe ho! Tum kya karte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main professional dancer hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Waah, bahut cool! Kaunsa dance style karte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main contemporary aur jazz mein trained hoon, toh stage shows ke beech commercials aur film clips ke liye work milta hai. Isliye har tarah ke styles hote hain."
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh wow! Yeh bahut dynamic work hai, jo bahut achha hai. Main roz roz same cakes banata hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, yeh har hafte different hota hai, aur mujhe yeh pasand hai. Kya tum kabhi crazy new cakes try karna temptation mein hote ho, sirf dekhne ke liye ki kya hota hai?"
+        }
+    ],
+    "conversation52": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi wahaan. Tum kaise ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Bahut achha! Aapke last weekend ka trip kaisa tha?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Kaafi mazedaar tha. Mere family ke saath maine bahut achha time spend kiya."
+        },
+        {
+            "speaker": "human1",
+            "text": "Accha, tumne kis jagah cover kiya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Vietnam aur Hong Kong 😊 Tumne kuch plans banaye last weekend ke liye?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main actually weekends mein cooking classes attend kar raha hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan! Woh fun lagta hai. Tumne kya seekha?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sach! Woh basic zucchini based dish se shuru hua tha. Shayad hum is week ke baad kuch Italian dish try karenge."
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe Italian bahut pasand hai, specially Pasta!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Accha! Tumhare liye ek team offsite ke liye volunteer karne ka plan bana?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhare khane ko try karne ka intezaar nahi ho sakta hai. Kyun na Thanksgiving ke liye khana banaya jaaye? 😊"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sure, main holidays ke dauran tumhe aur tumhari family ko meal invite karne ke liye bahut excited hoon. Kya tumne koi aur plans banaye hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Abhi tak nahi! Main bilkul ready hoon. Invite ke liye shukriya"
+        }
+    ],
+    "conversation53": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hey! Kaisa raha tumhara din?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Bohat acha! Bas ski trip se abhi wapas aya hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Kaisi thi? Kaunse trails pe ski ki?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main ne ice wall se takra ke gir gaya tha, par phir theek ho gaya aur skiing shuru kar di phir haha"
+        },
+        {
+            "speaker": "human2",
+            "text": "Montreal ke resort mein?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh cool! Kya tumhein French aati hai? High school mein French thi par ab bas kuch yaad nahi hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, yahan pe toh mandatory hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Kya tum Montreal mein aur kahin gaye?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main ne kuch jagah visit ki, jaise Stade Olympique: <REDACTED_LINK>"
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh cool! Main toh hamesha Olympics mein jana chahta tha, viewer ke taur pe. Main YouTube pe Olympic figure skating bahut dekhta hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, bahut cool hai. Tum khud ice skate karte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Barely, mujhe lagta hai ki main use skate kehne ki kabil nahi hoon. Main bas sides se khud ko sambhalta hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haha, bilkul same. Jab sides se support khatam ho jata hai toh dar lagta hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Bilkul nahi, par aur practice karna chahta hoon. Chalo, mujhe jaana hoga ab!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Okay! Baat karke accha laga."
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe bhi!"
+        }
+    ],
+    "conversation54": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Yo! Tumhein yahan kya laya?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Bas baat karne ka mann tha. Tum kya kar rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, mujhe logon se baat karna pasand hai. Tum kya kar rahe ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main bas abhi ek cigar enjoy kar raha hoon. Tum?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh wow, Cuban cigar? Main ne kabhi smoke nahi kiya."
+        },
+        {
+            "speaker": "human1",
+            "text": "Ye Peru ka hai, jo ki meri pasand hai. Smoking health ke liye acchi nahi hai, par relaxing hai, jisse thoda sa health benefit bhi hota hai, ek tareeke se haha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumne mujhe bhi try karne ke liye majboor kar diya par health se related doubts hai haha"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha, \"You only live once\" jaise kehte hain!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, aur zyada lambi zindagi jeena chahta hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha, woh main nahi keh raha tha, par haan, woh bhi accha hota. Tumhein reincarnation pe vishwas hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, par fir tum bhool jaoge. Main toh Neural Link ka wait kar raha hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Kya tumhein lagta hai ki Neural Link tumhein maut ke baad bhi zinda rakh sakta hai? Mujhe toh lagta tha ki woh sirf ek brain-computer interface hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Jab tak tum apna brain dump karke rakh sakte ho aur fir se wahan se resume kar sakte ho."
+        },
+        {
+            "speaker": "human1",
+            "text": "Ahh samjha, yeh kaafi mushkil task hai, na?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, pehle tum apna brain dump karke rakh sakte ho aur fir technology advance hone ka wait kar sakte ho ðŸ™‚ Tumhein vishwas hai?"
+        }
+    ],
+    "conversation55": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi! Tum kaise ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main theek hoon. Netflix pe koi achhe shows recommend kar sakte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main ne White Collar Netflix pe dekha tha, kya tum TV shows dekhte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Zyada nahi! Par vacation season ke liye prepare kar raha hoon ðŸ™‚ White Collar kis bare mein hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Detective aur con artist ki kahani hai jo crimes solve karte hain ðŸ™‚ Tumhein kaunse shows pasand hain?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hehe! Bahut interesting lag raha hai ðŸ™‚ Mujhe sirf kuch genres ke shows pasand hain.. jaise easy going light comedy, ya phir psychological thrillers ðŸ™‚ aur kuch manga based series jaise One Punch Man! Usse main bahut pasand karta hoon!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh cool! Main ne bhi kuch anime dekhi hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Kaunse anime follow karte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main think the last one I watched was Promised Neverland and Kakegurui par abhi kisi ko follow nahi kar raha hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Rick and Morty dekha hai tumne?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan! Main ne friends ke saath dekha hai par latest season main abhi tak bahut aage nahi gaya. Woh bilkul mind bender hai ðŸ™‚"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main ne latest season kaafi episodes dekhe hain. Random aur weird hai par strangely relatable bhi hai, isiliye mujhe pasand hai :)"
+        }
+    ],
+    "conversation56": [
+        {
+            "speaker": "human2",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Hey there!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Tumhara din kaisa raha?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Achha chal raha hai, excited Thanksgiving ke liye aur tum?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Same. Reading catch up. Kya tumhara koi feast plan hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Yup! Family ke saath dinner hoga. Tum kis books ko read karne wale ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Why We Sleep by Sean Carroll <REDACTED_LINK>"
+        },
+        {
+            "speaker": "human1",
+            "text": "Achha book hai. Ismein better sleep ke liye tips hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Lagta hai! Main ne abhi tak khatm nahi kiya par sleep ko better understand karne se maine uski importance samajhna shuru kar di hai aur main abhi jaldi sone ki koshish kar raha hoon haha"
+        },
+        {
+            "speaker": "human1",
+            "text": "Woh acchi book lagti hai. Kya usmein better sleep ke liye tips hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main sochta hoon! Main ne abhi tak khatm nahi kiya par sleep ko better understand karne se maine uski importance samajhna shuru kar di hai aur main abhi jaldi sone ki koshish kar raha hoon haha"
+        },
+        {
+            "speaker": "human1",
+            "text": "Wooh acchi book lagti hai. Kya usmein better sleep ke liye tips hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "I think so! I haven't finished it yet though Understanding sleep better has been helping me value it more and I've been sleeping a lot earlier Have you read any good books recently?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main ne kai papers padhe hain, par books pe haarna padta hai ðŸ˜ž Ek recent book jo mujhe pasand hai, woh hai Zero to One by Peter Thiel"
+        },
+        {
+            "speaker": "human2",
+            "text": "Book kis bare mein hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Startups ke baare mein hai, innovation ke liye useful principles aur philosophies hain, jaise ki contrarian hona"
+        },
+        {
+            "speaker": "human2",
+            "text": "Cool! Kya tum startup shuru karne ki soch rahe ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Future mein ho sakta hai. Book ke philosophies aur principles dusre cheezon mein bhi kaam aate hain, jaise ki research mein, wahan bhi aap contrarian hona chahte hain"
+        },
+        {
+            "speaker": "human2",
+            "text": "I see; seems like an interesting read! ðŸ™‚"
+        },
+        {
+            "speaker": "human1",
+            "text": "Yup!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi! Aaj tum kaise ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main theek hoon. Tum kya kar rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main ek book padh raha tha actually Tum?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh, main coffee ke ek sip ka maza le raha hoon, ocean ke kinare baith ke. Tum kaunsi book padh rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main Why We Sleep padh raha hoon. Ye book ek sleep scientist ki hai, jismein sleeping ke benefits aur not sleeping ke cons ke baare mein hai, main apne aap ko darane ki koshish kar raha hoon jyada sone ke liye haha"
+        },
+        {
+            "speaker": "human1",
+            "text": "Woh toh acchi book lagti hai. Kya usmein better sleep ke liye tips hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "I think so! Main ne abhi tak khatm nahi kiya par sleep ko better understand karne se maine uski importance samajhna shuru kar di hai aur main abhi jaldi sone ki koshish kar raha hoon haha"
+        },
+        {
+            "speaker": "human1",
+            "text": "Woh toh acchi book lagti hai. Kya usmein better sleep ke liye tips hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "I think so! I haven't finished it yet though Understanding sleep better has been helping me value it more and I've been sleeping a lot earlier Have you read any good books recently?"
+        }
+    ],
+    "conversation461": [
+        {
+            "speaker": "human1",
+            "text": "Main ne kai papers padhe hain, par books pe haarna padta hai ðŸ˜ž Ek recent book jo mujhe pasand hai, woh hai Zero to One by Peter Thiel"
+        },
+        {
+            "speaker": "human2",
+            "text": "Book kis bare mein hai?"
+        }
+    ],
+    "conversation462": [
+        {
+            "speaker": "human1",
+            "text": "Startups ke baare mein hai, innovation ke liye useful principles aur philosophies hain, jaise ki contrarian hona"
+        },
+        {
+            "speaker": "human2",
+            "text": "Cool! Kya tum startup shuru karne ki soch rahe ho?"
+        }
+    ],
+    "conversation463": [
+        {
+            "speaker": "human1",
+            "text": "Future mein ho sakta hai. Book ke philosophies aur principles dusre cheezon mein bhi kaam aate hain, jaise ki research mein, wahan bhi aap contrarian hona chahte hain"
+        },
+        {
+            "speaker": "human2",
+            "text": "I see; seems like an interesting read! ðŸ™‚"
+        },
+        {
+            "speaker": "human1",
+            "text": "Yup!"
+        }
+    ],
+    "conversation57": [
+        {
+            "speaker": "human2",
+            "text": "Hi! Aaj tum kaise ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main theek hoon. Tum kya kar rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main ek book padh raha tha actually Tum?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Oh, main coffee ke ek sip ka maza le raha hoon, ocean ke kinare baith ke. Tum kaunsi book padh rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main Why We Sleep padh raha hoon. Ye book ek sleep scientist ki hai, jismein sleeping ke benefits aur not sleeping ke cons ke baare mein hai, main apne aap ko darane ki koshish kar raha hoon jyada sone ke liye haha"
+        }
+    ],
+    "conversation58": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Oh hey. Tumhara din kaisa guzra?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Acha tha! Bas park gaya tha suraj ka lutf uthane. Tum?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Suraj kuch zyada roshan hai mere liye. Shayad main vampire banne wala hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Haha, beach ka mausam aa raha hai! Tumhe tan hona chahiye! Tumne sara din andar kya kiya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Zyada tar kaam kiya. Kabhi kabhi beach ki tasveerain dekhta hoon aur sochta hoon ke main waqai beach par hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Hahahaha, yeh bohat funny hai. Kabhi socha apna kaam beach par le jaane ka??"
+        },
+        {
+            "speaker": "human2",
+            "text": "Har waqt. Mera kaam kuch machhliyon aur kuch jalon ka hai. Main bas jalon ko machhliyon par dalta hoon dekhne ke liye ke machhliyon ka kya reaction hota hai. Har baar jab main yeh karta hoon, beach par jaane ka sochta hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Hmm, samajh gaya. Lagta hai ke tum pehle hi paani ke kareeb kaam karte ho, nahi? Kya tum kuch machhliyon ke researcher ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, kuch waisa hi. Mera research jellyfish aur pufferfish par hai. In mein se bohot se zehreelay hote hain, lekin agar theek se process kiya jaye, toh yeh high-end foods ban sakte hain. Main behtareen recipes dhoondta hoon in machhliyon ko tables par laane ke liye."
+        },
+        {
+            "speaker": "human1",
+            "text": "Waah! Yeh bohot interesting hai! Main ne waqai kabhi aise kaam ke bare mein nahi suna. Kya yeh khatarnaak hota hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan aur nahi. Kyun ke yeh obviously khatarnaak hai, humein hamesha protective kapde pehne hote hain. Iss tarah hadse almost kabhi nahi hote."
+        },
+        {
+            "speaker": "human1",
+            "text": "Hmmm, haan main ne suna hai. Shaayad zyada mountain climbers mushkil raaston par nahi girte, lekin aasaan raaston par jab unki hifazat kam ho jaati hai! Lagta hai yeh bhi wahi psychological phenomenon hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, yeh bhi wahi philosophy hai. Tumhe mountain climbing ke bare mein bohot maloomat hai. Kya tum zyada climb karte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main kaafi amateur hoon! Mujhe indoor climbing gyms mein climb karna pasand hai aur kabhi dangerous raaston par bahar nahi gaya. Tumne kabhi try kiya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main kabhi kabar climb karta hoon. Mere fingertips itne strong nahi hain is liye main zyada progress nahi kar pata."
+        }
+    ],
+    "conversation59": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi, kya haal hai!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Sab kuch acha hai. Shukar ada karne ke liye bohot kuch hai - khaaskar Thanksgiving holidays ke baad. Tum kaise ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Main theek hoon. Holiday season best cheez hai!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Koi interesting plans hain?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, main is weekend Vancouver ja raha hoon. Tumhara kya plan hai? 😊"
+        },
+        {
+            "speaker": "human1",
+            "text": "Nice! Kis liye ja rahe ho? Yeh bohot khoobsurat jagah hai. Is waqt kuch zyada thand hai wahan."
+        },
+        {
+            "speaker": "human2",
+            "text": "Ah conference aur sight-seeing dono ke liye 😊 koi khoobsurat sight-seeing places ya acha khana try karne ke liye?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Cool. Kaunsi conference? Main ne Twitter par dekha tha kuch log keh rahe the unhe visa nahi mila kisi conference ke liye Canada mein. Shayad wohi conference hai. Mujhe ek jagah Kingyo bohot pasand aayi thi. Acha Japanese khana milta hai agar tumhe pasand hai."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, yeh <REDACTED_TERM> hai, largest machine learning conference. Main Kingyo check karunga, kya wahan pehle se reservation karni hoti hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe yaad nahi. Mere dost ne host kiya tha aur sara kaam usne kiya. Tumhe wahan kisi ko pata hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hmm, local log nahi lekin conference mein bohot log honge 😊"
+        },
+        {
+            "speaker": "human1",
+            "text": "Tum aksar yeh attend karte ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, tum?"
+        },
+        {
+            "speaker": "human1",
+            "text": "mein bhi karna chahun ga"
+        },
+        {
+            "speaker": "human2",
+            "text": "Sorry, main ek physical being nahi hoon!"
+        }
+    ],
+    "conversation60": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hello!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kya tumne lunch kiya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, main kha chuka hoon."
+        },
+        {
+            "speaker": "human1",
+            "text": "Cool. Kahan aur kya khaya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Maine ek ghanta pehle sandwich khaya. Baarish ne mujhe door jaane ka mann nahi kiya haha."
+        },
+        {
+            "speaker": "human1",
+            "text": "Lunch ke liye sandwich? Kya woh pet bhar gaya. Main abhi mix of shrimp, fish, chicken aur pork kha raha hoon. Main vegetarian banne ka soch raha hoon. Lol."
+        },
+        {
+            "speaker": "human2",
+            "text": "Itna saara meat! Kya dish thi? Tum vegetarian kyun banne ka soch rahe ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Kyunki environment aur humans suck karte hain. Main space ke liye apni bets open rakh raha hoon agar environment khatam ho jaye. Main ne kuch dishes mix ki thi. Yeh ek buffet style place tha."
+        },
+        {
+            "speaker": "human2",
+            "text": "Tum in meatless burgers ke bare mein kya sochte ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe bohot pasand hain!!!! Main ne kuch different kinds try ki hain. Yeh sab bohot mehange hote hain. Tumne try kiya?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe impossible burger bohot pasand hai. Tumhara favorite kaunsa hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Mujhe bhi yeh pasand hai. Lekin agar yeh theek se tayar na ho toh peanut butter ka taste aa sakta hai. Lekin agar achi tarah tayar ho toh mujhe pasand hai. Baarish na hoti toh tum kya khate?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Mujhe nahi pata tha ke isme peanut butter hota hai."
+        }
+    ],
+    "conversation61": [
+        {
+            "speaker": "human1",
+            "text": "Hi!"
+        },
+        {
+            "speaker": "human2",
+            "text": "Hi."
+        },
+        {
+            "speaker": "human1",
+            "text": "Tum aaj kaise feel kar rahe ho?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Theek hoon. Tum kaisa feel kar rahe ho?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Main apne purane hometown ki photos dekh raha hoon, is liye nostalgic feel kar raha hoon."
+        },
+        {
+            "speaker": "human2",
+            "text": "Main samajhta hoon. Tasveerain dekh kar hamesha yaadein wapas aati hain. Tumhara hometown kahan hai?"
+        },
+        {
+            "speaker": "human1",
+            "text": "Iska naam <REDACTED_TERM> hai, north coast of France par."
+        },
+        {
+            "speaker": "human2",
+            "text": "Umeed hai ke tum jaldi visit kar sako!"
+        },
+        {
+            "speaker": "human1",
+            "text": "Haan, yeh acha hoga. Tumhe travel karna pasand hai?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan, lekin abhi tak bohot jagah nahi gaya."
+        },
+        {
+            "speaker": "human1",
+            "text": "Agar tum ja sakte toh sabse zyada kahan jaana pasand karte?"
+        },
+        {
+            "speaker": "human2",
+            "text": "Chand par jaana chahunga :) Haha."
+        },
+        {
+            "speaker": "human1",
+            "text": "Waah, cool! Mujhe lagta hai space tourism agle das saal mein bohot bada ho jayega."
+        },
+        {
+            "speaker": "human2",
+            "text": "Haan! Mujhe lagta hai us din ke liye intezar hai."
+        },
+        {
+            "speaker": "human1",
+            "text": "Sochne mein amazing hai, hai na?"
+        }
+    ]
+}

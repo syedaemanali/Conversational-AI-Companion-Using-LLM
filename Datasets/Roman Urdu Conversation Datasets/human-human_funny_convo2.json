@@ -1,0 +1,797 @@
+{
+
+        "conversation1": [
+            {
+                "speaker": "human1",
+                "text": "Tumhara favorite street food kya hai?"
+            },
+            {
+                "speaker": "human2",
+                "text": "Bhai, mere liye samose aur chai combo hai ultimate. Ek samosa aur chai ka sip, lagta hai zindagi set hai. Tumhara?"
+            },
+            {
+                "speaker": "human1",
+                "text": "Haha, mujhe golgappe pasand hain. Ek baar start karo, toh stop button dhoondte reh jao! 😆"
+            },
+            {
+                "speaker": "human2",
+                "text": "Golgappe toh ultimate addiction hain. Ek baar golgappa khaya toh muh se 'aur do' ke ilawa kuch nahi nikalta! Tumhe kabhi paanipuri ke pani se asar hua?"
+            },
+            {
+                "speaker": "human1",
+                "text": "Bilkul! Ek baar zyada teekha pani pi liya tha, lagta tha Dragon ban jaunga! 🐲"
+            },
+            {
+                "speaker": "human2",
+                "text": "Haha, Dragon ki jai! Tumne roadside momos try kiye hain?"
+            },
+            {
+                "speaker": "human1",
+                "text": "Haan, momos aur red chutney, matlab desi dynamite! Ek bite aur muh mein aag lag jaye. 🔥"
+            },
+            {
+                "speaker": "human2",
+                "text": "Red chutney aur momos, deadly combo! Tumhe roadside burger pasand hain?"
+            },
+            {
+                "speaker": "human1",
+                "text": "Haan, roadside burger ka alag hi swaad hota hai. Woh bun aur patty ka perfect jod, bas ek haath mein burger aur dusre mein tissue! 🍔"
+            },
+            {
+                "speaker": "human2",
+                "text": "Burger balance ka talent bhi hona chahiye. Tumhe roadside bhutta pasand hai?"
+            },
+            {
+                "speaker": "human1",
+                "text": "Bhutta aur uske upar nimbu-masala, bas aur kuch nahi chahiye. Lekin kabhi kabhi bhutta zyada chatak jata hai! 🌽"
+            },
+            {
+                "speaker": "human2",
+                "text": "Bhutta ke masale ka kick zabardast hota hai. Tumne roadside chaat try ki?"
+            },
+            {
+                "speaker": "human1",
+                "text": "Haan, chaat ki baat hi alag hai. Woh dahi aur chutney ka mix, aur crispy papdi... pura khana hi adventure hai! 🥳"
+            },
+            {
+                "speaker": "human2",
+                "text": "Chaat ka maza waise bhi non-stop hai. Tumhe roadside kulfi pasand hai?"
+            },
+            {
+                "speaker": "human1",
+                "text": "Haan, kulfi ka bite aur immediately brain freeze. Lekin phir bhi, ek aur kulfi please! 🍦"
+            },
+            {
+                "speaker": "human2",
+                "text": "Haha, kulfi ka maza alag hi hai. Chalo, agle street food hunt pe chalte hain?"
+            },
+            {
+                "speaker": "human1",
+                "text": "Bilkul, street food aur hum, ultimate foodie duo! 🍽️"
+            }
+        ],
+            "conversation2": [
+                {
+                    "speaker": "human1",
+                    "text": "Tumne aakhri dafa kab outdoor event attend kiya?"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Yaar, pichle hafte music festival gaya tha. Volume itni loud thi ke lagta tha speakers ke andar hi bas gaya hoon! Tumne?"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Haha, main ek cultural fest gaya tha. Performers itne energetic the, lagta tha stage unke neeche hil jayegi! 💃"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Cultural fest ka toh apna hi swag hota hai. Tumne kabhi sports event attend kiya?"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Haan, last month ek cricket match dekha. Har ball pe laga ke mera heart rate bhi ball ke saath bounce kar raha hai! 🏏"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Cricket match ka thrill alag hi hota hai. Tumhe concerts pasand hain?"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Haan, concerts mein crowd ka energy dekh ke lagta hai dance floor pe mini earthquake ho raha hai. 🎸"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Haha, concert mein energy levels sky-high hote hain. Tumhe food festivals pasand hain?"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Bilkul! Food festival ka matlab hota hai, ek haath mein plate aur dusre haath mein digestion tablet! 🍲"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Food festival ka full-time job hai khaana! Tumhe outdoor movies dekhna pasand hai?"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Haan, open-air cinema aur taarey, romantic combo. Lekin mosquitoes ka bhi VIP pass hota hai! 🌌"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Haha, mosquitoes ka romance ke beech aana zaroori hai. Tumne kabhi funfair attend kiya?"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Haan, funfair ke rides aise thi ke lagta tha, rollercoaster pe zindagi rewind ho rahi hai! 🎢"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Funfair rides ka thrill aur daredevil feeling unbeatable hota hai. Chalo, agle outdoor event pe milte hain?"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Bilkul, outdoor events aur hum, perfect adventure team! 🌟"
+                }
+            ],
+            
+
+                "conversation3": [
+                    {
+                        "speaker": "human1",
+                        "text": "Tumhara favorite pet kaunsa hai?"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Yaar, dogs are my favorite. Loyalty aur puppy eyes, dono ke bina zindagi incomplete hai. Tumhara?"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Haan, mujhe cats pasand hain. Unki attitude wali walk aur unka mujhe ignore karna, ultimate combo! 😼"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Cats ki toh royalty alag level ki hoti hai. Tumhe birds pasand hain?"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Haan, parrots. Unka colors aur jab woh bolte hain, lagta hai mere ghar mein ek stand-up comedian hai! 🦜"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Haha, parrots ka humor top-notch hota hai. Tumhe fish pasand hain?"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Haan, aquarium ke fish dekh ke lagta hai stress bhi swimming karte hue vanish ho jata hai! 🐠"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Fish ka soothing effect alag hi hota hai. Tumhe rabbits pasand hain?"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Haan, rabbits ka fluffy nature aur woh carrot crunching, bas dekhta hi rahun. 🐰"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Rabbits ka cute overload hai. Tumhe hamsters pasand hain?"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Haan, hamsters ke running wheel dekh ke lagta hai fitness goals achieve karne ka easiest tareeka mil gaya! 🐹"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Hamsters ka workout routine admire karne layak hota hai. Tumhe turtles pasand hain?"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Haan, turtles ka slow and steady winning ka attitude bohot inspiring hai. 🐢"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Turtles ka patience sabko sikhna chahiye. Chalo, agle pet show pe milte hain?"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Bilkul, pets aur hum, perfect pet lovers duo! 😊"
+                    }
+                ],
+                
+                    "conversation4": [
+                        {
+                            "speaker": "human1",
+                            "text": "Tumhe kis type ki book series pasand hain?"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Yaar, mujhe fantasy book series pasand hain. Harry Potter ki magic aur wizards ke adventure mein kho jaata hoon. Tumhe?"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Haan, mujhe bhi fantasy pasand hai. Lord of the Rings ka Middle-earth aur hobbits ke saath safar karna bas ek adventure hai. 🧙‍♂️"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Middle-earth ke wonders alag hi hote hain. Tumhe mystery series pasand hain?"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Haan, Sherlock Holmes ke cases solve karte waqt lagta hai main bhi detective hoon. 🕵️‍♂️"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Sherlock Holmes ke mind games se zyada thrilling kuch nahi. Tumhe sci-fi series pasand hain?"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Haan, sci-fi series mein time travel aur futuristic technology, bas dimag ko overload kar deti hai. 🚀"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Sci-fi ka world exploring fascinating hota hai. Tumhe historical fiction pasand hai?"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Haan, historical fiction padte waqt lagta hai time machine mein baitha hoon. History ka full drama! 📚"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Historical fiction se puraani duniya ko explore karna bohot interesting hota hai. Tumhe thriller series pasand hai?"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Haan, thriller series padte waqt heart rate increase aur suspense ki height, bas next page par jana zaruri ho jata hai. 📖"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Thriller series ka suspense aur excitement unmatched hota hai. Tumhe romance series pasand hai?"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Haan, romance series ki love stories aur emotions, bas heartwarming hote hain. 💖"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Romance series ki kahaniyon ka charm alag hota hai. Tumhe dystopian series pasand hain?"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Haan, dystopian series mein world ke end ka scenario aur survival ki kahani, bas gripping hoti hai. 🌆"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Dystopian series ka dark aur intense world fascinating hota hai. Tumhe comedy series pasand hain?"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Haan, comedy series padte waqt hasi ki hadh nahi hoti. Laughter therapy! 😂"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Comedy series se stress relief perfect hota hai. Chalo, agle book fair pe milte hain?"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Bilkul, books aur hum, perfect bookworms duo! 📚"
+                        }
+                    ],
+                    "conversation5": [
+                        {
+                            "speaker": "human1",
+                            "text": "Tumhara favorite TV channel kaunsa hai?"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "History Channel! Puraana duniya dekh ke lagta hai time travel kar raha hoon. 📜"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Haha, History channel se purani kahaniyan aur events ka knowledge milta hai. Tumhe Cartoon Network pasand hai?"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Haan, Cartoon Network ke shows aur childhood memories, nostalgia ka dose mil jata hai. 🎉"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Cartoon Network ke cartoons timeless hote hain. Tumhe Food Network pasand hai?"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Haan, Food Network ke cooking shows dekh ke lagta hai main MasterChef hoon. 🍴"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Food Network ke recipes mouth-watering hoti hain. Tumhe Sports channel pasand hai?"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Haan, Sports channel dekhte waqt live matches ka excitement aur commentary ka maza alag hai. 🏆"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Sports channel ka thrill unmatched hota hai. Tumhe Travel channel pasand hai?"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Haan, Travel channel dekhte waqt lagta hai main virtual tour kar raha hoon. ✈️"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Travel channel ke destinations dream-worthy hote hain. Tumhe Comedy Central pasand hai?"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Haan, Comedy Central ke shows aur laughter ka full package. Stress-free zone! 😂"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Comedy Central ke comedians hilarious hote hain. Chalo, agle TV marathon pe milte hain?"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Bilkul, favorite TV channels aur hum, perfect entertainment! 📺"
+                        }
+                    ],
+                    
+              "conversation6": [
+                            {
+                                "speaker": "human1",
+                                "text": "Tumne aakhri dafa kab theatre play dekha?"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Yaar, pichle mahine ek comedy play dekha. Actor ke expressions dekh ke hasi ka thikana nahi raha. Tumne?"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Haha, main bhi ek drama play dekha tha. Actor ne emotional scene mein aise aansu bahaye ke mujhe laga room mein flood aa jayega! 😢"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Drama play ke emotions powerful hote hain. Tumhe musical theatre pasand hai?"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Haan, musical theatre mein live singing aur dancing, bas pura experience magical hota hai. 🎤"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Musical theatre ka music aur energy mesmerizing hota hai. Tumhe historical plays pasand hain?"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Haan, historical plays dekhte waqt lagta hai live history class ho rahi hai. Ekdum informative! 📜"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Historical plays ka informative aspect fascinating hota hai. Tumhe thriller plays pasand hain?"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Haan, thriller plays ke suspense aur twists, bas seat se uthne ka mann nahi karta. 🎭"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Thriller plays ka excitement alag level ka hota hai. Tumhe romantic plays pasand hain?"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Haan, romantic plays ke love stories aur emotions, bas heartwarming hote hain. 💖"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Romantic plays ka charm aur warmth feel-good hota hai. Tumhe comedy plays pasand hain?"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Haan, comedy plays ke jokes aur punchlines, bas hasi ka overload hota hai. 😂"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Comedy plays ke humor se stress relief perfect hota hai. Tumhe experimental theatre pasand hai?"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Haan, experimental theatre ke unique concepts aur innovative performances, bas mind-blowing hote hain. 💡"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Experimental theatre ka creativity aur novelty captivating hota hai. Chalo, agle theatre play pe milte hain?"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Bilkul, theatre plays aur hum, ultimate drama buddies! 🎬"
+                            }
+                        ],
+              "conversation7": [
+                            {
+                                "speaker": "human1",
+                                "text": "Tumhari favorite travel experience kya hai?"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Yaar, last vacation mein Switzerland gaya tha. Snowy mountains aur hot chocolate, perfect combo! 🏔️"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Wow, Switzerland ke views ekdum postcard jese lagte hain. Tumhe beaches pasand hain?"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, beaches ka maza hi alag hai. Ek side pe sun aur doosri side pe waves, bas ek perfect day ka definition hai! 🏖️"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Beaches aur ocean ka relaxation unmatched hota hai. Tumhe city tours pasand hain?"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, city tours mein monuments aur local food ka exploration, bas travel ka real essence milta hai. 🏙️"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "City tours ka vibe alag hi hota hai. Tumhe wildlife safaris pasand hain?"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, wildlife safaris mein jungle ki duniya aur wild animals, ekdum thrilling experience hota hai. 🦁"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Wildlife safaris ka adventure alag level ka hota hai. Tumhe historical tours pasand hain?"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, historical tours ke ruins aur old architecture, lagta hai time machine se baahar nikal aaye hain. 🏛️"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Historical tours ka cultural insight priceless hota hai. Tumhe adventure sports pasand hain?"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, adventure sports mein adrenaline rush aur thrill, bas ek unforgettable experience hota hai. 🪂"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Adventure sports ka excitement aur challenge ek alag hi level ka hota hai. Tumhe road trips pasand hain?"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, road trips mein freedom aur spontaneous stops, bas zindagi ka ultimate road map hai. 🚗"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Road trips ka fun aur exploration perfect combination hota hai. Tumhe cruises pasand hain?"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, cruises pe sailing aur sea breeze, ekdam relaxing aur luxurious hota hai. 🚢"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Cruises ka calm aur luxury experience amazing hota hai. Chalo, agle travel adventure pe milte hain?"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Bilkul, travel aur hum, ultimate wanderlust team! 🌍"
+                            }
+                        ],
+        
+            "conversation8": [
+                {
+                    "speaker": "human1",
+                    "text": "Yaar, mujhe vitamin C wali cheezein bohot pasand hain. Skin ko bilkul orange bana deti hain! 🍊"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Haan! Aur retinol ka kya? Wrinkles ko ghar bhej deta hai, no return ticket! ✈️"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Bilkul! Lekin sunblock ke bina, retinol ko bilkul mat lagana. Warna skin jal jaayegi, aur hum dosti mein sunscreen share nahi karenge. 😅"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "True! Aur hyaluronic acid bhi bura nahi. Skin ko pani pilata rehta hai. 💧"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Haan, ekdum jalpari jaisi skin! 🧜‍♀️"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Aloe vera ka kya? Sab ke liye best, bilkul natural. 🌿"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Aloe vera toh jaadu hai! Par yaar, kuch logon ko usse bhi allergy hoti hai. 😬"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Haan, aur niacinamide bhi zabardast hai. Pores ko shrink kar deta hai, like magic! ✨"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Mujhe lagta hai sab kuch thoda thoda use karo, sab mila ke! Ek cocktail banado! 🍹"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Haan, skin ko bhi party chahiye hoti hai na! 🥳"
+                }
+            ],
+            
+                "conversation9": [
+                    {
+                        "speaker": "human1",
+                        "text": "Yaar, mujhe lagta hai ke healthy skin ke liye fruits aur vegetables zaroori hain. Lekin pizza bhi zaroori hai! 🍕"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Pizza? Haan, bas vegetables wale topping dal do, balance ho jayega. 😆"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Haan, aur green tea zaroori hai. Antioxidants milte hain! ☕️"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Green tea toh thik hai, lekin morning mein coffee toh banta hai. 😜"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Haan yaar, caffeine bhi zaroori hai! Par processed food se bach ke rehna. 😅"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Par yaar, sometimes burger ke bina din complete nahi hota. 🍔"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Ek din cheat day bana le. Lekin oily aur spicy cheezon se door rehna. 🌶️"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Haan, aur pani bohot zaroori hai! Skin ko hydration milta hai. 💧"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Bilkul! Aur nuts aur seeds bhi. Omega-3 fatty acids skin ko glow dete hain. 🌟"
+                    },
+                    {
+                        "speaker": "human2",
+                        "text": "Lekin ek baat toh hai, skin bhi genes pe depend karti hai. 😜"
+                    },
+                    {
+                        "speaker": "human1",
+                        "text": "Sahi keh rahe ho! Lekin healthy diet se thoda control toh kar sakte hain. 😊"
+                    }
+                ],
+                                
+              "conversation10": [
+                {
+                    "speaker": "human1",
+                    "text": "Oily skin ke liye, sabse pehle toh mattifying products chahiye. Bas aise na ho jaaye ki face pe paint ho gaya! 🎨"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Haan, aur clay masks bhi bohot ache hote hain. Ekdum oil ko kheench lete hain! 🧖‍♀️"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Bilkul! Lekin, over-cleansing se bachna. Warna aur oil produce hoga. 😅"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Haan yaar, aur salicylic acid bhi try kar sakte hain. Pores ko clean karta hai! ✨"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Right! Aur oil-free moisturizer bhi important hai. Warna skin dry ho ke aur oil produce karegi. 😬"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Aur blotting papers carry karna. Ekdum saviour hote hain din mein! 📝"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Haan, ekdum magic eraser jaisi feeling aati hai! 😄"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Aur sunscreen mat bhoolna. Oil-free formula le lo. 🧴"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Right! Sun damage se skin ko bachana bhi zaroori hai. ☀️"
+                },
+                {
+                    "speaker": "human2",
+                    "text": "Haan, aur regular exfoliation bhi zaroori hai. Lekin gentle exfoliator use karna. 🧼"
+                },
+                {
+                    "speaker": "human1",
+                    "text": "Ekdum! Har cheez balance mein hona chahiye. 😊"
+                }
+            ],
+                     "conversation11": [
+                        {
+                            "speaker": "human1",
+                            "text": "Yaar, mujhe vitamin C serums pasand hain. Ekdum glow aa jata hai! 🍊"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Haan, lekin pehle patch test zaroor karna. Warna face pe orange spots na ban jaaye! 😅"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Right! Aur hyaluronic acid serums bhi amazing hain. Hydration on point! 💧"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Bilkul! Aur niacinamide serums bhi bohot ache hote hain. Pores ko chhota kar dete hain. ✨"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Haan, aur retinol serums bhi try kar sakte hain. Wrinkles ko goodbye bolne ke liye! 👋"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Lekin retinol sirf raat ko use karna. Warna din mein sun exposure se problem ho sakti hai. 🌙"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Right! Aur peptides wale serums bhi bohot ache hote hain. Skin ko firm karte hain. 💪"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Haan, aur mujhe multi-tasking serums pasand hain. Ek serum mein multiple benefits! 🌟"
+                        },
+                        {
+                            "speaker": "human1",
+                            "text": "Bilkul! Budget bhi bach jata hai. 😆"
+                        },
+                        {
+                            "speaker": "human2",
+                            "text": "Haan, aur face ko ekdum fresh lagta hai. 😊"
+                        }
+                    ],
+                    
+                         "conversation12": [
+                            {
+                                "speaker": "human1",
+                                "text": "Yaar, mujhe retinol-based products bohot pasand hain. Wrinkles ko literally erase kar dete hain! ✨"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, par retinol ke saath sunscreen zaroori hai. Warna jal jaye face! 😅"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Bilkul! Aur peptides wale creams bhi bohot ache hote hain. Skin ko firm karte hain. 💪"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, aur vitamin C serums bhi try kar sakte hain. Wrinkles ko kam aur skin ko bright kar dete hain. 🍊"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Right! Aur hyaluronic acid bhi zaroori hai. Skin ko hydrated rakhta hai, wrinkles kam dikhte hain. 💧"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Aur vitamin C bhi try kar sakte hain. Skin ko bright aur youthful banata hai. 🍊"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Lekin sab kuch ek saath na use karna. Warna chemical ka dher ban jayega! 😆"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, ek time pe ek product try karo. Skin ko adjust hone do. 😊"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Aur healthy diet bhi zaroori hai. Omega-3 aur antioxidants zaroori hain. 🌿"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Bilkul! Healthy inside, glowing outside. 😄"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Aur stress se bachke rehna. Wrinkles ka sabse bada dushman stress hai! 😜"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Sahi kaha! Relax aur chill, skin khud hi better ho jayegi. 😊"
+                            }
+                        ],
+
+                         "conversation13": [
+                            {
+                                "speaker": "human1",
+                                "text": "Yaar, mujhe gel-based cleansers pasand hain. Ekdum fresh aur clean feel hoti hai. 🧼"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, lekin dry skin walon ke liye cream-based cleansers best hain. Moisture lock kar dete hain. 💧"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Bilkul! Aur oily skin ke liye foaming cleansers zabardast hain. Oil ko control mein rakhte hain. 🧴"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Haan, par over-cleansing se bachna. Warna skin aur oil produce karegi. 😅"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Right! Aur sensitive skin ke liye fragrance-free aur gentle cleansers best hain. 🌿"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Bilkul! Har skin type ke liye alag cleanser hona chahiye. Ek size fits all nahi hota! 😆"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Haan, aur double cleansing bhi try kar sakte hain. Pehle oil-based cleanser, phir water-based. ✨"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Wah! Ekdum professional skincare routine lag raha hai. 😄"
+                            },
+                            {
+                                "speaker": "human1",
+                                "text": "Haan, aur sunscreen bhi zaroori hai. Clean face pe hi best kaam karta hai. ☀️"
+                            },
+                            {
+                                "speaker": "human2",
+                                "text": "Right! Aur har raat face wash zaroor karna. Warna pores block ho jayenge. 😊"
+                            }
+                        ],
+
+                              "conversation14": [
+                                {
+                                    "speaker": "human1",
+                                    "text": "Sensitive skin ke liye sabse pehle toh gentle cleanser chahiye. Bilkul mild, jaise baby soap. 🧼"
+                                },
+                                {
+                                    "speaker": "human2",
+                                    "text": "Haan, aur alcohol-free toner bhi. Warna irritation ho jayegi. 🍃"
+                                },
+                                {
+                                    "speaker": "human1",
+                                    "text": "Right! Aur fragrance-free moisturizer. Simple aur effective. 💧"
+                                },
+                                {
+                                    "speaker": "human2",
+                                    "text": "Haan, aur sunscreen bhi zaroori hai. Lekin physical sunscreen best hoti hai sensitive skin ke liye. ☀️"
+                                },
+                                {
+                                    "speaker": "human1",
+                                    "text": "Bilkul! Aur exfoliation bhi bohot gentle hona chahiye. Weekly ek baar se zyada nahi. 😊"
+                                },
+                                {
+                                    "speaker": "human2",
+                                    "text": "Haan, aur patch test zaroor karna. Warna skin ko naya product suit na kare toh problem ho sakti hai. 😬"
+                                },
+                                {
+                                    "speaker": "human1",
+                                    "text": "Aur chemical peels avoid karna. Sensitive skin pe reaction ho sakti hai. 🌿"
+                                },
+                                {
+                                    "speaker": "human2",
+                                    "text": "Haan, aur hydrating serums use kar sakte hain. Skin ko calm rakhte hain. 💧"
+                                },
+                                {
+                                    "speaker": "human1",
+                                    "text": "Bilkul! Aur makeup products bhi specially sensitive skin ke liye lene chahiye. 😊"
+                                },
+                                {
+                                    "speaker": "human2",
+                                    "text": "Right! Aur overall, minimalistic approach rakhni chahiye. Less is more. 🌟"
+                                }
+                            ]                                                                                                                                                            
+}

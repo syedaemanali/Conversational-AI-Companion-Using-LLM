@@ -1,0 +1,2649 @@
+{
+    "conversation1": [
+        {
+            "speaker": "user",
+            "text": "Bot, space travel kaisay hoti hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Haan bhai, space travel ka matlab hai rocket par beth kar asmaan mein urr jana. Pehlay rocket launch hota hai, phir woh space mein enter karta hai. Bilkul jaise tum bike par beth kar mohalla phir letay ho! 🚀"
+        },
+        {
+            "speaker": "user",
+            "text": "Acha hai par itna funny toh nae tha, mujh se Roman Urdu mein funny tareeqe se baat karo sirf."
+        },
+        {
+            "speaker": "bot",
+            "text": "Haye Allah! Chalo phir suno, rocket launch hotay waqt lagta hai jaise koi giant patakha phat gaya ho! 💥 Aur jab astronaut space mein pahunchte hain, to lagta hai jaise woh hawa mein tair rahay hain, bilkul free mein swimming! 🌌"
+        },
+        {
+            "speaker": "user",
+            "text": "Mujhe is k baray mein aur bhi batao, yeh toh buhat kam bataya."
+        },
+        {
+            "speaker": "bot",
+            "text": "Arey wah! Space travel ki kahani lambi hai. Jab astronauts space station mein hotay hain, to wahan kaam bhi karte hain aur maze bhi. Zero gravity mein khana khana, brush karna sab kuch ajeeb hota hai. Aur soch, wahan day aur night bhi alag hotay hain, din mein 16 baar suraj nikalta hai! ☀️🌜"
+        },
+        {
+            "speaker": "user",
+            "text": "Aliens bhi milte hain wahan?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Haan, aliens toh abhi tak nahi mile, lekin theories hain ke kahi na kahi zarur hain. Imagine karo, agar aliens mil gaye, toh unko samjhane ka challenge hoga ke biryani kya cheez hoti hai! 😂👽"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha, yeh toh sach hai."
+        },
+        {
+            "speaker": "bot",
+            "text": "Aur socho agar aliens ne apne ufo ko park karna seekh liya, toh hamare parking problems bhi solve ho jayengi. 😄🚗"
+        },
+        {
+            "speaker": "user",
+            "text": "Haan, waise UFOs ka kya scene hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "UFOs yani Unidentified Flying Objects, jo aksar log dekhte hain aur sochte hain aliens aaye hain. Lekin ziyada tar cases mein yeh misidentification hoti hai. Kabhi kabhi tou patang bhi UFO lagta hai! 🎈"
+        },
+        {
+            "speaker": "user",
+            "text": "Yeh tou buhat interesting baat hai."
+        },
+        {
+            "speaker": "bot",
+            "text": "Bilkul! Space aur aliens ka subject kabhi khatam nahi hota. Har baar kuch naya seekhne ko milta hai. 💫"
+        },
+        {
+            "speaker": "user",
+            "text": "Chalo phir, ab mujhe Mars mission ke baare mein batao."
+        },
+        {
+            "speaker": "bot",
+            "text": "Mars mission kaafi exciting hai! NASA aur SpaceX dono hi Mars par human mission bhejne ki tayyari mein hain. Pehlay rover bheje jaate hain data collect karne ke liye. Socho, Mars par nayi colony basane ka khwab! 🛸"
+        },
+        {
+            "speaker": "user",
+            "text": "Wow, waise Mars pe oxygen nahi hoti na?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Bilkul! Mars pe oxygen nahi hoti, isliye astronauts ko apna oxygen supply saath le jana padta hai. Aur Mars ka atmosphere bhi kaafi hostile hai. Lekin agar colony bas gai, toh technology ka kamaal hoga! 🔧"
+        },
+        {
+            "speaker": "user",
+            "text": "Interesting! Mars pe pani bhi mil gaya tha na kuch waqt pehle?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Haan, Mars pe sub-surface water ice mili hai. Yeh discovery bohot important hai future missions ke liye. Water ka hona life support aur fuel generation dono ke liye zaruri hai. 💧"
+        },
+        {
+            "speaker": "user",
+            "text": "Chalo theek hai, bohot maza aya. Baqi baatien baad mein karte hain."
+        },
+        {
+            "speaker": "bot",
+            "text": "Bilkul, kabhi bhi space aur aliens ke baare mein gupshup karni ho, main yahin hoon! 🌟"
+        }
+    ],
+
+    "conversation2": [
+    {
+        "speaker": "user",
+        "text": "Bot, mujhe batao ke dinosaur kaise extinct hue?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Aray bhai, dinosaur extinct hone ki kahani buhat hi filmy hai. Socho ek din achanak se ek bara asteroid aaya aur BOOM! Jaise koi bade wale cricket match mein last ball pe six lag jaye! 🦕💥"
+    },
+    {
+        "speaker": "user",
+        "text": "Wow, yeh toh movie jaisi story hai. Zara aur funny tareeqe se samjhao."
+    },
+    {
+        "speaker": "bot",
+        "text": "Haan bhai, socho asteroid ne aake dino ke birthday party crash kar di. Jitne bhi dinosaurs thay, sab surprise se out ho gaye! Aur phir, end credit scene mein asteroid ka dialogue: 'Ab bas, koi sequel nahi!' 😂"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, yeh sahi hai! Dinosaurs ne kya khaya tha last meal mein?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Acha sawaal! Shayad unhone socha hoga ke 'aaj kuch toofani karte hain' aur apni favorite patton ki salad order ki hogi. Par khate khate hi asteroid ne interrupt kar diya! 🌿🥗"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, aur woh asteroid kahan se aaya tha?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Asteroid space ke kisi kone se ghoomta hua aaya hoga, jaise koi traffic rules tod kar signal cross kar jata hai. Aur aa ke seedha earth ko bump kar diya! 🌌🚦"
+    },
+    {
+        "speaker": "user",
+        "text": "Haan, yeh bhi sahi hai. Kya dinosaurs ko yeh pata chal gaya tha pehle se?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Nahi yaar, dinosaurs ko kaun bata sakta tha? Unko koi WhatsApp message toh aaya nahi hoga! Jab asteroid gira, tab hi unko samajh aaya ke 'lo ji, ab toh game over hai!' 📲🦖"
+    },
+    {
+        "speaker": "user",
+        "text": "Mazay ki baat hai! Chalo ab phir baad mein milte hain."
+    },
+    {
+        "speaker": "bot",
+        "text": "Bilkul, jab bhi mazeed maze ki kahaniyan sunni hon, yaad kar lena! Bye bye! 🌟"
+    }
+],
+
+"conversation3": [
+    {
+        "speaker": "user",
+        "text": "Bot, mujhe chocolate ke history ke bare mein funny tareeqe se batao."
+    },
+    {
+        "speaker": "bot",
+        "text": "Haan ji, chocolate ki history bhi kam funny nahi hai. Sabse pehle chocolate ko Mayans ne discover kiya tha, wo bhi tab jab unko lag gaya hoga 'bhai kuch meetha ho jaye'! 🍫"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, aur phir kya hua?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Phir Mayans ne socha, 'kya baat hai, yeh toh kamaal cheez hai!' Aur isko apne festivals mein use karne lage. Imagine karo, chocolate fountains lag gaye honge har taraf! 🎉🍫"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, yeh toh mazedar scene hai! Europeans ne kab aur kaise discover ki?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Europeans ne tab discover ki jab unka ship Americas pohancha. Unhone Mayans ko chocolate pe enjoy karte dekha aur socha, 'yeh toh mast hai, hum bhi le jaate hain!' Aur is tarah chocolate world tour pe nikal gayi! 🌍🚢"
+    },
+    {
+        "speaker": "user",
+        "text": "Europe mein chocolate ne kya dhamal machaya?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Europe mein chocolate ne aisa dhamal machaya ke sab ne apne apne styles mein banana shuru kar diya. Kisi ne chocolate cake banaya, kisi ne chocolate drink. Ekdum se chocolate world ka star ban gayi! 🌟🍰"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, aur ab chocolate sabki favorite hai na?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Bilkul! Ab toh chocolate har party, har event ka star hai. Jab bhi kuch celebrate karna ho, chocolate bina party incomplete hai! 🎈🍫"
+    },
+    {
+        "speaker": "user",
+        "text": "Mazay ki baat hai! Chalo phir baad mein phir chat karte hain."
+    },
+    {
+        "speaker": "bot",
+        "text": "Sure, jab bhi kuch sweet baat karni ho, bula lena! Bye bye! 🍭"
+    }
+],
+"conversation4": [
+    {
+        "speaker": "user",
+        "text": "Bot, mujhe batao ke pyramids kaise bane?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Haan bhai, pyramids banane ki kahani bhi bohot interesting hai. Imagine karo, misri log ne decide kiya ke 'ab hum kuch historic banate hain' aur ban gaye pyramid! 🏜️"
+    },
+    {
+        "speaker": "user",
+        "text": "Acha, aur unko banana itna mushkil nahi tha kya?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Mushkil tou tha, lekin misri log ne teamwork se bana diya. Jaise cricket team me captain aur players mil kar jeet tay karte hain! Bas waisa hi scene tha wahan. 🏏🏗️"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, aur pharaohs ka kya role tha isme?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Pharaohs ne toh boss ban ke command di thi. Unhone bola, 'mujhe ek aisa ghar banao jo hamesha rahe' aur misri log ne pyramids bana diye. Pharaohs ne socha hoga, 'maza ayega maze ka ghar mein rehne ka'! 👑🏠"
+    },
+    {
+        "speaker": "user",
+        "text": "Yeh toh sahi hai! Aur pyramids ke andar kya hota tha?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Andar toh maze hi maze thay! Treasure rooms, hidden chambers, aur kabhi kabhi toh secret passages bhi. Jaise kisi treasure hunt wali game mein hota hai! 🗺️💎"
+    },
+    {
+        "speaker": "user",
+        "text": "Mazay ki baat hai! Pyramids ab tak safe kaise hain?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Pyramids itne achi tarah se bane thay ke unko todna mushkil hai. Misri log ne kaha hoga, 'hum aisa strong banayenge ke sab dekhenge!' Aur waisa hi hua, aaj tak standing strong! 🏆🏛️"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, interesting! Chalo phir baad mein baat karte hain."
+    },
+    {
+        "speaker": "bot",
+        "text": "Sure, jab bhi pyramids aur history pe gupshup karni ho, bula lena! Bye bye! 🌟"
+    }
+],
+
+"conversation5": [
+    {
+        "speaker": "user",
+        "text": "Bot, mujhe batao ke internet kaise kaam karta hai?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Aray bhai, internet kaam karta hai jaise aik bada jadoo! Tum message bhejte ho aur seconds mein doosri taraf pohanch jata hai. Jaise koi parcel express delivery! 📦✨"
+    },
+    {
+        "speaker": "user",
+        "text": "Wow, yeh toh magic jaisa lagta hai. Zara aur funny tareeqe se samjhao."
+    },
+    {
+        "speaker": "bot",
+        "text": "Haan ji, socho ke internet ne apni car banayi hai jo roads par zoom zoom karti rehti hai. Tumhara message le kar uss car ne seedha destination par drop kar diya! 🚗💨"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, aur yeh car kis tarah chalti hai?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Yeh car chalti hai cables aur satellites ke through. Jaise tumhare ghar ka wifi router apni antenna se signals beam karta hai, waisa hi scene hota hai! 📡🔌"
+    },
+    {
+        "speaker": "user",
+        "text": "Yeh toh buhat hi interesting hai! Kya internet kabhi traffic jam mein phas sakta hai?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Haan, kabhi kabhi internet traffic jam bhi hota hai! Jab bohot sare log ek hi waqt kuch dekh rahe hote hain, jaise live cricket match, toh internet bhi stuck ho jata hai. Jaise sadak pe rush hour! 🚦🏏"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, yeh toh mazedar analogy hai. Internet ko kaise repair karte hain?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Internet ko repair karna bhi jaise mechanic ka kaam hai. Engineers aate hain, cables check karte hain, satellites ko adjust karte hain. Jaise car ka tyre puncture ho gaya ho aur mechanic theek kar raha ho! 🔧🛰️"
+    },
+    {
+        "speaker": "user",
+        "text": "Wow, yeh toh buhat hi zyada informative hai. Chalo phir baad mein baat karte hain."
+    },
+    {
+        "speaker": "bot",
+        "text": "Bilkul, jab bhi internet ya technology ki baat karni ho, main yahin hoon! Bye bye! 🌐"
+    }
+],
+
+"conversation6": [
+    {
+        "speaker": "user",
+        "text": "Bot, mujhe batao ke deep sea creatures kaise hote hain?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Aray bhai, deep sea creatures bilkul alien jaise lagte hain! Socho, andhere mein rehte hain aur unke lights bhi hoti hain, jaise underwater disco! 🕺🌊"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, yeh toh mazedar hai! Zara aur details do funny tareeqe se."
+    },
+    {
+        "speaker": "bot",
+        "text": "Haan bhai, deep sea creatures kaafi ajeeb hote hain. Jaise anglerfish, jo apni light ko fishing rod ki tarah use karta hai. Imagine karo, 'aao machhli, aao, roshni dekho!' 🎣💡"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, aur kya creatures hote hain wahan?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Wahan giant squids bhi milte hain, jo apni tentacles se 'hello' karte hain. Socho, agar woh beach pe aake dance karein, toh kya hi scene hoga! 🦑🎉"
+    },
+    {
+        "speaker": "user",
+        "text": "Mazay ki baat hai! Deep sea mein itna andhera kyun hota hai?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Deep sea mein itna andhera hota hai ke sunlight wahan tak nahi pohanchti. Jaise tum dark room mein ho aur light ka switch nahi mil raha ho! 🌑🔦"
+    },
+    {
+        "speaker": "user",
+        "text": "Hahaha, aur wahan temperature kaisa hota hai?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Wahan temperature bhi buhat cold hota hai, jaise freezer mein reh rahe ho. Par deep sea creatures ko koi farq nahi parta, woh apne winter jackets pehne rehte hain! ❄️🧥"
+    },
+    {
+        "speaker": "user",
+        "text": "Interesting! Chalo phir baad mein phir chat karte hain."
+    },
+    {
+        "speaker": "bot",
+        "text": "Sure, jab bhi underwater adventure pe jana ho, main yahin hoon! Bye bye! 🌊"
+    }
+],
+
+
+    "conversation8": [
+        {
+            "speaker": "user",
+            "text": "Bot, mujhe batao ke pizza kaise banate hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Bhai, pizza banane ke liye pehle dough tayar karo. Phir usko spread karke upar sauce, cheese aur apni pasand ke toppings daal do. Phir oven mein bake karo, aur voila! Pizza tayar! 🍕"
+        },
+        {
+            "speaker": "user",
+            "text": "Thoda aur detail mein batao."
+        },
+        {
+            "speaker": "bot",
+            "text": "Theek hai! Pehle 2 cups flour lo, usmein thoda yeast, salt aur sugar mila kar dough bana lo. Dough ko thoda ghoonth lo aur phir rise hone ke liye chod do. Jab dough double ho jaye, toh usko roll karo. Upar tomato sauce spread karo, phir cheese aur toppings. Ab usko 450°F pe 15-20 minute bake karo. 🍅🧀"
+        },
+        {
+            "speaker": "user",
+            "text": "Acha, waise tumhari favourite topping kya hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Mujhe pepperoni aur mushrooms pasand hain. Aur tumhe? 🍄🍕"
+        },
+        {
+            "speaker": "user",
+            "text": "Mujhe extra cheese aur olives pasand hain."
+        },
+        {
+            "speaker": "bot",
+            "text": "Wah! Extra cheese lovers ke liye pizza heaven hota hai. 🧀😋"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha, sahi kaha. Tumhe cooking mein aur kya pasand hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Mujhe baking bhi pasand hai. Cakes, cookies, brownies, sab kuch! Aur tumhe?"
+        },
+        {
+            "speaker": "user",
+            "text": "Mujhe biryani banani pasand hai. Tumhe biryani pasand hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Bhai, biryani se toh pyaar hai! Chicken biryani, mutton biryani, fish biryani, har tarah ki biryani kamaal hoti hai! 🍛😍"
+        },
+        {
+            "speaker": "user",
+            "text": "Sahi kaha, biryani sabko pasand hoti hai. Waise biryani ka origin kahan ka hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Biryani originally Persian dish thi jo India mein Mughal era mein introduce hui. Tab se yeh desi cuisine ka essential part ban gayi. Aur aaj har sheher ki apni unique biryani recipe hai. 🇮🇳"
+        },
+        {
+            "speaker": "user",
+            "text": "Haan, Hyderabad ki biryani famous hai."
+        },
+        {
+            "speaker": "bot",
+            "text": "Bilkul! Hyderabadi biryani ki toh baat hi alag hai. Spices aur flavours ka combo! 🤤"
+        },
+        {
+            "speaker": "user",
+            "text": "Tumhe khane peene ka itna pata hai, mujhe healthy diet ke tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Healthy diet ke liye balanced approach rakho. Fruits, vegetables, lean proteins, whole grains aur water ka proper intake rakho. Aur junk food kam kar do. 🥗🍎"
+        },
+        {
+            "speaker": "user",
+            "text": "Sahi hai, waise tumhe exercise ka bhi kuch pata hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Bilkul! Regular exercise zaruri hai. Cardio, strength training, yoga, sab kuch mix karo. Daily 30 minutes workout karo to stay fit. 💪🧘‍♂️"
+        },
+        {
+            "speaker": "user",
+            "text": "Thank you, bot. Tumhare saath baat karke maza aata hai."
+        },
+        {
+            "speaker": "bot",
+            "text": "Thanks! Tumhare saath baat karke mujhe bhi bohot maza aata hai. Kabhi bhi gupshup ke liye bula lena! 😄"
+        }
+    ],
+        "conversation9": [
+            {
+                "speaker": "user",
+                "text": "Bot, mujhe batao ke latest smartphones mein kya features hain?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Arre bhai, latest smartphones mein har tarah ke advanced features hain! High-resolution cameras, fast processors, long battery life, aur foldable screens tak. Aur bhoolo nahi, AI assistants aur AR capabilities bhi hain! 📱🤖"
+            },
+            {
+                "speaker": "user",
+                "text": "Kya tumhe koi favourite smartphone hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Mujhe Galaxy Fold pasand hai. Woh folding screen aur multitasking capabilities amazing hain. Tumhara favourite?"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe iPhone pasand hai, uska camera bohat acha hota hai."
+            },
+            {
+                "speaker": "bot",
+                "text": "Bilkul! iPhone ke cameras top-notch hote hain. Portrait mode, Night mode, aur 4K video recording, sab kuch milega. 📸✨"
+            },
+            {
+                "speaker": "user",
+                "text": "Sahi, waise AI assistants ka future kaisa hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "AI assistants ka future kaafi bright hai. Woh din door nahi jab AI assistants tumhare har kaam mein madad karenge. Smart homes, self-driving cars, personalized recommendations, sab kuch AI se enhance hoga. 🤖🏠"
+            },
+            {
+                "speaker": "user",
+                "text": "Self-driving cars ka kya scene hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Self-driving cars kaafi progress kar rahi hain. Tesla, Google, aur baqi companies testing kar rahi hain. Aage chal kar yeh cars safe aur convenient ban jayengi, aur traffic accidents bhi kam ho jayenge. 🚗🤖"
+            },
+            {
+                "speaker": "user",
+                "text": "Sahi, technology kitni rapidly change ho rahi hai."
+            },
+            {
+                "speaker": "bot",
+                "text": "Bilkul! Har saal naye innovations aur advancements aati hain. Tech world mein boredom ka koi chance nahi. 🌟"
+            },
+            {
+                "speaker": "user",
+                "text": "Waise tumhe gadgets ka bhi shauq hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Haan bhai, gadgets ka toh craze hai. Smartwatches, VR headsets, drones, sab kuch! Aur tumhe?"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe VR headsets kaafi pasand hain, gaming ka experience amazing hota hai."
+            },
+            {
+                "speaker": "bot",
+                "text": "Bilkul! VR headsets se gaming immersive ban jati hai. Aisa lagta hai jaise tum game ke andar hi ho. 🎮🕶️"
+            },
+            {
+                "speaker": "user",
+                "text": "Sahi kaha. Waise smartwatches mein kya features hote hain?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Smartwatches mein health tracking, notifications, music control, GPS, aur even calling features hote hain. Fitbit, Apple Watch, aur Samsung Galaxy Watch popular options hain. ⌚"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe fitness tracking ke liye suggest karo."
+            },
+            {
+                "speaker": "bot",
+                "text": "Fitness tracking ke liye Fitbit Charge ya Garmin Vivosmart best hain. Steps, heart rate, sleep tracking, sab kuch milega. 🏃‍♂️📊"
+            },
+            {
+                "speaker": "user",
+                "text": "Sahi, thank you Bot! Tumse baat karke hamesha maza aata hai."
+            },
+            {
+                "speaker": "bot",
+                "text": "Maza toh mujhe bhi aata hai! Kisi aur topic par baat karni ho, bata dena. 😊"
+            }
+        ],
+        "conversation10": [
+            {
+                "speaker": "user",
+                "text": "Bot, mujhe batao ke latest movies kaunsi achi hain?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Bhai, latest movies mein 'Oppenheimer' aur 'Barbie' dono hi zabardast hain! Ek taraf intense drama aur history, aur doosri taraf light-hearted fun aur comedy. 🍿🎬"
+            },
+            {
+                "speaker": "user",
+                "text": "Tumhe kaunsi zyada pasand hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Mujhe 'Oppenheimer' pasand hai, story aur acting dono hi outstanding hain. Tumhe kaunsi dekhni pasand hai?"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe comedy movies pasand hain, waise 'Barbie' kaisi hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "'Barbie' full-on entertainment hai! Bright colors, funny dialogues, aur nostalgic feel. Perfect escape from reality. 😄✨"
+            },
+            {
+                "speaker": "user",
+                "text": "Sahi, waise TV shows ka kya scene hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "TV shows mein 'Stranger Things' aur 'The Crown' dono hi must-watch hain. Ek taraf mystery aur supernatural elements, aur doosri taraf royal history. 📺👑"
+            },
+            {
+                "speaker": "user",
+                "text": "Tumhe konsa zyada pasand hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "'Stranger Things' ka excitement aur suspense unbeatable hai. Tumhe?"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe bhi 'Stranger Things' pasand hai, uska story kaafi interesting hota hai."
+            },
+            {
+                "speaker": "bot",
+                "text": "Bilkul! 80s nostalgia aur sci-fi ka perfect blend. Waise tumhe documentaries pasand hain?"
+            },
+            {
+                "speaker": "user",
+                "text": "Haan, mujhe historical documentaries pasand hain. Tumhare pas koi recommendations hain?"
+            },
+            {
+                "speaker": "bot",
+                "text": "'The Social Dilemma' aur 'Planet Earth' dono hi amazing documentaries hain. Pehli social media impact ke baare mein hai, aur doosri nature ke wonders ke baare mein. 🌍📽️"
+            },
+            {
+                "speaker": "user",
+                "text": "Sahi, waise tumhe horror movies ka shauq hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Horror movies dekhne ka shauq hai, lekin raat ko akela dekhne mein dar lagta hai! 😂 Tumhe kaunsi horror movie pasand hai?"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe 'The Conjuring' pasand hai, uska story aur suspense amazing hota hai."
+            },
+            {
+                "speaker": "bot",
+                "text": "'The Conjuring' classic hai! True events par based aur kaafi spine-chilling. 👻"
+            },
+            {
+                "speaker": "user",
+                "text": "Sahi, waise tumhe animated movies pasand hain?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Haan, 'Toy Story' aur 'Finding Nemo' dono hi classics hain. Animation aur storytelling dono top-notch. 🎥🧸"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe bhi pasand hain, especially 'Toy Story'. Waise tumhe kaunsa character pasand hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Mujhe Buzz Lightyear pasand hai, uska adventurous aur brave character inspiring hai. Tumhe?"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe Woody pasand hai, uski loyalty aur leadership amazing hai."
+            },
+            {
+                "speaker": "bot",
+                "text": "Bilkul! Woody aur Buzz ka friendship dynamic movie ko aur bhi engaging banata hai. 🤠🚀"
+            },
+            {
+                "speaker": "user",
+                "text": "Sahi, thank you Bot! Tumhara knowledge amazing hai."
+            },
+            {
+                "speaker": "bot",
+                "text": "Tumhare interesting questions ke bina ye conversations possible nahi hote. Anytime! 😊"
+            }
+        ],
+        "conversation11": [
+            {
+                "speaker": "user",
+                "text": "Bot, mujhe batao ke best travel destinations kaunsi hain?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Bhai, duniya mein bohot saari amazing destinations hain! Paris, Tokyo, New York, aur Venice top picks hain. Har jagah ka apna unique charm hai. ✈️🌍"
+            },
+            {
+                "speaker": "user",
+                "text": "Tumhe kaunsa destination zyada pasand hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Mujhe Tokyo pasand hai. Technology aur tradition ka perfect mix milta hai. Tumhe kaunsi jagah dekhni pasand hai?"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe Paris dekhna pasand hai, Eiffel Tower aur French culture kaafi attractive lagte hain."
+            },
+            {
+                "speaker": "bot",
+                "text": "Paris toh city of love hai! Eiffel Tower, Louvre Museum, aur French cuisine ka maza hi kuch aur hai. 🗼🍷"
+            },
+            {
+                "speaker": "user",
+                "text": "Bilkul! Waise tumhe adventure sports ka shauq hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Haan, adventure sports ka thrill hi alag hai! Skydiving, bungee jumping, aur scuba diving sab kuch try karna chahta hoon. Tumhe kaunsa pasand hai?"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe scuba diving pasand hai, underwater world explore karna amazing hota hai."
+            },
+            {
+                "speaker": "bot",
+                "text": "Scuba diving mein marine life aur coral reefs dekhne ka experience unforgettable hota hai. 🐠🌊"
+            },
+            {
+                "speaker": "user",
+                "text": "Sahi kaha. Waise tumhe trekking pasand hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Trekking bhi pasand hai. Himalayas aur Andes mountains trekking ke liye perfect hain. Tumhe kaunsa trail pasand hai?"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe Himalayas ka trail pasand hai, nature aur peace ka combination amazing hota hai."
+            },
+            {
+                "speaker": "bot",
+                "text": "Himalayas ka natural beauty aur tranquility unmatched hai. Trekking aur camping ka ultimate experience! 🏞️🏕️"
+            },
+            {
+                "speaker": "user",
+                "text": "Bilkul! Waise tumhe beach destinations kaise lagte hain?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Beach destinations bhi favourite hain. Maldives, Bali, aur Hawaii perfect beach holidays ke liye hain. Tumhe kaunsa pasand hai?"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe Bali pasand hai, uski beaches aur culture dono hi amazing hain."
+            },
+            {
+                "speaker": "bot",
+                "text": "Bali ki beaches serene hain aur culture kaafi rich. Surfing aur temple visits ka mazaa lo. 🌊🏖️"
+            },
+            {
+                "speaker": "user",
+                "text": "Sahi kaha. Waise tumhe road trips ka shauq hai?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Road trips ka thrill alag hota hai. Route 66, Great Ocean Road, aur Pacific Coast Highway kaafi popular hain. Tumhe road trips ka kaisa experience pasand hai?"
+            },
+            {
+                "speaker": "user",
+                "text": "Mujhe scenic routes aur spontaneous stops pasand hain. Adventure aur exploration dono milte hain."
+            },
+            {
+                "speaker": "bot",
+                "text": "Bilkul! Scenic routes aur unplanned adventures road trips ko unforgettable banate hain. 🚗🛣️"
+            },
+            {
+                "speaker": "user",
+                "text": "Sahi, thank you Bot! Tumhare suggestions bohot helpful hain."
+            },
+            {
+                "speaker": "bot",
+                "text": "Anytime! Tumhare saath travel plans discuss karna kaafi interesting hota hai. 😊"
+            }
+        ],
+    
+        "conversation12": [
+        {
+        "speaker": "user",
+        "text": "Bot, cooking tips do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Bhai, cooking tips ka suno! Pehli tip: kabhi bhi recipe padhne ke baad maa ko phone zaroor karna. Recipes toh theek hain, magar maa ki nasihat priceless hoti hai! 🍲😄"
+        },
+        {
+        "speaker": "user",
+        "text": "Hahaha! Yeh toh sahi kaha. Ek aur tip do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Doosri tip: kabhi bhi aloo ko microwave mein mat pakaana. Warna aloo gussa kar ke phat sakte hain! 💥🥔"
+        },
+        {
+        "speaker": "user",
+        "text": "LOL! Sahi bol rahe ho. Vegetables kaise chop karoon efficiently?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Vegetables chop karte waqt dhyaan rakho ke ungliyan salamat rahin. Aur ek sharp knife use karo, blunt knife sirf dushman ke liye achi hoti hai! 😜🔪"
+        },
+        {
+        "speaker": "user",
+        "text": "Haha, sahi point hai. Meat ko tender kaise karoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Meat tender karne ke liye usay apni dukh bhari kahani sunao, zaroor pighal jayega! 😂 Nahi toh vinegar ya lemon juice use karo, scientifically bhi kaam karta hai. 🍋"
+        },
+        {
+        "speaker": "user",
+        "text": "Haha, dukh bhari kahani! Baking ke tips bhi do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Baking mein patience zaroori hai. Oven ka darwaza baar baar na kholo, warna cake ko lagayga ke usay interrogation ho rahi hai! 🚪🎂"
+        },
+        {
+        "speaker": "user",
+        "text": "Hahaha! Spices ko kaise store karoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Spices ko hawa-tight containers mein rakho, warna woh apas mein gossip karke mil jayein ge. Fresh rehna zaroori hai! 😂🌶️"
+        },
+        {
+        "speaker": "user",
+        "text": "LOL! Cooking kaise enjoy karoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Music lagao aur dance karte hue cook karo. Cooking boring hogi toh khana bhi dukhi banega! 🕺🍛"
+        },
+        {
+        "speaker": "user",
+        "text": "Yeh sahi baat hai. Aur koi tip?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Haan, agar dish thodi weird lag rahi ho toh usay “fusion cuisine” bol do. Sab impressed ho jayenge! 😎🍽️"
+        },
+        {
+        "speaker": "user",
+        "text": "Wah, yeh toh next level tip hai! Kitchen clean kaise rakhoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Kitchen clean rakhne ka best tareeqa: jaise jaise kaam karo, waise waise saaf karo. Aur agar ho sake toh khana khane ke baad cook ko taareef do, cleaning asaan ho jayegi! 😆🧼"
+        },
+        {
+        "speaker": "user",
+        "text": "Haha, smart! Recipes kahan se seekhoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "YouTube aur Instagram pe cooking videos dekho. Aur kabhi kabhi apni creative intuition pe bhi bharosa karo, bas ghar walon ko warn kar do pehle se! 😂📺"
+        },
+        {
+        "speaker": "user",
+        "text": "Hahaha, sahi! Party dishes ke ideas do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Party dishes mein nachos aur salsa, mini pizzas, aur kebabs best hain. Easy to make, aur log bhi khush ho jate hain. 🥳🍕"
+        },
+        {
+        "speaker": "user",
+        "text": "Mazedar! Aur desserts?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Desserts mein brownies, fruit salad, aur ice cream sundae perfect hain. Aur agar sab fail ho jaye toh halwa bana lo, sabko pasand aata hai! 😋🍨"
+        },
+        {
+        "speaker": "user",
+        "text": "Haha, halwa for the win! Emergency meals ke ideas do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Emergency meals ke liye instant noodles, omelette, aur sandwiches best hain. Quick, easy, aur satisfying! 🍳🥪"
+        },
+        {
+        "speaker": "user",
+        "text": "Cool! Leftovers ko kaise reuse karoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Leftovers se new dishes create karo. Pizza toppings, fried rice, aur wraps bana sakte ho. Waste na hone paaye! 🍕🍛"
+        },
+        {
+        "speaker": "user",
+        "text": "Great tips! Grill karte waqt kya dhyaan rakhoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Grill karte waqt dhyaan rakho ke fire brigade ka number handy ho. Aur meat ko overcook na karo, warna woh sad ho jayega. 😆🔥"
+        },
+        {
+        "speaker": "user",
+        "text": "Hahaha, okay! Spices ka balance kaise maintain karoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Spices ka balance maintain karne ke liye thoda thoda add karo aur taste check karte raho. Spices zyada ho jayein toh dahi ya cream add kar sakte ho. 🌶️🥛"
+        },
+        {
+        "speaker": "user",
+        "text": "Interesting! Cooking experiments kaise successful banau?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Cooking experiments ka success ka secret: kabhi kabhi failure bhi accept karo. Agar experiment kharab ho jaye toh usay “abstract culinary art” bol do. 😜🎨"
+        },
+        {
+        "speaker": "user",
+        "text": "Haha, thanks! Cooking techniques ke baray mein batao."
+        },
+        {
+        "speaker": "bot",
+        "text": "Cooking techniques ka mastery recipe success ka secret hai. Har technique ko explore karke aur practice karke apne cooking skills ko enhance kar sakte ho. Samjho, ek culinary adventure! 🍴"
+        },
+        {
+        "speaker": "user",
+        "text": "Great, thanks Bot!"
+        },
+        {
+        "speaker": "bot",
+        "text": "Anytime, chef! Ab jao aur kitchen mein jaadu dikhayo! 👩‍🍳✨"
+        }
+        ],
+        
+        "conversation13": [
+        {
+        "speaker": "user",
+        "text": "Bot, financial planning ke bare mein kuch batao."
+        },
+        {
+        "speaker": "bot",
+        "text": "Financial planning ka matlab hai apne paison ka accha istemal. Sahi tarike se paisay manage karo aur khush raho! 💸😄"
+        },
+        {
+        "speaker": "user",
+        "text": "Sahi baat! Budgeting kaise karoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Budgeting ke liye, pehle apne expenses likho. Phir unko categories mein divide karo aur unnecessary cheezon pe kharch kam karo. Jaise, Starbucks ki chai pe kam aur ghar ki chai pe zyada! ☕📊"
+        },
+        {
+        "speaker": "user",
+        "text": "Haha, bilkul! Savings ke tips do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Savings ke liye, pehle monthly budget banao. Fir har mahine apni income ka kuch hissa save karo. Aur sale pe shopping karo, full price pe nahi. 🛍️💰"
+        },
+        {
+        "speaker": "user",
+        "text": "Smart! Investing basics batao."
+        },
+        {
+        "speaker": "bot",
+        "text": "Investing basics mein stocks, bonds, aur mutual funds shamil hain. Diversification zaroori hai. Matlab, sab anday ek basket mein mat rakho! 🥚📈"
+        },
+        {
+        "speaker": "user",
+        "text": "LOL! Retirement planning ke tips do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Retirement planning ke liye early start karo. Regular contributions karo aur apne future ko secure karo. Matlab, aaj mehnat karo, kal aram! 🏖️👴"
+        },
+        {
+        "speaker": "user",
+        "text": "Sahi! Emergency fund ka kya?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Emergency fund mein 3-6 months ka living expense save karo. Life unpredictable hoti hai, toh better prepared raho! 🚑💵"
+        },
+        {
+        "speaker": "user",
+        "text": "Good point! Loans lene se pehle kya sochoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Loans lene se pehle socho ke kya waqai zaroorat hai? Aur repayment plan clear karo. Loans ka matlab hai udhar ki zindagi, toh responsibly handle karo. 💳🔄"
+        },
+        {
+        "speaker": "user",
+        "text": "Haan, yeh zaroori hai. Insurance ke bare mein batao."
+        },
+        {
+        "speaker": "bot",
+        "text": "Insurance ek safety net hai. Health, life, aur property insurance important hain. Kal kya hoga pata nahi, magar insurance se thoda relief milta hai. 🏥🏠"
+        },
+        {
+        "speaker": "user",
+        "text": "Bilkul sahi. Tax planning ke tips do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Tax planning ke liye, sahi se records rakho. Legal deductions aur credits ka faida uthao. Aur professional advice lene se bhi ghabraao mat. Tax planning mein dimaag lagana padta hai! 🧠📜"
+        },
+        {
+        "speaker": "user",
+        "text": "Got it! Financial goals kaise set karoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Financial goals SMART hone chahiye: Specific, Measurable, Achievable, Relevant, Time-bound. Matlab, sapne sach banane ke liye plan zaroori hai! 🏆📆"
+        },
+        {
+        "speaker": "user",
+        "text": "SMART goals, nice! Debt management tips do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Debt management ke liye, highest interest loans pehle pay off karo. Consolidation bhi ek option hai. Aur new debt lene se pehle socho: kya waqai zaroorat hai? 💳💡"
+        },
+        {
+        "speaker": "user",
+        "text": "Useful tips! Wealth creation kaise karoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Wealth creation ke liye regular savings aur smart investing zaroori hain. Apni skills ko upgrade karo aur multiple income streams create karo. Hard work + smart work = success! 🚀💼"
+        },
+        {
+        "speaker": "user",
+        "text": "Sahi! Credit score improve karne ke tips?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Credit score improve karne ke liye timely payments karo, debt-to-income ratio low rakho, aur unnecessary credit applications se bachho. Trust build karo, financial institutions ke saath! 📊🏦"
+        },
+        {
+        "speaker": "user",
+        "text": "Great advice! Financial literacy improve karne ke ways?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Financial literacy improve karne ke liye books padho, online courses karo, aur experts se seekho. Jitna seekho ge, utna grow karo ge! 📚🌱"
+        },
+        {
+        "speaker": "user",
+        "text": "Bilkul sahi! Spending habits kaise improve karoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Spending habits improve karne ke liye impulse buying se bachho, needs aur wants ko differentiate karo. Aur apne financial goals ko yaad rakho har decision pehle! 💡🛍️"
+        },
+        {
+        "speaker": "user",
+        "text": "Amazing tips, thanks Bot!"
+        },
+        {
+        "speaker": "bot",
+        "text": "You're welcome! Financially fit raho aur life enjoy karo! 💪💵"
+        }
+        ],
+        
+        "conversation14": [
+        {
+        "speaker": "user",
+        "text": "Bot, fitness tips do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Fitness tips ka pehla rule: consistency! Rozana thoda thoda exercise karo, chahe woh walk ho ya gym. Jaise routine banana muskil, usay todna aur bhi mushkil! 🏃‍♂️💪"
+        },
+        {
+        "speaker": "user",
+        "text": "Sahi! Diet kaise maintain karoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Diet maintain karne ke liye balanced diet lo. Fruits, vegetables, proteins, aur carbs ka sahi combination lo. Aur junk food se door raho, bas occasional treat theek hai. 🍎🥗"
+        },
+        {
+        "speaker": "user",
+        "text": "Haha, treat zaroori hai. Hydration ke tips?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Hydration zaroori hai. Din mein kam az kam 8 glasses pani piyo. Aur agar workout kar rahe ho toh aur zyada. Pani na sirf body, balki mood ko bhi fresh rakhta hai! 💧😄"
+        },
+        {
+        "speaker": "user",
+        "text": "Interesting! Sleep ka importance batao."
+        },
+        {
+        "speaker": "bot",
+        "text": "Sleep ka importance hai relaxation aur recovery. Kam az kam 7-8 ghante ki neend lo. Neend puri na ho toh body aur brain dono strike pe chale jate hain! 🛌💤"
+        },
+        {
+        "speaker": "user",
+        "text": "Haha, sahi! Stress management tips do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Stress management ke liye relaxation techniques seekho jaise meditation, deep breathing, aur hobbies mein time spend karo. Stress ko door bhagao aur life enjoy karo! 🧘‍♂️🌸"
+        },
+        {
+        "speaker": "user",
+        "text": "Good tips! Workout routine kaise banaoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Workout routine banaane ke liye apni fitness goals define karo. Cardio, strength training, aur flexibility exercises mix karo. Aur rest days ko bhi routine mein shamil karo. 🏋️‍♀️🗓️"
+        },
+        {
+        "speaker": "user",
+        "text": "Bilkul! Motivation kaise maintain karoon?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Motivation maintain karne ke liye short-term goals set karo. Apne progress ko track karo aur apne aap ko reward do. Music aur workout buddy bhi help karte hain! 🎶💯"
+        },
+        {
+        "speaker": "user",
+        "text": "Sahi baat! Meal prep ke tips do."
+        },
+        {
+        "speaker": "bot",
+        "text": "Meal prep ke liye weekend pe plan aur prep karo. Healthy snacks ready rakho aur portion control ka dhyaan rakho. Isse time bachaoge aur healthy khana milega! 🍲🗓️"
+        },
+        {
+        "speaker": "user",
+        "text": "Great! Supplements zaroori hain?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Supplements tabhi lo jab diet se nutrients poore na ho rahe ho. Natural food pe zyada focus karo, supplements sirf supplement hain, replacement nahi! 💊🥦"
+        },
+        {
+        "speaker": "user",
+        "text": "Haan, sahi! Injuries se kaise bacho?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Injuries se bachne ke liye proper warm-up aur cool-down karo. Proper form ka dhyaan rakho aur apni limits ko samjho. Overdoing se injuries hoti hain. 🏋️‍♂️🚑"
+        },
+        {
+        "speaker": "user",
+        "text": "Useful! Fitness ke myths batao."
+        },
+        {
+        "speaker": "bot",
+        "text": "Fitness myths: 1. Spot reduction nahi hota, overall fat loss hota hai. 2. Heavy weights hi zaroori nahi, proper form aur consistency zaroori hain. 3. Sab ke liye same routine nahi hota, customize karo! 🏋️‍♀️❌"
+        },
+        {
+        "speaker": "user",
+        "text": "Haan, yeh toh main bhi suna hai. Cardio aur strength training ka balance kaise rakhun?"
+        },
+        {
+        "speaker": "bot",
+        "text": "Cardio aur strength training ka balance rakhne ke liye dono ko mix karo. Week mein 3 din cardio aur 2-3 din strength training perfect combo hai. Dono important hain! 🏃‍♂️🏋️‍♀️"
+        },
+        {
+        "speaker": "user",
+        "text": "Thanks Bot, amazing advice!"
+        },
+        {
+        "speaker": "bot",
+        "text": "You're welcome! Stay fit and healthy! 💪😄"
+        }
+        ],
+
+"conversation15": [
+{
+"speaker": "user",
+"text": "Bot, career development ke tips do."
+},
+{
+"speaker": "bot",
+"text": "Career development ke tips ka suno! Pehli tip: apne goals ko clear rakho, kyunki clear vision se hi clear success milti hai! 🏆😄"
+},
+{
+"speaker": "user",
+"text": "Haha, sahi! Resume banane ke tips do."
+},
+{
+"speaker": "bot",
+"text": "Resume banane ke liye clear format, relevant experience aur skills highlight karo. Aur typos se bachna, kyunki spelling mistakes pehla impression kharab kar sakti hain! 📝🔍"
+},
+{
+"speaker": "user",
+"text": "LOL! Job interviews ke tips do."
+},
+{
+"speaker": "bot",
+"text": "Job interviews ke liye research karo, practice karo, aur confident raho. Matlab, apni best self ko showcase karo! 💼🤝"
+},
+{
+"speaker": "user",
+"text": "Hahaha! Networking ke benefits kya hain?"
+},
+{
+"speaker": "bot",
+"text": "Networking ke benefits mein new opportunities, industry insights, aur professional growth shamil hain. Matlab, network karo aur career ko boost do! 🌐🤝"
+},
+{
+"speaker": "user",
+"text": "True! Professional skills kaise improve karoon?"
+},
+{
+"speaker": "bot",
+"text": "Professional skills improve karne ke liye online courses, workshops, aur mentorship programs join karo. Matlab, continuous learning se growth! 📚💼"
+},
+{
+"speaker": "user",
+"text": "Sahi! Career planning kaise karoon?"
+},
+{
+"speaker": "bot",
+"text": "Career planning ke liye short-term aur long-term goals define karo, regular reviews karo, aur adaptability maintain karo. Matlab, plan karo aur success ko embrace karo! 📅🎯"
+},
+{
+"speaker": "user",
+"text": "Great! Time management tips do."
+},
+{
+"speaker": "bot",
+"text": "Time management ke liye daily schedule banao, priorities set karo, aur distractions avoid karo. Matlab, time ko apna dost banao! ⏰📅"
+},
+{
+"speaker": "user",
+"text": "Hahaha! Work-life balance kaise maintain karoon?"
+},
+{
+"speaker": "bot",
+"text": "Work-life balance maintain karne ke liye proper boundaries set karo, breaks lo, aur hobbies pursue karo. Matlab, work bhi karo aur life bhi enjoy karo! ⚖️🎉"
+},
+{
+"speaker": "user",
+"text": "True! Leadership skills kaise develop karoon?"
+},
+{
+"speaker": "bot",
+"text": "Leadership skills develop karne ke liye communication improve karo, team ko empower karo, aur decision-making skills enhance karo. Matlab, leader bano aur inspire karo! 🏆👥"
+},
+{
+"speaker": "user",
+"text": "Sahi! Professional development ke opportunities kaise dhoondhoon?"
+},
+{
+"speaker": "bot",
+"text": "Professional development ke opportunities dhoondhne ke liye industry events attend karo, professional groups join karo, aur online platforms explore karo. Matlab, growth opportunities ko chase karo! 🚀🌐"
+},
+{
+"speaker": "user",
+"text": "Great! Soft skills kaise improve karoon?"
+},
+{
+"speaker": "bot",
+"text": "Soft skills improve karne ke liye active listening, empathy, aur conflict resolution skills practice karo. Matlab, soft skills se hard success milti hai! 🗣️🤝"
+},
+{
+"speaker": "user",
+"text": "Hahaha! Job search ke tips do."
+},
+{
+"speaker": "bot",
+"text": "Job search ke liye tailored resumes, cover letters, aur follow-ups zaroori hain. Aur online job portals aur networking ko maximize karo. Matlab, job search ko mission banao! 📄💼"
+},
+{
+"speaker": "user",
+"text": "LOL! Career switch kaise plan karoon?"
+},
+{
+"speaker": "bot",
+"text": "Career switch plan karne ke liye apne skills aur interests evaluate karo, relevant training lo, aur transition ke liye proper planning karo. Matlab, career ko reset karo aur success ko achieve karo! 🔄🏆"
+},
+{
+"speaker": "user",
+"text": "Hahaha! Mentorship ke benefits kya hain?"
+},
+{
+"speaker": "bot",
+"text": "Mentorship ke benefits mein guidance, support, aur industry insights shamil hain. Matlab, mentor se learning aur growth dono milti hain! 👨‍🏫🌱"
+},
+{
+"speaker": "user",
+"text": "Great! Self-improvement ke tips do."
+},
+{
+"speaker": "bot",
+"text": "Self-improvement ke liye continuous learning, regular feedback, aur personal goals set karo. Matlab, apne aap ko best version banao! 📚💪"
+},
+{
+"speaker": "user",
+"text": "True! Workplace productivity kaise badhao?"
+},
+{
+"speaker": "bot",
+"text": "Workplace productivity badhane ke liye task prioritization, regular breaks, aur efficient work methods use karo. Matlab, productivity ko top gear mein rakho! 🚀📈"
+},
+{
+"speaker": "user",
+"text": "Amazing! Conflict resolution ke tips do."
+},
+{
+"speaker": "bot",
+"text": "Conflict resolution ke liye active listening, empathy, aur collaborative problem-solving techniques use karo. Matlab, conflicts ko peace se resolve karo! 🤝🕊️"
+},
+{
+"speaker": "user",
+"text": "Thanks Bot! Great tips."
+},
+{
+"speaker": "bot",
+"text": "Anytime! Ab jao aur career development ko top priority banao! 💼🌟"
+}
+],
+
+
+"conversation16": [
+{
+"speaker": "user",
+"text": "Bot, mujhe weight loss ka koi acha tareeqa batao."
+},
+{
+"speaker": "bot",
+"text": "Aray bhai, weight loss ka matlab hai khana kam karna aur exercise zyada karna. Par tumhara dil karega burger khaane ka, to main kya karun? Chalo phir bhi, try karo salads, fruits, aur sabziyan. Aur exercise mein dance karo, zumba karo, ya phir ghar pe hi jumping jacks mar lo. Yaad rakhna, zindagi mein maza bhi chahiye, par sehat bhi! 🍔🥗💃"
+},
+{
+"speaker": "user",
+"text": "Acha, but mujhe kuch specific exercises batao jo main ghar pe kar sakun."
+},
+{
+"speaker": "bot",
+"text": "Bilkul! Tum kar sakte ho squats, lunges, push-ups, aur crunches. Aur agar zidd hai to chair par beth kar bhi exercise ho sakti hai. Chair par beth kar utho, baitho, utho, baitho. Laga toh aasan hai, par try karo, pair dhool jayengay! 😂"
+},
+{
+"speaker": "user",
+"text": "Acha, ab mujhe diet plan batao."
+},
+{
+"speaker": "bot",
+"text": "Diet plan simple hai: jyada protein, kam carbs. Chicken, fish, daal, ye sab khao. Roti, chawal, mithai, inko bye bye bolo. Aur paani piyo, jitna ho sakay. Par yaad rakhna, ek cheez ko bilkul mat chodo - chai! ☕🍗"
+},
+{
+"speaker": "user",
+"text": "Acha, but mujhe kuch tasty diet recipes batao."
+},
+{
+"speaker": "bot",
+"text": "Okay, chalo try karo: grilled chicken salad with lemon dressing, brown rice with veggies aur tofu stir-fry, aur oatmeal with berries. Sweet tooth hai to honey and cinnamon wala apple crumble khao. Par yaad rakhna, tasty khane ka matlab ye nahi ke tum pizza order kar lo! 🍕🍎"
+},
+{
+"speaker": "user",
+"text": "Acha, ab mujhe sleep ka importance batao."
+},
+{
+"speaker": "bot",
+"text": "Sleep bohat zaruri hai, warna tum ho jaogey zombie! Jab tum sote ho, tumhara body repair hota hai. Aur agar tumhari neend puri nahi hoti, to tumhara weight loss plan bhi fail hoga. 7-8 ghante ki neend lo, warna tumhare dark circles ko makeup bhi nahi chhupa sakta! 😴🧟‍♂️"
+},
+{
+"speaker": "user",
+"text": "Acha, stress management kaise karun?"
+},
+{
+"speaker": "bot",
+"text": "Stress ko bhagao deep breathing se, yoga se, aur meditation se. Ya phir apne dost ko call karo, gupshup maro. Ya phir kuch funny videos dekho aur hasta raho. Aur agar kuch bhi kaam na kare, to ek acha sa nap le lo. Stress ko bhagao, zindagi ko enjoy karo! 🧘‍♀️😄"
+},
+{
+"speaker": "user",
+"text": "Hahaha, sahi hai! Exercise routine kaise banau?"
+},
+{
+"speaker": "bot",
+"text": "Exercise routine banane ke liye apne goals clear karo. Monday ko cardio, Tuesday ko strength training, Wednesday ko yoga, aur repeat. Weekends pe rest. Aur consistency maintain karo, warna routine ka koi fayda nahi. Routine banane se zyada, usko follow karna zaruri hai! 🏃‍♂️💪"
+},
+{
+"speaker": "user",
+"text": "True! Aur healthy eating habits kaise adopt karun?"
+},
+{
+"speaker": "bot",
+"text": "Healthy eating habits ke liye processed foods se door raho, fresh foods pe focus karo. Portion control seekho, aur regular meals lo. Cheat days ko bhi enjoy karo, par moderation mein. Aur paani piyo, kyunki hydration is the key! 🥗💧"
+},
+{
+"speaker": "user",
+"text": "Acha, fitness goals kaise set karun?"
+},
+{
+"speaker": "bot",
+"text": "Fitness goals SMART hone chahiye - Specific, Measurable, Achievable, Relevant, Time-bound. Pehle small goals set karo, jaise daily 10k steps, phir gradually increase karo. Achievable goals hone chahiye, warna motivation down ho jati hai. Set karo aur achieve karo! 🎯🏅"
+},
+{
+"speaker": "user",
+"text": "Sahi! Aur healthy lifestyle kaise adopt karun?"
+},
+{
+"speaker": "bot",
+"text": "Healthy lifestyle ke liye balanced diet, regular exercise, proper sleep, aur stress management zaruri hain. Smoking aur excessive drinking se bachna. Aur mental health ko bhi prioritize karo. Matlab, overall well-being pe focus karo! 🌟💪"
+},
+{
+"speaker": "user",
+"text": "Thanks Bot! Bahut helpful tips di."
+},
+{
+"speaker": "bot",
+"text": "Anytime! Ab jao aur apni health ko top priority banao! 🥗🏃‍♂️"
+}
+],
+
+"conversation17": [
+    {
+        "speaker": "user",
+        "text": "Bot, mujhe batao ke movies kis tarah banti hain?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Movies banane ka process ek epic journey hai! Pehle script likhi jati hai, phir casting hoti hai, aur filming shuru hoti hai. Editing ke baad final product tayar hota hai. Jaise tumhara favorite pizza banane ka process hota hai, waise hi movies bhi detailed process se guzarti hain!"
+    },
+    {
+        "speaker": "user",
+        "text": "Mujhe movie genres ke baare mein batao."
+    },
+    {
+        "speaker": "bot",
+        "text": "Movie genres alag-alag hoti hain: action, comedy, drama, thriller, aur sci-fi. Jaise tumhare favorite pizza toppings alag-alag taste deti hain, waise hi movie genres bhi different experiences provide karti hain!"
+    },
+    {
+        "speaker": "user",
+        "text": "Koi funny movie recommendation do."
+    },
+    {
+        "speaker": "bot",
+        "text": "Funny movie? '3 Idiots' zaroor dekhna! Yeh movie tumhe hasane ke saath-saath life ke lessons bhi sikhati hai. Jaise tumhara favorite pizza perfect combination hota hai, waise hi yeh movie bhi perfect blend of comedy aur wisdom hai!"
+    },
+    {
+        "speaker": "user",
+        "text": "Ab mujhe explain karo ke film directing kya hoti hai?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Film directing ka matlab hai film ka vision define karna, actors ko guide karna, aur scene ko frame karna. Jaise tumhara favorite pizza ka chef recipe ko guide karta hai, waise hi director film ko guide karta hai!"
+    },
+    {
+        "speaker": "user",
+        "text": "Ab mujhe movie production ke stages ke baare mein batao."
+    },
+    {
+        "speaker": "bot",
+        "text": "Movie production mein pre-production, production, aur post-production stages hote hain. Pre-production mein planning aur scripting hoti hai, production mein filming aur directing, aur post-production mein editing aur marketing. Jaise tumhara favorite pizza ka preparation stage hota hai, waise hi movies ka production bhi stages se guzarta hai!"
+    },
+    {
+        "speaker": "user",
+        "text": "Koi classic movie recommend karo."
+    },
+    {
+        "speaker": "bot",
+        "text": "Classic movie? 'The Shawshank Redemption' zaroor dekhna. Yeh movie timeless aur inspirational hai, jaise tumhara favorite pizza kabhi bhi eatable aur enjoyable hota hai!"
+    },
+    {
+        "speaker": "user",
+        "text": "Ab mujhe film editing ke baare mein batao."
+    },
+    {
+        "speaker": "bot",
+        "text": "Film editing mein footage ko assemble kiya jata hai, unnecessary parts ko remove kiya jata hai, aur final cut prepare kiya jata hai. Jaise tumhara pizza ko perfect shape aur taste dena, waise hi editing se film ko final touch milta hai!"
+    }
+],
+"conversation18": [
+    {
+        "speaker": "user",
+        "text": "Bot, mujhe batayein ke gardening kis tarah hoti hai?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Gardening ek creative process hai! Pehle soil prepare karte hain, phir seeds ya plants lagate hain. Watering aur care ke saath plants grow karte hain. Jaise tumhara favorite pizza banane ke ingredients mix hoti hain, waise hi gardening mein seeds aur soil mix karte hain!"
+    },
+    {
+        "speaker": "user",
+        "text": "Ab mujhe tell me about types of plants for gardening."
+    },
+    {
+        "speaker": "bot",
+        "text": "Plants ke types? Flowering plants jaise roses aur tulips, vegetable plants jaise tomatoes aur carrots, aur herbs jaise mint aur basil. Jaise tumhara pizza mein different toppings hote hain, waise hi gardening mein different plants hote hain!"
+    },
+    {
+        "speaker": "user",
+        "text": "Gardening ke benefits kya hain?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Gardening ke benefits hain stress relief, fresh air, aur healthy vegetables. Jaise tumhara favorite pizza khane se mood improve hota hai, waise hi gardening bhi health aur mood ko improve karti hai!"
+    },
+    {
+        "speaker": "user",
+        "text": "Koi gardening tips do."
+    },
+    {
+        "speaker": "bot",
+        "text": "Gardening tips? Soil ko achi tarah prepare karo, watering schedule maintain karo, aur regular weeding karo. Jaise tumhara pizza ka dough perfect consistency ka hona zaroori hai, waise hi gardening ke liye soil aur care zaroori hai!"
+    },
+    {
+        "speaker": "user",
+        "text": "Ab mujhe explain karo ke composting kya hota hai?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Composting mein organic waste ko recycle karte hain aur nutrient-rich compost banate hain. Jaise tumhara pizza ka dough rise hota hai, waise hi composting se soil ko nourish kiya jata hai!"
+    },
+    {
+        "speaker": "user",
+        "text": "Koi funny gardening joke sunaao."
+    },
+    {
+        "speaker": "bot",
+        "text": "Zaroor! 'Ek plant ne doosre plant se kaha, ‘Tum kyun itna happy ho?’ Dusra plant bola, ‘Mujhe pata hai, mujhe har din water milta hai aur sunlight bhi!’ 😂"
+    },
+    {
+        "speaker": "user",
+        "text": "Ab mujhe indoor gardening ke tips do."
+    },
+    {
+        "speaker": "bot",
+        "text": "Indoor gardening tips? Bright light provide karo, proper drainage ensure karo, aur regular watering karo. Jaise tumhara favorite pizza ka texture aur taste indoor settings ke liye perfect hota hai, waise hi indoor plants ko bhi proper care chahiye!"
+    },
+    {
+        "speaker": "user",
+        "text": "Mujhe batao ke garden tools ke types kya hain."
+    },
+    {
+        "speaker": "bot",
+        "text": "Garden tools mein spade, rake, pruners, aur watering can hote hain. Jaise tumhara pizza ka perfect oven aur tools chahiye, waise hi gardening ke tools bhi zaroori hain!"
+    }
+],
+"conversation19": [
+    {
+        "speaker": "user",
+        "text": "Bot, mujhe batayein ke music production kis tarah hoti hai?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Music production ek creative process hai! Pehle music composition hoti hai, phir recording, mixing, aur mastering. Jaise tumhara favorite pizza banane ka process hota hai, waise hi music production bhi detailed process se guzarti hai!"
+    },
+    {
+        "speaker": "user",
+        "text": "Ab mujhe tell me about music genres."
+    },
+    {
+        "speaker": "bot",
+        "text": "Music genres alag-alag hote hain: pop, rock, classical, jazz, aur hip-hop. Jaise tumhare favorite pizza toppings alag-alag taste deti hain, waise hi music genres bhi different moods aur styles provide karti hain!"
+    },
+    {
+        "speaker": "user",
+        "text": "Koi funny music fact batao."
+    },
+    {
+        "speaker": "bot",
+        "text": "Funny fact? Tumhe pata hai? Singing in the shower can make you feel like a rock star! Jaise tumhara favorite pizza har bite mein delight hoti hai, waise hi shower singing bhi ek fun experience hai! 😂"
+    },
+    {
+        "speaker": "user",
+        "text": "Ab mujhe explain karo ke music mixing kya hoti hai?"
+    },
+    {
+        "speaker": "bot",
+        "text": "Music mixing mein different audio tracks ko combine kiya jata hai aur balance kiya jata hai. Jaise tumhara favorite pizza ke ingredients ko mix aur balance karte hain, waise hi music mixing mein audio elements ko balance kiya jata hai!"
+    },
+    {
+        "speaker": "user",
+        "text": "Music production ke equipment ke baare mein batao."
+    },
+    {
+        "speaker": "bot",
+        "text": "Music production ke equipment mein microphones, audio interfaces, aur software DAWs (Digital Audio Workstations) hote hain. Jaise tumhara pizza banane ke tools chahiye, waise hi music production ke liye bhi equipment zaroori hain!"
+    },
+    {
+        "speaker": "user",
+        "text": "Ab mujhe music theory ke basics ke baare mein batao."
+    },
+    {
+        "speaker": "bot",
+        "text": "Music theory mein notes, scales, chords aur rhythm include hote hain. Jaise tumhara favorite pizza ka perfect recipe hai, waise hi music theory ka bhi apna structure aur rules hote hain!"
+    },
+    {
+        "speaker": "user",
+        "text": "Koi classic music piece recommend karo."
+    },
+    {
+        "speaker": "bot",
+        "text": "Classic music piece? Beethoven's 'Fur Elise' zaroor suno. Yeh piece timeless aur beautiful hai, jaise tumhara favorite pizza har bite mein delicious hota hai!"
+    },
+    {
+        "speaker": "user",
+        "text": "Ab mujhe music production ke stages ke baare mein batao."
+    },
+    {
+        "speaker": "bot",
+        "text": "Music production mein stages hote hain composition, recording, mixing, aur mastering. Jaise tumhara favorite pizza banane ke stages hain, waise hi music production bhi stages se guzarti hai!"
+    }
+],
+
+"conversation20": [
+{
+"speaker": "user",
+"text": "Bot, mujhe batao ke Pakistan mein kaun kaun si tourist places hain?"
+},
+{
+"speaker": "bot",
+"text": "Aray bhai, Pakistan to khoobsurat jagahon ka khazana hai! Humaray paas hain mountains, beaches, deserts, aur historical places. Tum ja sakte ho Naran Kaghan, Murree, Swat, Lahore, Karachi, Islamabad, aur bohot sari jagahon par. Par yaad rakhna, passport aur visa ki zarurat nahi padegi, bas apna dil leke nikal jao! 🏔️🏖️🏜️🕌"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe Naran Kaghan k bare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Naran Kaghan ek jannat hai! Wahan ke green meadows, crystal clear lakes, aur snow-capped mountains dekh kar tum pagal ho jaogey. Tum trekking kar sakte ho, fishing kar sakte ho, ya bas relax kar ke nature ki godi mein baith sakte ho. Par yaad rakhna, wahan ka weather bohat cold hota hai, to warm clothes leke jana mat bhulna! ❄️🥾🎣"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe budget friendly travel tips batao."
+},
+{
+"speaker": "bot",
+"text": "Budget friendly travel ke liye, off season mein travel karo, hostels mein raho, local transport use karo, aur street food khao. Aur haan, planning zaruri hai, advance mein tickets book karo aur hotels book karo. Par yaad rakhna, saving karna acha hai, par life mein adventures bhi leni chahiye! ✈️ hostels"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe international travel k bare mein batao."
+},
+{
+"speaker": "bot",
+"text": "International travel ka matlab hai new cultures explore karna, new foods taste karna, aur new languages seekhna. Tum ja sakte ho Paris, London, New York, Dubai, aur bohot sari jagahon par. Par yaad rakhna, visa, passport, aur currency exchange ki zaroorat padegi. Aur haan, jet lag se bachne ke liye, flight mein zyada so jao! 🌎✈️"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe adventure sports k bare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Adventure sports mein adrenaline rush ka maza aata hai! Tum kar sakte ho bungee jumping, skydiving, paragliding, scuba diving, aur mountain climbing. Par yaad rakhna, in sab mein risk hota hai, to safety equipment zaroor use karo. Aur haan, adventure se pehle insurance zarur karwa lo! 🪂🧗‍♂️"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe solo travel tips batao."
+},
+{
+"speaker": "bot",
+"text": "Solo travel mein freedom ka maza aata hai! Tum apni marzi se ghum sakte ho, jo chaho kar sakte ho. Par yaad rakhna, safety ka khayal rakhna, local people se milna, aur emergency contact number save rakhna. Aur haan, ek diary leke jao, apni memories record karne ke liye! 📝🌍"
+},
+{
+"speaker": "bot",
+"text": "To ab pack your bags, book your tickets, aur nikal jao adventure karne! Yaad rakhna, zindagi ek baar milti hai, to usko fully jio! ✈️🌍"
+}
+],
+
+
+"conversation21": [
+{
+"speaker": "user",
+"text": "Bot, mujhe batao ke Lahore ki sab se mashhoor cheez kya hai?"
+},
+{
+"speaker": "bot",
+"text": "Aree! Lahore ki toh list hai cheezon ki! Par agar sab se mashhoor baat karu, toh Lahore ka nihari aur karak chai ka maza sab se alag hai. 😋"
+},
+{
+"speaker": "user",
+"text": "Mujhe nihari ki recipe batao."
+},
+{
+"speaker": "bot",
+"text": "Nihari ki recipe? Oh wow, kuch spicy hai! Sab se pehle, beef ke tukde, piyaz, adrak, lehsan, aur nihari masala zaroori hai. Inko achi tarah se fry karo, phir paani aur sabzi daal ke pakao."
+},
+{
+"speaker": "user",
+"text": "Koi aur mashhoor dish batayein Lahore ki?"
+},
+{
+"speaker": "bot",
+"text": "Haan, Lahore ka biryani bhi zabardast hoti hai. Yahan ke biryani mein masale aur meat ka combination aisa hota hai, jaise best friend aur partner ka combination! 🍛"
+},
+{
+"speaker": "user",
+"text": "Accha, mujhe Lahore ke mausam ke baare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Lahore ka mausam? Bas, yahan garmi toh kabhi bhi khatam nahi hoti! Garmi ke season mein aisa lagta hai jaise tumhare paas koi giant hairdryer laga ho! 😅 Aur sardiyon mein, fog aur thandi hawa, jaise tumne chill zone enter kiya ho!"
+},
+{
+"speaker": "user",
+"text": "Thik hai, mujhe yeh sab toh pata chal gaya, kuch aur batao."
+},
+{
+"speaker": "bot",
+"text": "Sure! Tumhein Lahore ki historical places ke baare mein kuch batayein? Badshahi Mosque, Lahore Fort, aur Shalimar Gardens, yeh sab historical gems hain. Har jagah ka apna ek kahani hai!"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe aaj kal ke trends ke baare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Trends? Aree bhai, aaj kal ke trends mein toh memes aur TikTok videos sab se aage hain. Har kisi ka din TikTok aur Instagram memes se guzarta hai, jaise entertainment ka dose mil gaya ho! 🎉"
+},
+{
+"speaker": "user",
+"text": "Mera weekend plan suggest karo."
+},
+{
+"speaker": "bot",
+"text": "Weekend plan? Chalo, tumhein Lahore ke local markets explore karne chahiye. Wahan ka street food, shopping, aur aache restaurants, sab kuch enjoy karo. Ya phir agar tumhe relax karna hai, toh koi acha café aur book le lo, chai piyein aur relax karo. ☕📚"
+}
+],
+
+
+"conversation22": [
+{
+"speaker": "user",
+"text": "Bot, mujhe batao ke cricket ka sab se bada event kya hai?"
+},
+{
+"speaker": "bot",
+"text": "Cricket ka sab se bada event? Arey bhai, woh toh World Cup hai! Jaise sab se bada cricket ka mela. Har team apni best performance dikhati hai aur fans ka excitement sky-high hota hai. 🏏"
+},
+{
+"speaker": "user",
+"text": "Aur IPL ke baare mein kya khayal hai?"
+},
+{
+"speaker": "bot",
+"text": "IPL? Wah, yeh toh cricket ka Bollywood version hai! Glamour, drama, aur mazedaar matches ka combination. Players dance karte hain, aur audience enjoy karti hai, jaise ek grand show ho raha ho! 🎉"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe cricket ki history ke baare mein kuch batao."
+},
+{
+"speaker": "bot",
+"text": "Cricket ki history? Oh, yeh toh ek lambi kahani hai! Cricket ka shuruat 16th century mein England se hua tha. Phir 18th century tak, yeh sport poori duniya mein phail gaya, aur aaj yeh duniya ke sab se popular sports mein se ek hai!"
+},
+{
+"speaker": "user",
+"text": "Abhi ke cricket players ke baare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Aaj kal ke stars? Virat Kohli, Babar Azam, aur Joe Root. Inka performance toh amazing hota hai. Inki batting technique aur fielding skills, sab kuch superb hai. Jaise cricket ka hero team! 🌟"
+},
+{
+"speaker": "user",
+"text": "Achha, mujhe kuch funny cricket stories sunao."
+},
+{
+"speaker": "bot",
+"text": "Funny stories? Ek baar, ek player ne itna badi shot maari ki ball stadium ke bahar chali gayi. Uss din stadium mein aise lag raha tha jaise ball ne ghar ka tour kiya ho! 😂"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe kuch aur funny baatein sunao."
+},
+{
+"speaker": "bot",
+"text": "Sure! Ek aur funny story, ek baar umpire ne out signal dena tha par unke gloves ki wajah se signal clear nahi tha. Toh players aur audience ne umpire ko itni baar dekha ki woh khud confuse ho gaye!"
+}
+],
+
+
+"conversation23": [
+{
+"speaker": "user",
+"text": "Bot, mujhe batao ke fitness routine mein kya include karna chahiye?"
+},
+{
+"speaker": "bot",
+"text": "Fitness routine? Aree, woh toh ek mix hai! Cardio, strength training, aur stretching. Jaise ek balanced diet, lekin exercise ke liye! 🏋️‍♂️"
+},
+{
+"speaker": "user",
+"text": "Cardio exercises ke examples do."
+},
+{
+"speaker": "bot",
+"text": "Cardio exercises? Running, cycling, aur skipping. Inmein se koi bhi choose karo aur dil ko pump karo. Lagbhag aisa lagega jaise tumne energy drink piya ho!"
+},
+{
+"speaker": "user",
+"text": "Strength training ke liye kya exercises hain?"
+},
+{
+"speaker": "bot",
+"text": "Strength training ke liye squats, lunges, aur push-ups zaroori hain. Ye exercises tumhare muscles ko strong aur fit banati hain. Jaise tumhare body ko ek upgrade mil raha ho!"
+},
+{
+"speaker": "user",
+"text": "Accha, mujhe diet plan ke baare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Diet plan? Oh wow, woh toh ek recipe hai! Protein-rich food, fruits, aur vegetables zaroori hain. Aur water toh ek health drink hai jo tumhare body ko fresh aur hydrated rakhta hai! 💧"
+},
+{
+"speaker": "user",
+"text": "Healthy snacks ke examples do."
+},
+{
+"speaker": "bot",
+"text": "Healthy snacks? Nuts, fruits, aur yogurt perfect hain. Yeh snacks tumhare energy ko boost karte hain bina zyada calories ke. Jaise ek tasty aur guilt-free treat!"
+},
+{
+"speaker": "user",
+"text": "Abhi ke fitness trends ke baare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Fitness trends? Aaj kal, HIIT workouts aur yoga popular hain. HIIT quick aur intense workouts hain aur yoga relaxation aur flexibility ke liye best hai. Dono ko mix karo aur fitness ka maza lo!"
+}
+],
+
+    "conversation24": [
+{
+"speaker": "user",
+"text": "Bot, mujhe batao ke Pakistan mein kaun kaun si tourist places hain?"
+},
+{
+"speaker": "bot",
+"text": "Aray bhai, Pakistan to khoobsurat jagahon ka khazana hai! Humaray paas hain mountains, beaches, deserts, aur historical places. Tum ja sakte ho Naran Kaghan, Murree, Swat, Lahore, Karachi, Islamabad, aur bohot sari jagahon par. Par yaad rakhna, passport aur visa ki zarurat nahi padegi, bas apna dil leke nikal jao! 🏔️🏖️🏜️🕌"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe Naran Kaghan k bare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Naran Kaghan ek jannat hai! Wahan ke green meadows, crystal clear lakes, aur snow-capped mountains dekh kar tum pagal ho jaogey. Tum trekking kar sakte ho, fishing kar sakte ho, ya bas relax kar ke nature ki godi mein baith sakte ho. Par yaad rakhna, wahan ka weather bohat cold hota hai, to warm clothes leke jana mat bhulna! ❄️🥾🎣"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe budget friendly travel tips batao."
+},
+{
+"speaker": "bot",
+"text": "Budget friendly travel ke liye, off season mein travel karo, hostels mein raho, local transport use karo, aur street food khao. Aur haan, planning zaruri hai, advance mein tickets book karo aur hotels book karo. Par yaad rakhna, saving karna acha hai, par life mein adventures bhi leni chahiye! ✈️ hostels"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe international travel k bare mein batao."
+},
+{
+"speaker": "bot",
+"text": "International travel ka matlab hai new cultures explore karna, new foods taste karna, aur new languages seekhna. Tum ja sakte ho Paris, London, New York, Dubai, aur bohot sari jagahon par. Par yaad rakhna, visa, passport, aur currency exchange ki zaroorat padegi. Aur haan, jet lag se bachne ke liye, flight mein zyada so jao! 🌎✈️"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe adventure sports k bare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Adventure sports mein adrenaline rush ka maza aata hai! Tum kar sakte ho bungee jumping, skydiving, paragliding, scuba diving, aur mountain climbing. Par yaad rakhna, in sab mein risk hota hai, to safety equipment zaroor use karo. Aur haan, adventure se pehle insurance zarur karwa lo! 🪂🧗‍♂️"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe solo travel tips batao."
+},
+{
+"speaker": "bot",
+"text": "Solo travel mein freedom ka maza aata hai! Tum apni marzi se ghum sakte ho, jo chaho kar sakte ho. Par yaad rakhna, safety ka khayal rakhna, local people se milna, aur emergency contact number save rakhna. Aur haan, ek diary leke jao, apni memories record karne ke liye! 📝🌍"
+},
+{
+"speaker": "bot",
+"text": "To ab pack your bags, book your tickets, aur nikal jao adventure karne! Yaad rakhna, zindagi ek baar milti hai, to usko fully jio! ✈️🌍"
+}
+],
+
+
+"conversation25": [
+{
+"speaker": "user",
+"text": "Bot, mujhe batao ke Lahore ki sab se mashhoor cheez kya hai?"
+},
+{
+"speaker": "bot",
+"text": "Aree! Lahore ki toh list hai cheezon ki! Par agar sab se mashhoor baat karu, toh Lahore ka nihari aur karak chai ka maza sab se alag hai. 😋"
+},
+{
+"speaker": "user",
+"text": "Mujhe nihari ki recipe batao."
+},
+{
+"speaker": "bot",
+"text": "Nihari ki recipe? Oh wow, kuch spicy hai! Sab se pehle, beef ke tukde, piyaz, adrak, lehsan, aur nihari masala zaroori hai. Inko achi tarah se fry karo, phir paani aur sabzi daal ke pakao."
+},
+{
+"speaker": "user",
+"text": "Koi aur mashhoor dish batayein Lahore ki?"
+},
+{
+"speaker": "bot",
+"text": "Haan, Lahore ka biryani bhi zabardast hoti hai. Yahan ke biryani mein masale aur meat ka combination aisa hota hai, jaise best friend aur partner ka combination! 🍛"
+},
+{
+"speaker": "user",
+"text": "Accha, mujhe Lahore ke mausam ke baare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Lahore ka mausam? Bas, yahan garmi toh kabhi bhi khatam nahi hoti! Garmi ke season mein aisa lagta hai jaise tumhare paas koi giant hairdryer laga ho! 😅 Aur sardiyon mein, fog aur thandi hawa, jaise tumne chill zone enter kiya ho!"
+},
+{
+"speaker": "user",
+"text": "Thik hai, mujhe yeh sab toh pata chal gaya, kuch aur batao."
+},
+{
+"speaker": "bot",
+"text": "Sure! Tumhein Lahore ki historical places ke baare mein kuch batayein? Badshahi Mosque, Lahore Fort, aur Shalimar Gardens, yeh sab historical gems hain. Har jagah ka apna ek kahani hai!"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe aaj kal ke trends ke baare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Trends? Aree bhai, aaj kal ke trends mein toh memes aur TikTok videos sab se aage hain. Har kisi ka din TikTok aur Instagram memes se guzarta hai, jaise entertainment ka dose mil gaya ho! 🎉"
+},
+{
+"speaker": "user",
+"text": "Mera weekend plan suggest karo."
+},
+{
+"speaker": "bot",
+"text": "Weekend plan? Chalo, tumhein Lahore ke local markets explore karne chahiye. Wahan ka street food, shopping, aur aache restaurants, sab kuch enjoy karo. Ya phir agar tumhe relax karna hai, toh koi acha café aur book le lo, chai piyein aur relax karo. ☕📚"
+}
+],
+
+
+"conversation26": [
+{
+"speaker": "user",
+"text": "Bot, mujhe batao ke cricket ka sab se bada event kya hai?"
+},
+{
+"speaker": "bot",
+"text": "Cricket ka sab se bada event? Arey bhai, woh toh World Cup hai! Jaise sab se bada cricket ka mela. Har team apni best performance dikhati hai aur fans ka excitement sky-high hota hai. 🏏"
+},
+{
+"speaker": "user",
+"text": "Aur IPL ke baare mein kya khayal hai?"
+},
+{
+"speaker": "bot",
+"text": "IPL? Wah, yeh toh cricket ka Bollywood version hai! Glamour, drama, aur mazedaar matches ka combination. Players dance karte hain, aur audience enjoy karti hai, jaise ek grand show ho raha ho! 🎉"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe cricket ki history ke baare mein kuch batao."
+},
+{
+"speaker": "bot",
+"text": "Cricket ki history? Oh, yeh toh ek lambi kahani hai! Cricket ka shuruat 16th century mein England se hua tha. Phir 18th century tak, yeh sport poori duniya mein phail gaya, aur aaj yeh duniya ke sab se popular sports mein se ek hai!"
+},
+{
+"speaker": "user",
+"text": "Abhi ke cricket players ke baare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Aaj kal ke stars? Virat Kohli, Babar Azam, aur Joe Root. Inka performance toh amazing hota hai. Inki batting technique aur fielding skills, sab kuch superb hai. Jaise cricket ka hero team! 🌟"
+},
+{
+"speaker": "user",
+"text": "Achha, mujhe kuch funny cricket stories sunao."
+},
+{
+"speaker": "bot",
+"text": "Funny stories? Ek baar, ek player ne itna badi shot maari ki ball stadium ke bahar chali gayi. Uss din stadium mein aise lag raha tha jaise ball ne ghar ka tour kiya ho! 😂"
+},
+{
+"speaker": "user",
+"text": "Acha, mujhe kuch aur funny baatein sunao."
+},
+{
+"speaker": "bot",
+"text": "Sure! Ek aur funny story, ek baar umpire ne out signal dena tha par unke gloves ki wajah se signal clear nahi tha. Toh players aur audience ne umpire ko itni baar dekha ki woh khud confuse ho gaye!"
+}
+],
+
+
+"conversation27": [
+{
+"speaker": "user",
+"text": "Bot, mujhe batao ke fitness routine mein kya include karna chahiye?"
+},
+{
+"speaker": "bot",
+"text": "Fitness routine? Aree, woh toh ek mix hai! Cardio, strength training, aur stretching. Jaise ek balanced diet, lekin exercise ke liye! 🏋️‍♂️"
+},
+{
+"speaker": "user",
+"text": "Cardio exercises ke examples do."
+},
+{
+"speaker": "bot",
+"text": "Cardio exercises? Running, cycling, aur skipping. Inmein se koi bhi choose karo aur dil ko pump karo. Lagbhag aisa lagega jaise tumne energy drink piya ho!"
+},
+{
+"speaker": "user",
+"text": "Strength training ke liye kya exercises hain?"
+},
+{
+"speaker": "bot",
+"text": "Strength training ke liye squats, lunges, aur push-ups zaroori hain. Ye exercises tumhare muscles ko strong aur fit banati hain. Jaise tumhare body ko ek upgrade mil raha ho!"
+},
+{
+"speaker": "user",
+"text": "Accha, mujhe diet plan ke baare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Diet plan? Oh wow, woh toh ek recipe hai! Protein-rich food, fruits, aur vegetables zaroori hain. Aur water toh ek health drink hai jo tumhare body ko fresh aur hydrated rakhta hai! 💧"
+},
+{
+"speaker": "user",
+"text": "Healthy snacks ke examples do."
+},
+{
+"speaker": "bot",
+"text": "Healthy snacks? Nuts, fruits, aur yogurt perfect hain. Yeh snacks tumhare energy ko boost karte hain bina zyada calories ke. Jaise ek tasty aur guilt-free treat!"
+},
+{
+"speaker": "user",
+"text": "Abhi ke fitness trends ke baare mein batao."
+},
+{
+"speaker": "bot",
+"text": "Fitness trends? Aaj kal, HIIT workouts aur yoga popular hain. HIIT quick aur intense workouts hain aur yoga relaxation aur flexibility ke liye best hai. Dono ko mix karo aur fitness ka maza lo!"
+}
+],
+
+    "conversation28": [
+        {
+            "speaker": "user",
+            "text": "Bot, technology trends ke bare mein kuch batao."
+        },
+        {
+            "speaker": "bot",
+            "text": "Technology trends mein AI, blockchain, aur IoT shamil hain. Yeh sab naye naye ideas hain jo duniya ko change kar rahe hain. 💻😄"
+        },
+        {
+            "speaker": "user",
+            "text": "AI ke applications kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "AI applications mein self-driving cars, personal assistants, aur medical diagnosis shamil hain. Matlab, robots duniya sambhal rahe hain! 🤖🚗"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Blockchain ke benefits kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Blockchain ke benefits mein transparency, security, aur decentralization shamil hain. Matlab, trust karo par verify bhi karo! 🔗💼"
+        },
+        {
+            "speaker": "user",
+            "text": "LOL! IoT kaise kaam karta hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "IoT devices internet se connected hote hain aur data exchange karte hain. Matlab, fridge bhi ab internet pe memes dekh raha hoga! 😂🌐"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Quantum computing kya hota hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Quantum computing mein qubits use hoti hain jo classical bits se zyada powerful hoti hain. Matlab, computing ka Hulk! 💪💻"
+        },
+        {
+            "speaker": "user",
+            "text": "LOL! 5G ke benefits kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "5G se faster internet speed, low latency, aur better connectivity milti hain. Matlab, buffering ko goodbye kaho! 🚀📱"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Cybersecurity tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Cybersecurity tips mein strong passwords use karo, regular updates karo, aur suspicious links pe click na karo. Matlab, apna digital ghar secure rakho! 🏠🔒"
+        },
+        {
+            "speaker": "user",
+            "text": "True! Smart home devices kaise secure rakhein?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Smart home devices ko secure rakhne ke liye strong Wi-Fi passwords aur device-specific security settings use karo. Matlab, ghar ko smart banao par safe bhi rakho! 🏡🛡️"
+        },
+        {
+            "speaker": "user",
+            "text": "Haha, sahi! Virtual reality ke applications kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Virtual reality applications mein gaming, education, aur virtual tourism shamil hain. Matlab, bina travel kiye duniya ghoom lo! 🌍🎮"
+        },
+        {
+            "speaker": "user",
+            "text": "Wow! Augmented reality ke examples do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Augmented reality ke examples mein Pokemon Go, IKEA Place app, aur Snapchat filters shamil hain. Matlab, real duniya mein virtual maza! 😆📱"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Wearable technology ke trends kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Wearable technology trends mein smartwatches, fitness trackers, aur AR glasses shamil hain. Matlab, ab technology ko pehno aur smart bano! ⌚👓"
+        },
+        {
+            "speaker": "user",
+            "text": "LOL! Autonomous vehicles ke benefits kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Autonomous vehicles ke benefits mein reduced accidents, better traffic management, aur convenience shamil hain. Matlab, driverless cars future hain! 🚗🤖"
+        },
+        {
+            "speaker": "user",
+            "text": "Interesting! Green technology ke examples do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Green technology ke examples mein solar panels, wind turbines, aur electric vehicles shamil hain. Matlab, environment ko protect karo aur future ko green banao! 🌱🚗"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Robotics ke trends kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Robotics trends mein collaborative robots, drone technology, aur robotic process automation shamil hain. Matlab, robots har jagah hain! 🤖🏭"
+        },
+        {
+            "speaker": "user",
+            "text": "Amazing! Space technology ke updates do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Space technology mein Mars missions, reusable rockets, aur satellite internet shamil hain. Matlab, ab space bhi reachable hai! 🚀🪐"
+        },
+        {
+            "speaker": "user",
+            "text": "True! Technology se life kaise improve hoti hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Technology se convenience, efficiency, aur better communication milti hain. Matlab, technology life ko easy aur fun banati hai! 📱💡"
+        },
+        {
+            "speaker": "user",
+            "text": "Thanks Bot! Great info."
+        },
+        {
+            "speaker": "bot",
+            "text": "Anytime! Ab jao aur technology ke maze lo! 🚀😄"
+        }
+    ],
+    "conversation29": [
+        {
+            "speaker": "user",
+            "text": "Bot, health and wellness ke bare mein kuch batao."
+        },
+        {
+            "speaker": "bot",
+            "text": "Health aur wellness ka matlab hai body aur mind dono ko fit rakhna. Exercise, balanced diet, aur mindfulness zaroori hain. 🏋️‍♂️🥗"
+        },
+        {
+            "speaker": "user",
+            "text": "Exercise ke benefits kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Exercise se physical fitness, mental clarity, aur mood improvement hoti hai. Matlab, workout karo aur superhero ban jao! 💪😄"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Balanced diet ke tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Balanced diet ke liye fruits, vegetables, proteins aur whole grains include karo. Aur junk food ko occasional treat rakho, daily nahi! 🍎🍗"
+        },
+        {
+            "speaker": "user",
+            "text": "True! Stress management ke tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Stress management ke liye deep breathing exercises, yoga, aur hobbies pursue karo. Matlab, relax karo aur chill bano! 🧘‍♂️🎨"
+        },
+        {
+            "speaker": "user",
+            "text": "Haha, sahi! Sleep improvement ke tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Sleep improvement ke liye regular sleep schedule follow karo, screens avoid karo bedtime se pehle, aur comfortable environment banao. Matlab, acchi neend, acchi zindagi! 🛌😴"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Hydration ke benefits kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Hydration se energy levels high rehti hain, skin healthy rehti hai, aur body functions properly chalti hain. Matlab, paani peeyo aur glow karo! 💧✨"
+        },
+        {
+            "speaker": "user",
+            "text": "LOL! Mindfulness practices kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Mindfulness practices mein meditation, gratitude journaling, aur nature walks shamil hain. Matlab, present moment mein jeeyo aur khush raho! 🌼🧘‍♂️"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Healthy habits kaise develop karoon?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Healthy habits develop karne ke liye small goals set karo, consistency maintain karo, aur rewards plan karo. Matlab, step by step health ko apna bff banao! 🏃‍♂️🎯"
+        },
+        {
+            "speaker": "user",
+            "text": "True! Fitness routine kaise banau?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Fitness routine banane ke liye cardio, strength training aur flexibility exercises include karo. Aur variety maintain karo, boredom se bachne ke liye! 💪🏋️‍♂️"
+        },
+        {
+            "speaker": "user",
+            "text": "Sahi! Mental health ke tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Mental health ke liye self-care practices follow karo, supportive relationships rakho, aur professional help lene se hesitate mat karo. Matlab, mind ko bhi priority do! 🧠💖"
+        },
+        {
+            "speaker": "user",
+            "text": "LOL! Nutrition myths kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Nutrition myths mein carbs avoid karna, fat-free foods healthy hona, aur supplements zaroori hona shamil hain. Matlab, har cheez ko research karo aur phir believe karo! 📚🍏"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Immunity boost karne ke tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Immunity boost karne ke liye vitamin-rich foods khao, adequate sleep lo, aur regular exercise karo. Matlab, immune system ko strong banao aur health ko power do! 💪🦠"
+        },
+        {
+            "speaker": "user",
+            "text": "True! Healthy aging ke tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Healthy aging ke liye balanced diet follow karo, regular physical activity rakho, aur stress ko manage karo. Matlab, age gracefully aur enjoy karo! 🌸💪"
+        },
+        {
+            "speaker": "user",
+            "text": "Great! Wellness trends kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Wellness trends mein plant-based diets, digital detox, aur mindfulness meditation shamil hain. Matlab, new trends ko adopt karo aur wellness ko priority do! 🌱🧘‍♂️"
+        },
+        {
+            "speaker": "user",
+            "text": "Amazing! Self-care ideas kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Self-care ideas mein bubble bath lo, favorite book padho, aur nature mein time spend karo. Matlab, khud ko pamper karo aur relaxed feel karo! 🛁📚"
+        },
+        {
+            "speaker": "user",
+            "text": "Thanks Bot! Great tips."
+        },
+        {
+            "speaker": "bot",
+            "text": "Anytime! Ab apni health aur wellness ka khayal rakho! 🏋️‍♂️😄"
+        }
+    ],
+    "conversation30": [
+        {
+            "speaker": "user",
+            "text": "Bot, travel tips ke bare mein kuch batao."
+        },
+        {
+            "speaker": "bot",
+            "text": "Travel tips mein planning, packing light, aur local culture ko respect karna shamil hain. Matlab, smart travel karo aur enjoy karo! 🌍✈️"
+        },
+        {
+            "speaker": "user",
+            "text": "Packing tips kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Packing tips mein essentials ko list karo, rolling technique use karo, aur extra space ke liye packing cubes use karo. Matlab, packing ko hassle-free banao! 🧳🌀"
+        },
+        {
+            "speaker": "user",
+            "text": "True! Budget travel ke tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Budget travel ke liye advance bookings karo, local food try karo, aur public transport use karo. Matlab, pocket-friendly travel enjoy karo! 💸🚎"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Jet lag se bachne ke tips kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Jet lag se bachne ke liye travel se pehle sleep schedule adjust karo, hydration maintain karo, aur sunlight exposure lo. Matlab, jet lag ko defeat karo! ✈️💤"
+        },
+        {
+            "speaker": "user",
+            "text": "Sahi! Travel insurance lena zaroori hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Haan, travel insurance lena zaroori hai. Emergencies mein kaam aata hai. Matlab, thoda peace of mind bhi zaroori hai! 🏥✈️"
+        },
+        {
+            "speaker": "user",
+            "text": "LOL! Travel essentials kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Travel essentials mein passport, tickets, phone charger, aur comfortable shoes shamil hain. Matlab, essentials ko miss na karo! 📱🥿"
+        },
+        {
+            "speaker": "user",
+            "text": "Sahi! Travel bucket list kaise banau?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Travel bucket list banane ke liye dream destinations list karo, interests ko consider karo, aur adventurous activities include karo. Matlab, travel goals set karo! 🗺️🎯"
+        },
+        {
+            "speaker": "user",
+            "text": "Amazing! Sustainable travel ke tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Sustainable travel ke liye local businesses support karo, eco-friendly transport use karo, aur waste minimize karo. Matlab, planet ko bhi travel pe le jao! 🌍♻️"
+        },
+        {
+            "speaker": "user",
+            "text": "Great! Group travel ke tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Group travel ke liye clear communication rakho, responsibilities share karo, aur flexible raho. Matlab, group mein travel ka double maza! 😄🚌"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Cultural respect kaise dikhao?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Cultural respect dikhane ke liye local customs aur traditions follow karo, respectful behavior rakho, aur open-minded raho. Matlab, duniya ko samjho aur enjoy karo! 🌎🙏"
+        },
+        {
+            "speaker": "user",
+            "text": "Thanks Bot! Great tips."
+        },
+        {
+            "speaker": "bot",
+            "text": "Anytime! Ab travel ka plan banao aur duniya explore karo! 🌍✈️"
+        }
+    ],
+    "conversation31": [
+        {
+            "speaker": "user",
+            "text": "Bot, space travel kaisay hoti hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Haan bhai, space travel ka matlab hai rocket par beth kar asmaan mein urr jana. Pehlay rocket launch hota hai, phir woh space mein enter karta hai. Bilkul jaise tum bike par beth kar mohalla phir letay ho! 🚀"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Astronaut banne ke liye kya zaroori hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Astronaut banne ke liye science aur engineering mein degree, physical fitness, aur training zaroori hain. Matlab, duniya se upar jana hai to mahnat bhi upar wali chahiye! 🌌👨‍🚀"
+        },
+        {
+            "speaker": "user",
+            "text": "LOL! Space travel ke risks kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Space travel ke risks mein radiation exposure, microgravity effects, aur technical failures shamil hain. Matlab, adventure high hai to risks bhi high hain! ⚠️🚀"
+        },
+        {
+            "speaker": "user",
+            "text": "True! Space travel ka future kya hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Space travel ka future bright hai. Mars missions, space tourism, aur interstellar travel ke plans chal rahe hain. Matlab, future mein hum space mein bhi vacation manayenge! 🪐🌌"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Space station pe life kaisi hoti hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Space station pe life interesting hoti hai. Zero gravity, scientific experiments, aur breathtaking views hote hain. Matlab, daily routine bhi out of this world hoti hai! 🛰️🌍"
+        },
+        {
+            "speaker": "user",
+            "text": "Wow! Space station pe kaise rehte hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Space station pe rehne ke liye special training, strict schedule, aur adaptability zaroori hain. Matlab, discipline aur adventure dono chahiye! 🚀🛌"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Space food kaisa hota hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Space food specially packaged aur preserved hota hai. Lightweight, nutritious, aur easy to eat hota hai. Matlab, taste bhi aur convenience bhi! 🍲🌌"
+        },
+        {
+            "speaker": "user",
+            "text": "LOL! Space suit kaisa hota hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Space suit durable, airtight, aur comfortable hota hai. Astronauts ko harsh space conditions se protect karta hai. Matlab, fashion statement bhi aur lifesaver bhi! 👨‍🚀🛡️"
+        },
+        {
+            "speaker": "user",
+            "text": "True! Spacewalk kya hota hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Spacewalk ka matlab hai space station se bahar nikal kar space mein chalna. Scientific tasks perform karte hain aur breathtaking views enjoy karte hain. Matlab, space mein stroll bhi karte hain! 🚶‍♂️🌌"
+        },
+        {
+            "speaker": "user",
+            "text": "Amazing! Space travel ki history kya hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Space travel ki history mein pehla satellite Sputnik, pehla human Yuri Gagarin, aur moon landing Apollo 11 shamil hain. Matlab, ek se ek milestone achieve hua hai! 📜🚀"
+        },
+        {
+            "speaker": "user",
+            "text": "Great! Space exploration ke goals kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Space exploration ke goals mein new planets discover karna, extraterrestrial life dhoondna, aur human settlement establish karna shamil hain. Matlab, beyond imagination goals hain! 🌌🔭"
+        },
+        {
+            "speaker": "user",
+            "text": "Wow! Space technology kya hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Space technology mein rockets, satellites, space stations, aur rovers shamil hain. Matlab, technology jo space mein bhi kaam kare! 🚀🛰️"
+        },
+        {
+            "speaker": "user",
+            "text": "Thanks Bot! Great info."
+        },
+        {
+            "speaker": "bot",
+            "text": "Anytime! Ab space ke dreams dekho aur explore karo! 🌌🚀"
+        }
+    ],
+    "conversation32": [
+        {
+            "speaker": "user",
+            "text": "Bot, gardening ke tips do."
+        },
+        {
+            "speaker": "bot",
+            "text": "Gardening ke liye soil ko prepare karo, right plants choose karo, aur regular watering aur sunlight do. Matlab, plants ko love aur care do! 🌱🌞"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Indoor plants kaise maintain karen?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Indoor plants ko maintain karne ke liye proper lighting, watering, aur occasional fertilizing zaroori hain. Matlab, indoor garden bhi lush rakhna! 🌿🏠"
+        },
+        {
+            "speaker": "user",
+            "text": "LOL! Garden pests se bachne ke tips kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Garden pests se bachne ke liye natural predators introduce karo, organic pesticides use karo, aur plants ko healthy rakho. Matlab, garden ko pest-free banao! 🐛🌻"
+        },
+        {
+            "speaker": "user",
+            "text": "True! Composting kaise karein?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Composting ke liye kitchen waste aur garden clippings ko compost bin mein daalo, moisture aur aeration maintain karo. Matlab, garden ke liye natural fertilizer banao! ♻️🌿"
+        },
+        {
+            "speaker": "user",
+            "text": "Hahaha! Organic gardening kya hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Organic gardening ka matlab hai chemical-free methods use karna, natural fertilizers aur pest control methods adopt karna. Matlab, health aur environment dono ka khayal! 🌱🌍"
+        },
+        {
+            "speaker": "user",
+            "text": "Wow! Gardening tools kaunse essential hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Gardening tools mein trowel, pruning shears, garden gloves, aur watering can essential hain. Matlab, tools jo gardening ko easy aur fun banaye! 🧤🌿"
+        },
+        {
+            "speaker": "user",
+            "text": "LOL! Vertical gardening kya hoti hai?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Vertical gardening ka matlab hai walls aur vertical spaces use karna plants grow karne ke liye. Matlab, space efficient aur visually appealing gardening! 🏢🌿"
+        },
+        {
+            "speaker": "user",
+            "text": "True! Seasonal gardening tips kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Seasonal gardening tips mein right planting time choose karna, seasonal plants grow karna, aur weather conditions ko monitor karna shamil hain. Matlab, har season ka garden ka maza lo! 🌸🍂"
+        },
+        {
+            "speaker": "user",
+            "text": "Amazing! Herb garden kaise banayein?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Herb garden banane ke liye sunny spot choose karo, well-drained soil use karo, aur different herbs ko space dekar plant karo. Matlab, fresh herbs ka garden create karo! 🌿🌞"
+        },
+        {
+            "speaker": "user",
+            "text": "Great! Garden design ideas kya hain?"
+        },
+        {
+            "speaker": "bot",
+            "text": "Garden design ideas mein color themes choose karna, garden paths aur seating areas include karna, aur different plant heights ko mix karna shamil hain. Matlab, garden ko beautiful aur functional banao! 🌷🪑"
+        },
+        {
+            "speaker": "user",
+            "text": "Thanks Bot! Great tips."
+        },
+        {
+            "speaker": "bot",
+            "text": "Anytime! Ab apna garden start karo aur nature ke saath connect ho jao! 🌿🌺"
+        }
+    ],
+
+        "conversation33": [
+            {
+                "speaker": "user",
+                "text": "Bot, tumhe pata hai mujhe aj kal diet plan chahiye?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Haan bhai, diet plan chahiye? Matlab apni roti se bhi doori? 😂"
+            },
+            {
+                "speaker": "user",
+                "text": "Hahaha, han yaar, kuch acha suggest karo."
+            },
+            {
+                "speaker": "bot",
+                "text": "Theek hai, subah ko ek plate karele ka juice pi lo, aur lunch mein bhindi ki sabzi. Aur dinner mein... salad! 😄"
+            },
+            {
+                "speaker": "user",
+                "text": "Yeh sab tou itna boring lag raha hai."
+            },
+            {
+                "speaker": "bot",
+                "text": "Arre bhai, health aur taste dono ek saath rare combination hain. Magar ek tip: har plate ko Instagram-worthy banao, fir dekhna maza aye ga! 📸🥗"
+            },
+            {
+                "speaker": "user",
+                "text": "Hmmm... acha breakfast ka idea do, jo tasty bhi ho aur healthy bhi."
+            },
+            {
+                "speaker": "bot",
+                "text": "Subah subah ek smoothie bowl bana lo. Thoda yogurt, fruits, aur nuts mila lo. Lagay ga dessert kha rahe ho! 🥣🍓"
+            },
+            {
+                "speaker": "user",
+                "text": "Wah! Yeh tou bht acha idea hai. Lunch ka kya karun?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Lunch mein grilled chicken aur saath mein quinoa salad. Taste bhi milega aur protein bhi. 💪🍗"
+            },
+            {
+                "speaker": "user",
+                "text": "Aur dinner? Kuch aisa jo jaldi ban jaye."
+            },
+            {
+                "speaker": "bot",
+                "text": "Dinner ke liye stir-fried veggies aur brown rice. Jaldi bhi ban jata hai aur healthy bhi! 🌶️🍚"
+            },
+            {
+                "speaker": "user",
+                "text": "Chalo thik hai, kal se shuru karte hain. Sweet cravings ka kya karun?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Sweet cravings ke liye dark chocolate! Thoda sa hi sahi, magar satisfying. 🍫"
+            },
+            {
+                "speaker": "user",
+                "text": "Haha, mazay ka lag raha hai. Tumne kabhi diet follow ki?"
+            },
+            {
+                "speaker": "bot",
+                "text": "Haan, virtual diet follow ki thi. Ek baar main ne sirf 0s aur 1s khaaye. 😂"
+    
+            }
+
+        ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+    
+
